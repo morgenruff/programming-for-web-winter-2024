@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24853dbb-994b-4f96-9082-5c026d3032db" name="Changes" comment=".gitignore updates" />
+    <list default="true" id="24853dbb-994b-4f96-9082-5c026d3032db" name="Changes" comment="added week 1 files">
+      <change afterPath="$PROJECT_DIR$/week-1/conditionals/conditionals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-1/conditionals/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-1/console-prompt/console_prompt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-1/console-prompt/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-1/setting-up-p5js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-1/setting-up-p5js/starting-p5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="ad46af30-7d28-4831-a96c-3edbb222a845" name="initial commit, getting things set up" comment="initial commit, getting things set up" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +97,7 @@
       <updated>1705456132550</updated>
       <workItem from="1705456133615" duration="10099000" />
       <workItem from="1705536932545" duration="611000" />
-      <workItem from="1705537553752" duration="1052000" />
+      <workItem from="1705537553752" duration="1341000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, getting things set up">
       <option name="closed" value="true" />
@@ -155,7 +163,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705538338311</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="removed files">
+      <option name="closed" value="true" />
+      <created>1705538730335</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1705538730335</updated>
+    </task>
+    <task id="LOCAL-00010" summary="removed files, cleaned up directories">
+      <option name="closed" value="true" />
+      <created>1705538802762</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1705538802762</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,7 +226,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit, getting things set up" />
     <MESSAGE value=".gitignore updates" />
-    <option name="LAST_COMMIT_MESSAGE" value=".gitignore updates" />
+    <MESSAGE value="removed files" />
+    <MESSAGE value="removed files, cleaned up directories" />
+    <MESSAGE value="added week 1 files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added week 1 files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
