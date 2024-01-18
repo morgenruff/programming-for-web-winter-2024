@@ -1,2 +1,6 @@
-# programming-for-web
-files for web programming course at MCAD, winter 2024
+# Programming for Web, Winter 2024
+## by Morgen Ruff
+
+Starting JavaScript programming in my MCAD MAGWD course.
+
+🧑🏼‍💻
