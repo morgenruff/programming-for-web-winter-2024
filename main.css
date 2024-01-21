@@ -1,25 +1,31 @@
 @import url("https://use.typekit.net/fjj8qwf.css");
 
 :root {
-	/* --f-rocreg: 'Roc Grotesk Regular', sans-serif;
+	--f-rocreg: 'Roc Grotesk Regular', sans-serif;
 	--f-rocbold: 'Roc Grotesk Bold', sans-serif;
 	--f-roccondreg: 'Roc Grotesk Condensed', sans-serif;
 	--f-roccondbold: 'Roc Grotesk Condensed Bold', sans-serif;
 	--f-rocwide: 'Roc Grotesk Wide', sans-serif;
-	--f-rocwidebold: 'Roc Grotesk Wide Bold', sans-serif; */
+	--f-rocwidebold: 'Roc Grotesk Wide Bold', sans-serif;
 	--c-darkblue: #393FAD;
 	--c-green: #4B902F;
 	--c-darkbrown: #562E1C;
-	--c-salmon: #E47D4E;
+	--c-salmon: #e47d4e;
 	--c-medblue: #4F57F0;
-	text-decoration: none;
+	background-color: var(--c-darkblue);
 }
 
 .page-body {
 	margin: 3em;
-	background-color: --c-darkblue;
+	color: var(--c-salmon);
+	font-family: var(--f-rocreg);
 }
 
-h1 {
-	
+a {
+	color: var(--c-green);
+	text-decoration: none;
+	&:hover {
+		color: var(--c-salmon);
+	}
 }
+
