@@ -1,3 +1,4 @@
-.idea/
-.nova/
+/.idea/
+/.nova/
 .DS_Store
+/node_modules
