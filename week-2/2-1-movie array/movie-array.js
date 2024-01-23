@@ -12,9 +12,6 @@ const yourFavoriteMovie = prompt('What is your favorite movie?');
 
 console.log(yourFavoriteMovie);
 
-const combinedFavorites = [
-	favoriteMovies.join(', '),
-	yourFavoriteMovie
-];
+favoriteMovies.push(yourFavoriteMovie);
 
-console.log('Our combined favorite movies are ' + combinedFavorites.toString() + '!');
+console.log('Our combined favorite movies are ' + favoriteMovies.toString() + '. Thanks for adding to my list!');
