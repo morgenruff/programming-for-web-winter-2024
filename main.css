@@ -1,31 +1,41 @@
 @import url("https://use.typekit.net/fjj8qwf.css");
 
 :root {
-	--f-rocreg: 'Roc Grotesk Regular', sans-serif;
-	--f-rocbold: 'Roc Grotesk Bold', sans-serif;
-	--f-roccondreg: 'Roc Grotesk Condensed', sans-serif;
-	--f-roccondbold: 'Roc Grotesk Condensed Bold', sans-serif;
-	--f-rocwide: 'Roc Grotesk Wide', sans-serif;
-	--f-rocwidebold: 'Roc Grotesk Wide Bold', sans-serif;
-	--c-darkblue: #393FAD;
-	--c-green: #4B902F;
-	--c-darkbrown: #562E1C;
-	--c-salmon: #e47d4e;
-	--c-medblue: #4F57F0;
-	background-color: var(--c-darkblue);
+  --f-rocreg: roc-grotesk, sans-serif; /* 400, 600 */
+  --f-roccond: roc-grotesk-condensed, sans-serif; /* 400, 600 */
+  --f-rocwide: roc-grotesk-wide, sans-serif; /* 400, 600 */
+  --c-darkblue: #393fad;
+  --c-green: #4b902f;
+  --c-darkbrown: #562e1c;
+  --c-salmon: #e47d4e;
+  --c-medblue: #4f57f0;
+  --c-lightblue: hsl(237, 84%, 93%);
+  background-color: var(--c-darkblue);
+  font-family: var(--f-rocreg);
+}
+
+.main-header {
+  background-color: var(--c-darkbrown);
+  width: 100%;
+}
+
+h1 {
+  font-family: var(--f-rocwide);
+  font-weight: 600;
+  color: var(--c-medblue);
+  margin: 0;
+  padding: 1rem;
 }
 
 .page-body {
-	margin: 3em;
-	color: var(--c-salmon);
-	font-family: var(--f-rocreg);
+  margin: 3em;
+  color: var(--c-salmon);
 }
 
 a {
-	color: var(--c-green);
-	text-decoration: none;
-	&:hover {
-		color: var(--c-salmon);
-	}
+  color: var(--c-green);
+  text-decoration: none;
+  &:hover {
+    color: var(--c-salmon);
+  }
 }
-
