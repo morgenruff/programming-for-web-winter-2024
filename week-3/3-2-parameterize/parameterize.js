@@ -5,6 +5,7 @@ function setup() {
 	background('rgb(255, 239, 151)');
 	heading = createElement('h1', ['Parameterized Tile(s)']);
 	heading.position(10, 10);
+	heading.style.position = 'static';
 }
 
 function createTile(originX, originY, primaryColor, secondaryColor, tertiaryColor) {
