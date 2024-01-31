@@ -45,3 +45,37 @@ const myObject = {
 
 myObject.getPosition ();
 console.log(myObject.x, myObject.y);
+
+// sync discussion demos - January 30, 2024
+
+function sayHelloPerson(name) {
+	alert('Howdy ' + name + '!');
+}
+sayHelloPerson('Morgen');
+
+const firstNumber = window.prompt('number'); // create 1st prompt
+const secondNumber = window.prompt('different number'); // create 2nd prompt
+console.log(Number(firstNumber) + Number(secondNumber));
+
+function calculator(number1, number2) {
+	let modifiedNumber1 = number1;
+	let modifiedNumber2 = number2;
+	if(typeof number1 === 'string') {
+		let modifiedNumber1 = number1;
+		modifiedNumber1 = Number(number1)
+	}
+	if(typeof number2 === 'string') {
+		let modifiedNumber2 = number2;
+		modifiedNumber2 = Number(number2)
+	}
+	console.log(modifiedNumber1 + modifiedNumber2);
+}
+
+calculator(); // get numbers from prompt
+
+function nothingReally () {
+	console.log('Nothing to see here');
+}
+const whatIsTheFunction = nothingReally();
+
+console.log('this is the variable what is the function, ', whatIsTheFunction)
