@@ -82,79 +82,43 @@ function createTile(originX, originY, primaryColor, secondaryColor, tertiaryColo
 }
 
 // function draw() {
-// 		let prim = 'rgb(255, 242, 197)';
-// 		let sec = 'rgb(93, 88, 205)';
-// 		let tert = 'rgb(255, 239, 151)';
+// 		const prim = color(255, 242, 197)
+// 		const sec = color(93, 88, 205)
+// 		const tert = color(255, 239, 151)
 // 		const tiles = [
 // 			{
-// 				originX: 0,
-// 				originY: 0,
-// 				primaryColor: prim,
-// 				secondaryColor: sec,
-// 				tertiaryColor: tert
+// 				arg: createTile(0, 0, prim, sec, tert)
 // 			},
 // 			{
-// 				originX: 0,
-// 				originY: 200,
-// 				primaryColor: sec,
-// 				secondaryColor: prim,
-// 				tertiaryColor: tert
+// 				arg: createTile(0, 200, sec, prim, tert)
 // 			},
 // 			{
-// 				originX: 0,
-// 				originY: 200,
-// 				primaryColor: prim,
-// 				secondaryColor: sec,
-// 				tertiaryColor: tert
+// 				arg: createTile(0, 200, prim, sec, tert)
 // 			},
 // 			{
-// 				originX: 200,
-// 				originY: -400,
-// 				primaryColor: sec,
-// 				secondaryColor: prim,
-// 				tertiaryColor: tert
+// 				arg: createTile(200, -400, sec, prim, tert)
 // 			},
 // 			{
-// 				originX: 0,
-// 				originY: 200,
-// 				primaryColor: prim,
-// 				secondaryColor: sec,
-// 				tertiaryColor: tert
+// 				arg: createTile(0, 200, prim, sec, tert)
 // 			},
 // 			{
-// 				x: 0,
-// 				originY: 200,
-// 				primaryColor: sec,
-// 				secondaryColor: prim,
-// 				tertiaryColor: tert
+// 				arg: createTile(0, 200, sec, prim, tert)
 // 			},
 // 			{
-// 				originX: 200,
-// 				originY: -400,
-// 				primaryColor: prim,
-// 				secondaryColor: sec,
-// 				tertiaryColor: tert
+// 				arg: createTile(200, -400, prim, sec, tert)
 // 			},
 // 			{
-// 				originX: 0,
-// 				originY: 200,
-// 				primaryColor: prim,
-// 				secondaryColor: sec,
-// 				tertiaryColor: tert
+// 				arg: createTile(0, 200, sec, prim, tert)
 // 			},
 // 			{
-// 				originX: 0,
-// 				originY: 200,
-// 				primaryColor: prim,
-// 				secondaryColor: sec,
-// 				tertiaryColor: tert
+// 				arg: createTile(0, 200, prim, sec, tert)
 // 			},
 // 		]
 // 		for (let i = 0; i <= tiles.length; i++) {
 // 			createTile(tiles[i])
 // 		}
 // 		noLoop()
-// };
+// }
 	
 function draw() {	
 	createTile(0, 0, 'rgb(255, 242, 197)', 'rgb(93, 88, 205)', 'rgb(255, 239, 151)');
