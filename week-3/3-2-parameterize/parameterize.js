@@ -7,7 +7,7 @@ function createTile(originX, originY, primaryColor, secondaryColor, tertiaryColo
 	fill(primaryColor);
 	stroke(secondaryColor);
 	strokeWeight(5);
-	rect(0, 0, 200, 200);
+	rect(0, 0, 200, 200); // background tile
 	line(0, 20, 200, 20);
 	line(0, 40, 200, 40);
 	line(0, 60, 200, 60);
@@ -76,7 +76,82 @@ function createTile(originX, originY, primaryColor, secondaryColor, tertiaryColo
 	rect(75, 75, 50, 50);
 }
 
-function draw() {
+// function draw() {
+// 		let prim = 'rgb(255, 242, 197)';
+// 		let sec = 'rgb(93, 88, 205)';
+// 		let tert = 'rgb(255, 239, 151)';
+// 		const tiles = [
+// 			{
+// 				originX: 0,
+// 				originY: 0,
+// 				primaryColor: prim,
+// 				secondaryColor: sec,
+// 				tertiaryColor: tert
+// 			},
+// 			{
+// 				originX: 0,
+// 				originY: 200,
+// 				primaryColor: sec,
+// 				secondaryColor: prim,
+// 				tertiaryColor: tert
+// 			},
+// 			{
+// 				originX: 0,
+// 				originY: 200,
+// 				primaryColor: prim,
+// 				secondaryColor: sec,
+// 				tertiaryColor: tert
+// 			},
+// 			{
+// 				originX: 200,
+// 				originY: -400,
+// 				primaryColor: sec,
+// 				secondaryColor: prim,
+// 				tertiaryColor: tert
+// 			},
+// 			{
+// 				originX: 0,
+// 				originY: 200,
+// 				primaryColor: prim,
+// 				secondaryColor: sec,
+// 				tertiaryColor: tert
+// 			},
+// 			{
+// 				x: 0,
+// 				originY: 200,
+// 				primaryColor: sec,
+// 				secondaryColor: prim,
+// 				tertiaryColor: tert
+// 			},
+// 			{
+// 				originX: 200,
+// 				originY: -400,
+// 				primaryColor: prim,
+// 				secondaryColor: sec,
+// 				tertiaryColor: tert
+// 			},
+// 			{
+// 				originX: 0,
+// 				originY: 200,
+// 				primaryColor: prim,
+// 				secondaryColor: sec,
+// 				tertiaryColor: tert
+// 			},
+// 			{
+// 				originX: 0,
+// 				originY: 200,
+// 				primaryColor: prim,
+// 				secondaryColor: sec,
+// 				tertiaryColor: tert
+// 			},
+// 		]
+// 		for (let i = 0; i <= tiles.length; i++) {
+// 			createTile(tiles[i])
+// 		}
+// 		noLoop()
+// };
+	
+function draw() {	
 	createTile(0, 0, 'rgb(255, 242, 197)', 'rgb(93, 88, 205)', 'rgb(255, 239, 151)');
 	createTile(0, 200, 'rgb(93, 88, 205)', 'rgb(255, 242, 197)', 'rgb(255, 239, 151)');
 	createTile(0, 200, 'rgb(255, 242, 197)', 'rgb(93, 88, 205)', 'rgb(255, 239, 151)');
@@ -86,5 +161,4 @@ function draw() {
 	createTile(200, -400, 'rgb(255, 242, 197)', 'rgb(93, 88, 205)', 'rgb(255, 239, 151)');
 	createTile(0, 200, 'rgb(93, 88, 205)', 'rgb(255, 242, 197)', 'rgb(255, 239, 151)');
 	createTile(0, 200, 'rgb(255, 242, 197)', 'rgb(93, 88, 205)', 'rgb(255, 239, 151)');
-	noLoop();
 }
