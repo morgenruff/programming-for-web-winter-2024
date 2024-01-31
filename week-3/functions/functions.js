@@ -79,3 +79,35 @@ function nothingReally () {
 const whatIsTheFunction = nothingReally();
 
 console.log('this is the variable what is the function, ', whatIsTheFunction)
+
+// p5.js DOM video demo
+
+let heading;
+let button;
+let input;
+let message = 'type something to change me';
+
+function sayMessage() {
+	message = input.value();
+	input.value('');
+}
+
+function setup() {
+	createCanvas(600, 600);
+	background('rgb(255, 239, 151)');
+	heading = createElement('h1', ['Parameterized Tile']);
+	heading.position(10, 10);
+	button = createButton('say hi');
+	button.size(100, 24);
+	button.position(10, 100);
+	button.mousePressed(sayMessage);
+	input = createInput('');
+	input.position(10, 70);
+}
+
+function draw() {
+	background('rgb(255, 239, 151)');
+	textSize(14);
+	fill('purple');
+	text(message.toString(), 10, 130);
+}

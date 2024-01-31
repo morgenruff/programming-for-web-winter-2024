@@ -1,5 +1,10 @@
+let heading;
+
 function setup() {
 	createCanvas(600, 600);
+	background('rgb(255, 239, 151)');
+	heading = createElement('h1', ['Parameterized Tile(s)']);
+	heading.position(10, 10);
 }
 
 function createTile(originX, originY, primaryColor, secondaryColor, tertiaryColor) {
@@ -161,4 +166,5 @@ function draw() {
 	createTile(200, -400, 'rgb(255, 242, 197)', 'rgb(93, 88, 205)', 'rgb(255, 239, 151)');
 	createTile(0, 200, 'rgb(93, 88, 205)', 'rgb(255, 242, 197)', 'rgb(255, 239, 151)');
 	createTile(0, 200, 'rgb(255, 242, 197)', 'rgb(93, 88, 205)', 'rgb(255, 239, 151)');
+	noLoop();
 }
