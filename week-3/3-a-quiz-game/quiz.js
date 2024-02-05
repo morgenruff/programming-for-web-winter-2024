@@ -81,7 +81,7 @@ function checkQuestion() {
 
 // reset game by reloading the page...
 function reset() {
-	window.location.reload(draw);	
+	window.location.reload();	
 }
 
 // canvas setup
