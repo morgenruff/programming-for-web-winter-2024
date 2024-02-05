@@ -32,7 +32,7 @@ let quiz = [
 	},
 	{
 		question: 'what metric unit of measurement is the analogue to fahrenheit in the imperial system?',
-		answer: 'celcius'
+		answer: 'celsius'
 	},
 	{
 		question: 'which body oversees the metric system? (hint: its acronym is ISU if taking English word order literally)',
