@@ -33,11 +33,11 @@ function draw() {
 	noLoop(); // console goes crazy without this!
 }
 
-function mousePressed() {
-	for (let j = 0; j < myCard.length; j++) { // iterate through card array
-		let distance = dist(mouseX, mouseY, myCard[j].x, myCard[j].y); // define click coordinates
-		if ((distance >= myCard[j].x) && (distance <= (myCard[j].x + cardWidth)) && (distance >= myCard[j].y) && (distance <= (myCard[j].y + cardHeight))); {
-			console.log('you clicked card #' + myCard[j].id); // if inside rect + click, console log the click
-		}
-	}
-}
+// function mousePressed() {
+// 	for (let j = 0; j < myCard.length; j++) { // iterate through card array
+// 		let distance = dist(mouseX, mouseY, myCard[j].x, myCard[j].y); // define click coordinates
+// 		if (((distance >= startX) && (distance <= endX)) && ((distance >= startY) && (distance <= endY))); {
+// 			console.log('you clicked card #' + myCard[j].id); // if inside rect + click, console log the click
+// 		}
+// 	}
+// }
