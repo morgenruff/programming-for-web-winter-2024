@@ -50,5 +50,4 @@ window.setTimeout (() => { // runs only once at the start
 			alert('done'); // window alert at completion
 		}
 	}, speed); // speed of block movement as declared globally, can be dynamically updated
-
 }, 1500); // ms timeout delay at start
