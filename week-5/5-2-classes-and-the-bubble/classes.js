@@ -48,6 +48,5 @@ function draw() {
 		rectangle.show([i]);
 		rectangle.morph([i]);
 	}
-	
 }
 
