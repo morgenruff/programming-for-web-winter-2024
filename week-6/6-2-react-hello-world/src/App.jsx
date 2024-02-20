@@ -7,7 +7,7 @@ function App() {
   const [count, setCount] = useState(0)
   const hi = 'Hello World'
   const boo = 'What\'s wrong?'
-  const [happy, setHappy] = useState(true)
+  const [happy, setHappy] = useState(true) // state of happiness - toggle
   const isItOn = true
   
   return (
