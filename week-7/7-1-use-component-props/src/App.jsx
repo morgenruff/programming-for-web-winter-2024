@@ -26,14 +26,14 @@ function App() {
             name={camelids[0].name}
             fact={camelids[0].fact}
           />
-          <img src={llamaImg} alt={name}/>
+          <img src={llamaImg} alt={camelids[0].name}/>
         </div>
         <div>
           <Camelid 
             name={camelids[1].name}
             fact={camelids[1].fact}
           />
-          <img src={alpacaImg} alt={name}/>
+          <img src={alpacaImg} alt={camelids[1].name}/>
         </div>
       </div>
     </>
