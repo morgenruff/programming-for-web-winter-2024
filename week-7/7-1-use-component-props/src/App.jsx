@@ -5,8 +5,13 @@ import alpacaImg from './assets/alpacas.jpeg'
 
 function App() {
   const camelids = [
-    {name: 'llamas', fact: 'llama ancestors are thought to have originated in the Great Plains region of the US around 40 million years ago'},
-    {name: 'alpacas', fact: 'alpacas use a communal dung pile :)'}
+    {name: 'llamas', 
+    fact: 'llama ancestors are thought to have originated in the Great Plains region of the US around 40 million years ago', 
+    image: <img src={llamaImg} alt='llamas on macchu picchu'/>},
+    
+    {name: 'alpacas', 
+    fact: 'alpacas use a communal dung pile :)', 
+    image: <img src={alpacaImg} alt='alpacas bunched on a hill'/>}
   ]
   
   return (
@@ -21,20 +26,16 @@ function App() {
       }}>
         <h1>All About Camelids</h1>
         <p>both are great</p>
-        <div>
-          <Camelid 
-            name={camelids[0].name}
-            fact={camelids[0].fact}
-          />
-          <img src={llamaImg} alt={camelids[0].name}/>
-        </div>
-        <div>
-          <Camelid 
-            name={camelids[1].name}
-            fact={camelids[1].fact}
-          />
-          <img src={alpacaImg} alt={camelids[1].name}/>
-        </div>
+        <Camelid 
+          name={camelids[0].name}
+          fact={camelids[0].fact}
+          image={camelids[0].image}
+        />
+        <Camelid 
+          name={camelids[1].name}
+          fact={camelids[1].fact}
+          image={camelids[1].image}
+        />
       </div>
     </>
   )
