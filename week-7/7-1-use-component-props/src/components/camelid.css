@@ -1,0 +1,8 @@
+.camelidCard {
+	width: available;
+	margin: 1em auto;
+	padding: 10px;
+	border: 2px solid antiquewhite;
+	border-radius: 5px;
+	background-color: lightcoral;
+}
