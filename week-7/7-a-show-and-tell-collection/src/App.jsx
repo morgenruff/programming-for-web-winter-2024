@@ -63,7 +63,7 @@ function App() {
 
   return (
     <>
-      <h1>Morgen's Favorite Art Books</h1>
+      <h1>Morgen&amp;s Favorite Art Books</h1>
       <p>Here are some of my favorite art books that I return to often.</p>
       <table className='book-table'>
         <thead>
