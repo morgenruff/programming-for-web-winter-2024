@@ -1,0 +1,21 @@
+@font-face {
+	font-family: 'Heal The Web A';
+	src: local('Heal the Web A'), url(./HealTheWebA-Regular.otf) format('opentype');
+}
+
+body {
+	font-family: 'Heal The Web A', sans-serif;
+	padding: 1em;
+	background-color: #879eb9;
+	margin: 0 auto;
+}
+
+h1 {
+	color: #385b24;
+	margin: 0;
+}
+
+p {
+	margin: 1em 0;
+	color: #385b24;
+}

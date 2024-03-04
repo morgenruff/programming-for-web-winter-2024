@@ -1,15 +1,31 @@
 .book-table {
-	width: 95%;
-	border: 1px solid black;
+	width: 100%;
+	border: 2px dotted black;
 	border-collapse: collapse;
+	background-color: #b0bdad;
+}
+
+.book-table thead {
+	font-size: x-large;
+}
+
+.book-table td {
+	font-size: large;
+}
+
+.book-table tr:hover {
+	background-color: #c4ab8d;
+	color: #933711;
+	cursor: grab;
 }
 
 .book-table thead, .book-table tr {
-	border: 1px solid black;
+	border: 2px dotted black;
 }
 
 .book-table td, .book-table th {
-	border: 1px solid black;
+	border: 2px dotted #888888;
+	padding: 1em;
 }
 
 .book-table img {

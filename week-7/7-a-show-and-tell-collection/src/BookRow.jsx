@@ -1,10 +1,10 @@
 import './BookRow.css';
 
-export function BookRow(cover, title, artist, year, publisher, odd) {
+export function BookRow({cover, name, artist, year, publisher, odd}) {
   return (
     <tr className={odd && 'odd'}>
-      <td><img src={cover} alt={title}/></td>
-      <td>{bookname}</td>
+      <td><img src={cover} alt={name}/></td>
+      <td>{name}</td>
       <td>{artist}</td>
       <td>{year}</td>
       <td>{publisher}</td>
