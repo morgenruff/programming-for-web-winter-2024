@@ -1,5 +1,7 @@
 import './BookRow.css';
-export function BookRow(cover, title, artist, year, publisher, odd) {
+
+function BookRow(cover, title, artist, year, publisher, odd) {
+  const rowClass
   return (
     <tr className={odd && 'odd'}>
       <td><img src={cover} alt={title}/></td>
@@ -10,3 +12,5 @@ export function BookRow(cover, title, artist, year, publisher, odd) {
     </tr>
   )
 }
+
+export default BookRow;

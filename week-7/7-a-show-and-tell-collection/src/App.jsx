@@ -79,7 +79,7 @@ function App() {
           {bookArray.map((book, index) => {
             return (
             <BookRow
-              key={book.id}
+              key={index}
               odd={index % 2 === 0}
               cover={book.cover}
               title={book.title}
