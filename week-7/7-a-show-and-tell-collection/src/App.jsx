@@ -6,7 +6,7 @@ function App() {
     {
       id: 0,
       cover: './bc-its-all-true.jpeg',
-      title: 'It\'s All True',
+      title: 'It&amp;s All True',
       artist: 'Bruce Conner',
       year: '2016',
       publisher: 'University of California Press / SFMoMA'
@@ -14,8 +14,8 @@ function App() {
     {
       id: 1,
       cover: './moving-pictures-the-complete-film-posters-of-hans-hillmann.jpg',
-      title: 'Moving Pictures: The Complete Film Posters of Hans Hillman',
-      artist: 'Hans Hillman',
+      title: 'Moving Pictures: The Complete Film Posters of Hans Hillmann',
+      artist: 'Hans Hillmann',
       year: '2020',
       publisher: 'Optik Books'
     },
