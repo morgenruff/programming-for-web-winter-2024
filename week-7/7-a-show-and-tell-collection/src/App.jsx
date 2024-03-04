@@ -6,7 +6,7 @@ function App() {
     {
       id: 0,
       cover: './bc-its-all-true.jpeg',
-      title: 'It&amp;s All True',
+      bookname: 'It\'s All True',
       artist: 'Bruce Conner',
       year: '2016',
       publisher: 'University of California Press / SFMoMA'
@@ -14,7 +14,7 @@ function App() {
     {
       id: 1,
       cover: './moving-pictures-the-complete-film-posters-of-hans-hillmann.jpg',
-      title: 'Moving Pictures: The Complete Film Posters of Hans Hillmann',
+      bookname: 'Moving Pictures: The Complete Film Posters of Hans Hillmann',
       artist: 'Hans Hillmann',
       year: '2020',
       publisher: 'Optik Books'
@@ -22,7 +22,7 @@ function App() {
     {
       id: 2,
       cover: './sheila-hicks.jpg',
-      title: 'Sheila Hicks: Weaving as Metaphor',
+      bookname: 'Sheila Hicks: Weaving as Metaphor',
       artist: 'Sheila Hicks',
       year: '2006',
       publisher: 'Yale University Press'
@@ -30,7 +30,7 @@ function App() {
     {
       id: 3,
       cover: './sekula-fish-story.jpg',
-      title: 'Fish Story',
+      bookname: 'Fish Story',
       artist: 'Allan Sekula',
       year: '1995/2018',
       publisher: 'MACK Books'
@@ -38,15 +38,15 @@ function App() {
     {
       id: 4,
       cover: './eric-crosby-ordinary-pictures.jpg',
-      title: 'Ordinary Pictures',
+      bookname: 'Ordinary Pictures',
       artist: 'Eric Crosby (ed.)',
       year: '2016',
       publisher: 'Walker Art Center'
     },
     {
       id: 5,
-      cover: './michael-snow-cover-to-cover',
-      title: 'Cover to Cover',
+      cover: './michael-snow-cover-to-cover.jpg',
+      bookname: 'Cover to Cover',
       artist: 'Michael Snow',
       year: '1974/2019',
       publisher: 'Primary Information'
@@ -54,12 +54,12 @@ function App() {
     {
       id: 6,
       cover: './william-eggleston-guide.jpg',
-      title: 'William Eggleston\'s Guide',
+      bookname: 'William Eggleston\'s Guide',
       artist: 'William Eggleston',
       year: '2002',
       publisher: 'The Museum of Modern Art'
     },
-  ]
+  ];
 
   return (
     <>
@@ -79,10 +79,10 @@ function App() {
           {bookArray.map((book, index) => {
             return (
             <BookRow
-              key={index}
+              key={id}
               odd={index % 2 === 0}
               cover={book.cover}
-              title={book.title}
+              bookname={book.bookname}
               artist={book.artist}
               year={book.year}
               publisher={book.publisher}
