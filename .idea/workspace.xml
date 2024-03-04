@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24853dbb-994b-4f96-9082-5c026d3032db" name="Changes" comment="7.a complete">
-      <change beforePath="$PROJECT_DIR$/week-7/7-a-show-and-tell-collection/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/week-7/7-a-show-and-tell-collection/.gitignore" afterDir="false" />
+    <list default="true" id="24853dbb-994b-4f96-9082-5c026d3032db" name="Changes" comment="update gitignore + dist">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <list id="ad46af30-7d28-4831-a96c-3edbb222a845" name="changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +131,7 @@
       <workItem from="1709399937478" duration="3104000" />
       <workItem from="1709418923722" duration="1051000" />
       <workItem from="1709430710488" duration="10764000" />
-      <workItem from="1709557692459" duration="4385000" />
+      <workItem from="1709557692459" duration="4511000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, getting things set up">
       <option name="closed" value="true" />
@@ -277,7 +277,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709562024242</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="update gitignore + dist">
+      <option name="closed" value="true" />
+      <created>1709562108481</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1709562108481</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -335,7 +343,8 @@
     <MESSAGE value="setup assignment 7 - install react" />
     <MESSAGE value="7.a progress - fixing problems" />
     <MESSAGE value="7.a complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="7.a complete" />
+    <MESSAGE value="update gitignore + dist" />
+    <option name="LAST_COMMIT_MESSAGE" value="update gitignore + dist" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
