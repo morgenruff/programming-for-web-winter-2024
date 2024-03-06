@@ -74,7 +74,7 @@
     "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "settings.editor.splitter.proportion": "0.160383",
     "vue.rearranger.settings.migration": "true"
   },
@@ -139,7 +139,7 @@
       <workItem from="1709399937478" duration="3104000" />
       <workItem from="1709418923722" duration="1051000" />
       <workItem from="1709430710488" duration="10764000" />
-      <workItem from="1709557692459" duration="15452000" />
+      <workItem from="1709557692459" duration="20058000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, getting things set up">
       <option name="closed" value="true" />
@@ -325,7 +325,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709692427580</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="tiny IDE prefs update">
+      <option name="closed" value="true" />
+      <created>1709692936037</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1709692936037</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -388,7 +396,8 @@
     <MESSAGE value="8.1 progress, but broken image - come back to" />
     <MESSAGE value="8.1 complete" />
     <MESSAGE value="homepage update 8.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="homepage update 8.1" />
+    <MESSAGE value="tiny IDE prefs update" />
+    <option name="LAST_COMMIT_MESSAGE" value="tiny IDE prefs update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
