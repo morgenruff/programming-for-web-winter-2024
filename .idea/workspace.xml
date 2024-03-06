@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24853dbb-994b-4f96-9082-5c026d3032db" name="Changes" comment="8.1 progress, but broken image - come back to">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-8/8-1-swap-images-using-state/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/week-8/8-1-swap-images-using-state/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-8/8-1-swap-images-using-state/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/week-8/8-1-swap-images-using-state/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-8/8-1-swap-images-using-state/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/week-8/8-1-swap-images-using-state/src/index.css" afterDir="false" />
+    <list default="true" id="24853dbb-994b-4f96-9082-5c026d3032db" name="Changes" comment="8.1 complete">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <list id="ad46af30-7d28-4831-a96c-3edbb222a845" name="changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -135,7 +132,7 @@
       <workItem from="1709399937478" duration="3104000" />
       <workItem from="1709418923722" duration="1051000" />
       <workItem from="1709430710488" duration="10764000" />
-      <workItem from="1709557692459" duration="14808000" />
+      <workItem from="1709557692459" duration="14991000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, getting things set up">
       <option name="closed" value="true" />
@@ -305,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709650485460</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="8.1 complete">
+      <option name="closed" value="true" />
+      <created>1709692326179</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1709692326179</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,7 +371,8 @@
     <MESSAGE value="update gitignore + dist" />
     <MESSAGE value="7.a homepage update" />
     <MESSAGE value="8.1 progress, but broken image - come back to" />
-    <option name="LAST_COMMIT_MESSAGE" value="8.1 progress, but broken image - come back to" />
+    <MESSAGE value="8.1 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.1 complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
