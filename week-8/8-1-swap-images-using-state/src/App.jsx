@@ -4,26 +4,26 @@ import llamaImg from './assets/llamas.jpeg'
 import alpacaImg from './assets/alpacas.jpeg'
 
 function App() {
-  const [camelidImg, setCamelidImg] = useState({llamaImg});
+  const [camelidImg, setCamelidImg] = useState(llamaImg);
 
   return (
     <>
       <h1>llamas &amp; alpacas, oh my!</h1>
       <p>click a button to select your camelid</p>
       <div>
-        <button onClick={() => {
-          setCamelidImg({llamaImg})
-        }
-        }>
-          llama
-        </button>
-        <button onClick={() => {
-          setCamelidImg({alpacaImg})
-        }
-        }>
-          alpaca
-        </button>
         <img src={camelidImg} alt='camelid of choice'/>
+        <div>
+          <button onClick={() => {
+            setCamelidImg(llamaImg)
+          }}>
+            llama
+          </button>
+          <button onClick={() => {
+            setCamelidImg(alpacaImg)
+          }}>
+            alpaca
+          </button>
+        </div>
       </div>
     </>
   )

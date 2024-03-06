@@ -4,4 +4,11 @@
   padding: 2rem;
   text-align: center;
 }
-
+img {
+  margin: 1em;
+  border: 3px dotted rgba(138, 240, 252, 0.87);
+  border-radius: 20px;
+}
+button {
+  margin: 0 0.5em;
+}
