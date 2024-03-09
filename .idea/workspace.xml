@@ -42,6 +42,10 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/week-8/8-2-pass-events-thru-components/src/AnimalComponent.jsx" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -72,13 +76,15 @@
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/mcr/Library/Mobile Documents/com~apple~CloudDocs/mcad/2-ws-2024/programming-for-web",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
     "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "settings.editor.splitter.proportion": "0.160383",
     "vue.rearranger.settings.migration": "true"
   },
@@ -143,7 +149,7 @@
       <workItem from="1709399937478" duration="3104000" />
       <workItem from="1709418923722" duration="1051000" />
       <workItem from="1709430710488" duration="10764000" />
-      <workItem from="1709557692459" duration="26068000" />
+      <workItem from="1709557692459" duration="35138000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, getting things set up">
       <option name="closed" value="true" />
@@ -353,7 +359,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709817738555</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="homepage update 8.2">
+      <option name="closed" value="true" />
+      <created>1709817787486</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1709817787486</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -420,7 +434,8 @@
     <MESSAGE value="passing data &amp; triggering demo" />
     <MESSAGE value="8.2 complete" />
     <MESSAGE value="8.2 complete - build step" />
-    <option name="LAST_COMMIT_MESSAGE" value="8.2 complete - build step" />
+    <MESSAGE value="homepage update 8.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="homepage update 8.2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,6 +1,6 @@
-/.idea
-/.nova
-/.zed
+.idea
+.nova
+.zed
 .DS_Store
 /node_modules
 /p5js
