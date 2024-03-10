@@ -74,7 +74,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/mcr/Library/Mobile Documents/com~apple~CloudDocs/mcad/2-ws-2024/programming-for-web",
+    "last_opened_file_path": "/Users/mcr/Library/Mobile Documents/com~apple~CloudDocs/mcad/2-ws-2024/programming-for-web/week-8/8-a-duplicate-delete/public",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.stylelint": "true",
@@ -84,7 +84,7 @@
     "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "inlay.hints",
     "settings.editor.splitter.proportion": "0.160383",
     "vue.rearranger.settings.migration": "true"
   },
@@ -106,12 +106,15 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week-8/8-a-duplicate-delete/public" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week-8/8-a-duplicate-delete/src/assets" />
       <recent name="$PROJECT_DIR$/week-8/8-2-pass-events-thru-components/src" />
       <recent name="$PROJECT_DIR$/week-8/8-1-swap-images-using-state/src/assets" />
       <recent name="$PROJECT_DIR$/week-8/8-1-swap-images-using-state/src" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/week-7/7-a-show-and-tell-collection/public" />
     </key>
   </component>
   <component name="RunManager">
@@ -131,7 +134,6 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="24853dbb-994b-4f96-9082-5c026d3032db" name="Changes" comment="" />
-      <changelist id="" name="initial commit, getting things set up" comment="" />
       <created>1705456132550</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -149,7 +151,8 @@
       <workItem from="1709399937478" duration="3104000" />
       <workItem from="1709418923722" duration="1051000" />
       <workItem from="1709430710488" duration="10764000" />
-      <workItem from="1709557692459" duration="35138000" />
+      <workItem from="1709557692459" duration="40400000" />
+      <workItem from="1710021350809" duration="12322000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, getting things set up">
       <option name="closed" value="true" />
@@ -367,7 +370,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709817787486</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="project 8.a setup complete">
+      <option name="closed" value="true" />
+      <created>1710015035457</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1710015035457</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,7 +446,8 @@
     <MESSAGE value="8.2 complete" />
     <MESSAGE value="8.2 complete - build step" />
     <MESSAGE value="homepage update 8.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="homepage update 8.2" />
+    <MESSAGE value="project 8.a setup complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="project 8.a setup complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
