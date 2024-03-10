@@ -50,7 +50,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -152,7 +152,7 @@
       <workItem from="1709418923722" duration="1051000" />
       <workItem from="1709430710488" duration="10764000" />
       <workItem from="1709557692459" duration="40400000" />
-      <workItem from="1710021350809" duration="12322000" />
+      <workItem from="1710021350809" duration="17341000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, getting things set up">
       <option name="closed" value="true" />
@@ -378,7 +378,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710015035457</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="8.a progress...not quite there though">
+      <option name="closed" value="true" />
+      <created>1710041541366</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1710041541366</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -447,7 +455,8 @@
     <MESSAGE value="8.2 complete - build step" />
     <MESSAGE value="homepage update 8.2" />
     <MESSAGE value="project 8.a setup complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="project 8.a setup complete" />
+    <MESSAGE value="8.a progress...not quite there though" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.a progress...not quite there though" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

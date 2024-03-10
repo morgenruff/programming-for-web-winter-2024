@@ -4,3 +4,7 @@
 	text-align: center;
 	margin: 50px auto 20px;
 }
+
+.masthead img {
+	width: 600px;
+}
