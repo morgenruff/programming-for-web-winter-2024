@@ -1,0 +1,14 @@
+@font-face {
+	font-family: 'Victor Mono Bold';
+	src:  url('./assets/VictorMono-Bold.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'Victor Mono Regular';
+	src:  url('./assets/VictorMono-Regular.otf') format('opentype');
+}
+
+body {
+	background-color: #e7e7e7;
+	font-family: 'Victor Mono Regular', sans-serif;
+}

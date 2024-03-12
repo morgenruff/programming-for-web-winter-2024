@@ -152,7 +152,7 @@
       <workItem from="1709418923722" duration="1051000" />
       <workItem from="1709430710488" duration="10764000" />
       <workItem from="1709557692459" duration="40400000" />
-      <workItem from="1710021350809" duration="17341000" />
+      <workItem from="1710021350809" duration="25981000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, getting things set up">
       <option name="closed" value="true" />
@@ -386,7 +386,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710041541366</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="8.a update, still working">
+      <option name="closed" value="true" />
+      <created>1710104058795</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1710104058795</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -456,7 +464,9 @@
     <MESSAGE value="homepage update 8.2" />
     <MESSAGE value="project 8.a setup complete" />
     <MESSAGE value="8.a progress...not quite there though" />
-    <option name="LAST_COMMIT_MESSAGE" value="8.a progress...not quite there though" />
+    <MESSAGE value="8.a update, still working" />
+    <MESSAGE value="8.a complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.a complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
