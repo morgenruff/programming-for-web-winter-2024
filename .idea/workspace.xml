@@ -155,7 +155,7 @@
       <workItem from="1710021350809" duration="28081000" />
       <workItem from="1710467915878" duration="18000" />
       <workItem from="1710852027960" duration="864000" />
-      <workItem from="1710890475886" duration="8911000" />
+      <workItem from="1710890475886" duration="9467000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, getting things set up">
       <option name="closed" value="true" />
@@ -405,7 +405,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710256084199</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="week 9 spread op &amp; gathering data demos complete">
+      <option name="closed" value="true" />
+      <created>1710899684007</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1710899684007</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -452,7 +460,6 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value=".gitignore updates" />
     <MESSAGE value="removed files" />
     <MESSAGE value="removed files, cleaned up directories" />
     <MESSAGE value="added week 1 files" />
@@ -477,7 +484,8 @@
     <MESSAGE value="8.a update, still working" />
     <MESSAGE value="8.a complete" />
     <MESSAGE value="8.a complete + homepage update" />
-    <option name="LAST_COMMIT_MESSAGE" value="8.a complete + homepage update" />
+    <MESSAGE value="week 9 spread op &amp; gathering data demos complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 9 spread op &amp; gathering data demos complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
