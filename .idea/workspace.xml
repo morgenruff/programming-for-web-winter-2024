@@ -50,7 +50,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -84,7 +84,7 @@
     "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "inlay.hints",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "settings.editor.splitter.proportion": "0.160383",
     "vue.rearranger.settings.migration": "true"
   },
@@ -152,7 +152,10 @@
       <workItem from="1709418923722" duration="1051000" />
       <workItem from="1709430710488" duration="10764000" />
       <workItem from="1709557692459" duration="40400000" />
-      <workItem from="1710021350809" duration="25981000" />
+      <workItem from="1710021350809" duration="28081000" />
+      <workItem from="1710467915878" duration="18000" />
+      <workItem from="1710852027960" duration="864000" />
+      <workItem from="1710890475886" duration="8911000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, getting things set up">
       <option name="closed" value="true" />
@@ -394,7 +397,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710104058795</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="8.a complete + homepage update">
+      <option name="closed" value="true" />
+      <created>1710256084199</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1710256084199</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -441,7 +452,6 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="initial commit, getting things set up" />
     <MESSAGE value=".gitignore updates" />
     <MESSAGE value="removed files" />
     <MESSAGE value="removed files, cleaned up directories" />
@@ -466,7 +476,8 @@
     <MESSAGE value="8.a progress...not quite there though" />
     <MESSAGE value="8.a update, still working" />
     <MESSAGE value="8.a complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="8.a complete" />
+    <MESSAGE value="8.a complete + homepage update" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.a complete + homepage update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
