@@ -46,7 +46,58 @@ function App() {
   }
   function handleSubmit(evt) {
     evt.preventDefault();
+    validateFirstName();
+    validatePassword();
+    if(!errorObject.firstName && !errorObject.password) {
+      // submit form
+
+    }
     console.log('whole form', formObject);
+  }
+
+  const [errorObject, setErrorObject] = useState(
+    {
+      firstName: '',
+      password: '',
+    }
+  );
+
+  function validateFirstName() {
+    if(!formObject.firstName) {
+      setErrorObject((prevErrorObject) => {
+        return {
+          ...prevErrorObject,
+          firstName: 'this field is required'
+        }
+      })
+    } else {
+      setErrorObject((prevErrObj) => {
+        return {
+          ...prevErrObj,
+          firstName: ''
+        }
+      })
+    }
+  }
+
+  function validatePassword() {
+    if(formObject.password.length < 8) {
+      // set error object
+      setErrorObject((prevErrorObj) => {
+        return {
+          ...prevErrorObj,
+          password: 'a password of at least eight characters is required'
+        }
+      })
+    } else {
+      // clear error object
+      setErrorObject((prevErrorObj) => {
+        return {
+          ...prevErrorObj,
+          password: 'this field cannot be empty'
+        }
+      })
+    }
   }
 
   return (
@@ -56,7 +107,7 @@ function App() {
         <fieldset>
           <legend>Personal Information</legend>
           <div>
-            <label htmlFor='firstName'>
+            <label className='required' htmlFor='firstName'>
               First Name
             </label>
             <input
@@ -65,7 +116,14 @@ function App() {
               name='firstName'
               value={formObject.firstName}
               onChange={handleChange}
+              onBlur={() => {validateFirstName()}}
             />
+              {errorObject.firstName && (
+                <>
+                <br />
+                <span className='error'>{errorObject.firstName}</span>
+                </>
+                )}
           </div>
           <div>
             <label htmlFor='lastName'>
@@ -80,7 +138,7 @@ function App() {
             />
           </div>
           <div>
-            <label htmlFor='password'>
+            <label className='required' htmlFor='password'>
               Password
             </label>
             <input
@@ -89,7 +147,14 @@ function App() {
               name='password'
               value={formObject.password}
               onChange={handleChange}
+              onBlur={validatePassword}
             />
+            {errorObject.password && (
+              <>
+                <br />
+                <span className='error'>{errorObject.password}</span>
+              </>
+            )}
           </div>
           <div>
             <label htmlFor='pets'>
@@ -210,7 +275,11 @@ function App() {
             <option value='mid-range'>Mid-Range</option>
           </select>
         </fieldset>
-        <button type='submit'>Submit</button>
+        <button
+          type='submit'
+          disabled={errorObject.firstName || errorObject.password}
+        >
+          Submit</button>
       </form>
     </>
   )
