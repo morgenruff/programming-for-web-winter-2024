@@ -1,0 +1,28 @@
+/* form css */
+fieldset {
+	margin-bottom: 1rem;
+}
+legend {
+	font-size: 2rem;
+	color: #879eb9;
+}
+label {
+	color: #879eb9;
+}
+input[type=text],
+input[type=checkbox],
+select {
+	margin: 5px;
+	background-color: #e3a28b;
+	color: #4d3434;
+	font-weight: 900;
+}
+p {
+	margin: 0 5px 5px 5px;
+	font-size: 1.5rem;
+	color: #e3a28b;
+}
+label.required:before {
+	content: '*';
+	color: red;
+}
