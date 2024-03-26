@@ -84,7 +84,7 @@
     "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.rainbow.brackets.color",
+    "settings.editor.selected.configurable": "preferences.editor",
     "settings.editor.splitter.proportion": "0.160383",
     "vue.rearranger.settings.migration": "true"
   },
@@ -108,6 +108,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/week-9" />
+      <recent name="$PROJECT_DIR$/week-9/9-a-add-new-items" />
       <recent name="$PROJECT_DIR$/week-8/8-a-duplicate-delete/public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -158,7 +159,9 @@
       <workItem from="1710852027960" duration="864000" />
       <workItem from="1710890475886" duration="10131000" />
       <workItem from="1710978638807" duration="504000" />
-      <workItem from="1710979161347" duration="14839000" />
+      <workItem from="1710979161347" duration="15269000" />
+      <workItem from="1711368464728" duration="1654000" />
+      <workItem from="1711413678999" duration="10727000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, getting things set up">
       <option name="closed" value="true" />
@@ -448,7 +451,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711065069677</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="9.2 complete, build, update homepage">
+      <option name="closed" value="true" />
+      <created>1711076155953</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1711076155953</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -495,7 +506,6 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="added main homepage bones, css to come" />
     <MESSAGE value="setup 6.a react scaffold, clear App.jsx" />
     <MESSAGE value="setup assignment 7 - install react" />
     <MESSAGE value="7.a progress - fixing problems" />
@@ -520,7 +530,8 @@
     <MESSAGE value="9.1 complete + homepage update" />
     <MESSAGE value="9.1 build step" />
     <MESSAGE value="work on form validation..." />
-    <option name="LAST_COMMIT_MESSAGE" value="work on form validation..." />
+    <MESSAGE value="9.2 complete, build, update homepage" />
+    <option name="LAST_COMMIT_MESSAGE" value="9.2 complete, build, update homepage" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -528,6 +539,12 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/p5js-book/chapter-3/script.js</url>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/week-9/9-a-add-new-items/src/newBookForm/newBookForm.jsx</url>
+          <line>48</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
