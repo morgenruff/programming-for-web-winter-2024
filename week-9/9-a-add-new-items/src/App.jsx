@@ -5,7 +5,7 @@ import './App.css';
 import { nanoid } from 'nanoid';
 import { NewBookForm } from './newBookForm/newBookForm.jsx';
 function App() {
-  const [books, setBooks] = useState([
+  const [books, setBooks] = useState([ // books object array
   {
     cover: './bc-its-all-true.jpeg',
     name: 'It\'s All True',
@@ -79,31 +79,33 @@ function App() {
     id: '8'
   },
 ])
-  function deleteCard(id) {
-    console.log('delete me', id)
+  function deleteBook(id) {
+    console.log('delete me', id) // log which id is being deleted
     const updatedArray = books.filter((artBook) => {
-      return artBook.id !== id
+      return artBook.id !== id // make new array without the just-deleted book
     })
-    setBooks(updatedArray)
+    setBooks(updatedArray) // set array state to match currently displayed books
   }
-  function duplicateCard(id) {
-    console.log('duplicate me', id)
+  function duplicateBook(id) {
+    console.log('duplicate me', id) // log duplicated book
     const matchingBook = books.find((artBook) => {
-      return artBook.id === id
+      return artBook.id === id // find matching book card from the array
     })
-    const updatedBook = {...matchingBook, id: nanoid()}
-    setBooks([...books, updatedBook])
+    const updatedBook = {...matchingBook, id: nanoid()} // update duplicate book with new id
+    setBooks([...books, updatedBook]) // change state to reflect duplicated book
   }
   function addBook(newBook) {
     const bookWithId = {
       ...newBook,
-      id: nanoid()
+      id: nanoid() // issue random id
     }
-    setBooks([...books, bookWithId])
+    setBooks([...books, bookWithId]) // update state to reflected new added book
   }
   return (
     <div className='page'>
+      {/* render masthead */}
       <Masthead />
+      {/* render dynamic collection of books */}
       <div className='collection'>
         {/* books map goes here */}
         {/* use itemCard component in loop */}
@@ -111,14 +113,15 @@ function App() {
           return (
             <ItemCard
               key={artBook.id}
-              deleteFn={deleteCard}
-              duplicateFn={duplicateCard}
+              deleteFn={deleteBook}
+              duplicateFn={duplicateBook}
               {...artBook}
             />
           )
         })}
       </div>
       <hr />
+      {/* render new book input form */}
       <NewBookForm addBookFn={addBook} />
     </div>
   )

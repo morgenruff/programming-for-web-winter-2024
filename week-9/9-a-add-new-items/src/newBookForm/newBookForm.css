@@ -1,14 +1,13 @@
 .new-book-form-wrapper {
 	border-radius: 20px;
-	border: 1px solid black;
-	padding: 20px;
+	border: 2px solid #c04a18;
+	padding: 2rem;
+	background-color: #c4ccff;
+	width: 30%;
+	margin: 0 auto;
 }
 .form-group {
-	display: flex;
-	flex-wrap: wrap;
-	margin: 10px;
-	width: 90%;
-	padding: 5px;
+
 }
 .form-group.error {
 	border: 1px solid red;
@@ -19,15 +18,39 @@
 	text-align: center;
 	font-weight: 900;
 }
+hr {
+	margin: 2rem 0;
+}
+h2 {
+	text-align: center;
+	margin: 0.25rem 0;
+	font-family: "Victor Mono Bold", sans-serif;
+}
+fieldset {
+	border-radius: 10px;
+	padding: 1rem;
+	margin: 1rem 0;
+}
+legend {
+	font-weight: bolder;
+}
 label {
-	margin-right: 5px;
+	margin-right: 3px;
 }
 input {
 	margin-left: 5px;
 	flex-grow: 1;
+	background-color: #ffaf8e;
+	padding: 0.25rem;
 }
+
 button {
-	margin: 20px;
+	margin: 1rem 0;
+	padding: 0.25rem;
+	background-color: #ffaf8e;
+	border-radius: 5px;
+	font-family: "Victor Mono Bold", sans-serif;
+	font-size: 1rem;
 }
 .required:before {
 	content: '*';
