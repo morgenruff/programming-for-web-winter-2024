@@ -163,7 +163,7 @@
       <workItem from="1711368464728" duration="1654000" />
       <workItem from="1711413678999" duration="13778000" />
       <workItem from="1711501801297" duration="3099000" />
-      <workItem from="1711582856643" duration="4758000" />
+      <workItem from="1711582856643" duration="5486000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, getting things set up">
       <option name="closed" value="true" />
@@ -485,7 +485,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711504857044</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="10.2 complete + build step + homepage update">
+      <option name="closed" value="true" />
+      <created>1711589455365</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1711589455365</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -532,7 +540,6 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="7.a complete" />
     <MESSAGE value="update gitignore + dist" />
     <MESSAGE value="7.a homepage update" />
     <MESSAGE value="8.1 progress, but broken image - come back to" />
@@ -557,7 +564,8 @@
     <MESSAGE value="9.a progress - needs CSS work &amp; content updates" />
     <MESSAGE value="9.a css complete + build step + homepage update" />
     <MESSAGE value="10.1 complete + homepage update" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.1 complete + homepage update" />
+    <MESSAGE value="10.2 complete + build step + homepage update" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.2 complete + build step + homepage update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
