@@ -2,7 +2,7 @@ import './App.css'
 import { Link, Route, Routes } from 'react-router-dom';
 import { Home } from './views/Home.jsx'
 import { Llamas } from './views/Llama.jsx';
-import { Alpaca} from './views/Alpaca.jsx';
+import { Alpaca } from './views/Alpaca.jsx';
 
 function App() {
 
