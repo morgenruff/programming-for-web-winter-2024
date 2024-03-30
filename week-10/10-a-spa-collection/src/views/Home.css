@@ -1,0 +1,19 @@
+html, .page {
+	background-color: #e7e7e7;
+}
+
+.cardTitle a {
+	text-decoration: none;
+	color: #c04a18;
+	padding: 0.25rem;
+}
+
+.cardTitle a:hover {
+	color: #c4ccff;
+	background-color: #c04a18;
+}
+
+.cardImg {
+	margin: 0;
+	padding: 0;
+}

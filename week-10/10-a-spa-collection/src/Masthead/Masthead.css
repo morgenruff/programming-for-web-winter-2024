@@ -1,0 +1,16 @@
+.masthead {
+	max-width: 800px;
+	width: 100%;
+	text-align: center;
+	margin: 1em auto;
+}
+
+.masthead img {
+	width: 600px;
+	border: 2px solid #c04a18;
+	border-radius: 10px;
+}
+
+h1 {
+	margin: 0.25em;
+}
