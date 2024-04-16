@@ -6,6 +6,21 @@
   <component name="ChangeListManager">
     <list default="true" id="24853dbb-994b-4f96-9082-5c026d3032db" name="Changes" comment="homepage update 8.1">
       <changelist_data name="Morgen Ruff" email="" />
+      <change afterPath="$PROJECT_DIR$/.estlintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-11/11-2-iteration/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-11/11-2-iteration/iteration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-11/11-2-iteration/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-10/10-a-spa-collection/src/assets/briefcase-svgrepo-com.svg" beforeDir="false" afterPath="$PROJECT_DIR$/week-10/10-a-spa-collection/src/assets/briefcase-svgrepo-com.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-10/10-a-spa-collection/src/assets/rotate-right-svgrepo-com.svg" beforeDir="false" afterPath="$PROJECT_DIR$/week-10/10-a-spa-collection/src/assets/rotate-right-svgrepo-com.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-10/10-a-spa-collection/src/assets/star-svgrepo-com.svg" beforeDir="false" afterPath="$PROJECT_DIR$/week-10/10-a-spa-collection/src/assets/star-svgrepo-com.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-10/10-a-spa-collection/src/assets/sync-svgrepo-com.svg" beforeDir="false" afterPath="$PROJECT_DIR$/week-10/10-a-spa-collection/src/assets/sync-svgrepo-com.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-10/10-a-spa-collection/src/assets/trash-svgrepo-com.svg" beforeDir="false" afterPath="$PROJECT_DIR$/week-10/10-a-spa-collection/src/assets/trash-svgrepo-com.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-9/9-a-add-new-items/src/assets/briefcase-svgrepo-com.svg" beforeDir="false" afterPath="$PROJECT_DIR$/week-9/9-a-add-new-items/src/assets/briefcase-svgrepo-com.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-9/9-a-add-new-items/src/assets/rotate-right-svgrepo-com.svg" beforeDir="false" afterPath="$PROJECT_DIR$/week-9/9-a-add-new-items/src/assets/rotate-right-svgrepo-com.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-9/9-a-add-new-items/src/assets/star-svgrepo-com.svg" beforeDir="false" afterPath="$PROJECT_DIR$/week-9/9-a-add-new-items/src/assets/star-svgrepo-com.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-9/9-a-add-new-items/src/assets/sync-svgrepo-com.svg" beforeDir="false" afterPath="$PROJECT_DIR$/week-9/9-a-add-new-items/src/assets/sync-svgrepo-com.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-9/9-a-add-new-items/src/assets/trash-svgrepo-com.svg" beforeDir="false" afterPath="$PROJECT_DIR$/week-9/9-a-add-new-items/src/assets/trash-svgrepo-com.svg" afterDir="false" />
     </list>
     <list id="ad46af30-7d28-4831-a96c-3edbb222a845" name="changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,14 +46,12 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="1922d41f-40da-4f58-ab36-b98bde6e1ed6" />
-        <option name="url" value="https://github.com/morgenruff/programming-for-web-winter-2024.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/morgenruff/programming-for-web-winter-2024.git&quot;,
+    &quot;accountId&quot;: &quot;1922d41f-40da-4f58-ab36-b98bde6e1ed6&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/week-8/8-2-pass-events-thru-components/src/AnimalComponent.jsx" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -84,7 +97,7 @@
     "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "vcs.Git",
     "settings.editor.splitter.proportion": "0.160383",
     "vue.rearranger.settings.migration": "true"
   },
@@ -165,7 +178,13 @@
       <workItem from="1711413678999" duration="13778000" />
       <workItem from="1711501801297" duration="3099000" />
       <workItem from="1711582856643" duration="6612000" />
-      <workItem from="1711809824898" duration="5094000" />
+      <workItem from="1711809824898" duration="5208000" />
+      <workItem from="1713023063259" duration="1176000" />
+      <workItem from="1713024341509" duration="2021000" />
+      <workItem from="1713034862031" duration="3494000" />
+      <workItem from="1713132957660" duration="35000" />
+      <workItem from="1713133014944" duration="1189000" />
+      <workItem from="1713298084325" duration="178000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, getting things set up">
       <option name="closed" value="true" />
@@ -503,7 +522,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711590298366</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="10.a complete - SPA, build, homepage update">
+      <option name="closed" value="true" />
+      <created>1711815909455</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1711815909455</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -550,7 +577,6 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="7.a homepage update" />
     <MESSAGE value="8.1 progress, but broken image - come back to" />
     <MESSAGE value="8.1 complete" />
     <MESSAGE value="homepage update 8.1" />
@@ -575,7 +601,8 @@
     <MESSAGE value="10.1 complete + homepage update" />
     <MESSAGE value="10.2 complete + build step + homepage update" />
     <MESSAGE value="editor settings update" />
-    <option name="LAST_COMMIT_MESSAGE" value="editor settings update" />
+    <MESSAGE value="10.a complete - SPA, build, homepage update" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.a complete - SPA, build, homepage update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
