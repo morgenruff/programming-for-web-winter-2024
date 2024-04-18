@@ -34,8 +34,14 @@ function mousePressed() {
 function draw() {
   frameRate(random(8, 12));
   background('#191716');
-  bigEll(random(100, 900), random(100, 900), 150, random(colors), random(colors));
-  littleEll(random(100, 900), random(100, 900), 75, random(colors), random(colors));
-  bez(random(100, 900), random(100, 900), random(100, 900), random(100, 900), random(100, 900), random(100, 900), random(100, 900), random(100, 900), random(1, 4), random(1, 4), random(1, 4), random(1, 4), random(colors));
+  for (let i = 0; i < 3; i++) {
+    bigEll(random(100, 900), random(100, 900), 150, random(colors), random(colors));
+  }
+  for (let j = 0; j < 3; j++) {
+    littleEll(random(100, 900), random(100, 900), 75, random(colors), random(colors));
+  }
+  for (let k = 0; k <= 3; k++) {
+    bez(random(100, 900), random(100, 900), random(100, 900), random(100, 900), random(100, 900), random(100, 900), random(100, 900), random(100, 900), random(1, 4), random(1, 4), random(1, 4), random(1, 4), random(colors));
+  }
   // noLoop();
 }

@@ -193,7 +193,7 @@
       <workItem from="1713133014944" duration="1189000" />
       <workItem from="1713298084325" duration="4652000" />
       <workItem from="1713384236899" duration="4458000" />
-      <workItem from="1713446817260" duration="7299000" />
+      <workItem from="1713446817260" duration="8193000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, getting things set up">
       <option name="closed" value="true" />
@@ -547,7 +547,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713298294168</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="11.a part one complete">
+      <option name="closed" value="true" />
+      <created>1713456818842</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1713456818842</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -594,7 +602,6 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="8.1 complete" />
     <MESSAGE value="homepage update 8.1" />
     <MESSAGE value="tiny IDE prefs update" />
     <MESSAGE value="passing data &amp; triggering demo" />
@@ -619,7 +626,8 @@
     <MESSAGE value="editor settings update" />
     <MESSAGE value="10.a complete - SPA, build, homepage update" />
     <MESSAGE value="various small changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="various small changes" />
+    <MESSAGE value="11.a part one complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.a part one complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
