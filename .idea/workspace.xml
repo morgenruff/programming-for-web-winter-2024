@@ -84,6 +84,7 @@
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Node.js.dom.js.executor": "Debug",
+    "Node.js.parameterize-b.js.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -133,12 +134,16 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.parameterize-b.js">
     <configuration name="dom.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/week-4/4-1-dom/dom.js" working-dir="$PROJECT_DIR$/week-4/4-1-dom">
+      <method v="2" />
+    </configuration>
+    <configuration name="parameterize-b.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/week-11/11-a-computational-aesthetics/parameterize-b.js" working-dir="$PROJECT_DIR$/week-11/11-a-computational-aesthetics">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.parameterize-b.js" />
         <item itemvalue="Node.js.dom.js" />
       </list>
     </recent_temporary>
@@ -193,7 +198,7 @@
       <workItem from="1713133014944" duration="1189000" />
       <workItem from="1713298084325" duration="4652000" />
       <workItem from="1713384236899" duration="4458000" />
-      <workItem from="1713446817260" duration="8193000" />
+      <workItem from="1713446817260" duration="25899000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, getting things set up">
       <option name="closed" value="true" />
@@ -555,7 +560,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713456818842</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="11.a tinkering">
+      <option name="closed" value="true" />
+      <created>1713463127405</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1713463127405</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -602,7 +615,6 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="homepage update 8.1" />
     <MESSAGE value="tiny IDE prefs update" />
     <MESSAGE value="passing data &amp; triggering demo" />
     <MESSAGE value="8.2 complete" />
@@ -627,7 +639,8 @@
     <MESSAGE value="10.a complete - SPA, build, homepage update" />
     <MESSAGE value="various small changes" />
     <MESSAGE value="11.a part one complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="11.a part one complete" />
+    <MESSAGE value="11.a tinkering" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.a tinkering" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
