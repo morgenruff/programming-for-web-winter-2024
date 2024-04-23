@@ -78,38 +78,39 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Node.js.dom.js.executor": "Debug",
-    "Node.js.parameterize-b.js.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/mcr/Library/Mobile Documents/com~apple~CloudDocs/mcad/2-ws-2024/programming-for-web/week-10",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
-    "node.js.detected.package.stylelint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.standard": "",
-    "node.js.selected.package.stylelint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.editor",
-    "settings.editor.splitter.proportion": "0.160383",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Node.js.dom.js.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.parameterize-b.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;eslint.code.style.apply.dismiss&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mcr/Library/Mobile Documents/com~apple~CloudDocs/mcad/2-ws-2024/programming-for-web/week-10&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.160383&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>
@@ -127,11 +128,11 @@
       <recent name="$PROJECT_DIR$/week-8/8-a-duplicate-delete/public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week-12/12-2-samples" />
       <recent name="$PROJECT_DIR$/week-8/8-a-duplicate-delete/src/assets" />
       <recent name="$PROJECT_DIR$/week-8/8-2-pass-events-thru-components/src" />
       <recent name="$PROJECT_DIR$/week-8/8-1-swap-images-using-state/src/assets" />
       <recent name="$PROJECT_DIR$/week-8/8-1-swap-images-using-state/src" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.parameterize-b.js">
@@ -198,7 +199,14 @@
       <workItem from="1713133014944" duration="1189000" />
       <workItem from="1713298084325" duration="4652000" />
       <workItem from="1713384236899" duration="4458000" />
-      <workItem from="1713446817260" duration="26014000" />
+      <workItem from="1713446817260" duration="27142000" />
+      <workItem from="1713653478186" duration="729000" />
+      <workItem from="1713663014983" duration="1194000" />
+      <workItem from="1713825787361" duration="159000" />
+      <workItem from="1713825953861" duration="2940000" />
+      <workItem from="1713829193399" duration="731000" />
+      <workItem from="1713830192463" duration="1066000" />
+      <workItem from="1713906179224" duration="2684000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, getting things set up">
       <option name="closed" value="true" />
@@ -576,7 +584,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713544459644</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="11.a homepage update">
+      <option name="closed" value="true" />
+      <created>1713544558340</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1713544558340</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -623,7 +639,6 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="passing data &amp; triggering demo" />
     <MESSAGE value="8.2 complete" />
     <MESSAGE value="8.2 complete - build step" />
     <MESSAGE value="homepage update 8.2" />
@@ -648,7 +663,8 @@
     <MESSAGE value="11.a part one complete" />
     <MESSAGE value="11.a tinkering" />
     <MESSAGE value="11.a sketch C complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="11.a sketch C complete" />
+    <MESSAGE value="11.a homepage update" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.a homepage update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
