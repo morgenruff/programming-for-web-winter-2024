@@ -99,7 +99,7 @@
     &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.160383&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
@@ -152,7 +152,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-WS-241.14494.235" />
+        <option value="bundled-js-predefined-1d06a55b98c1-2e7d6887c066-JavaScript-WS-241.15989.47" />
       </set>
     </attachedChunks>
   </component>
@@ -206,7 +206,11 @@
       <workItem from="1713825953861" duration="2940000" />
       <workItem from="1713829193399" duration="731000" />
       <workItem from="1713830192463" duration="1066000" />
-      <workItem from="1713906179224" duration="2684000" />
+      <workItem from="1713906179224" duration="4144000" />
+      <workItem from="1714096435166" duration="628000" />
+      <workItem from="1714097138860" duration="664000" />
+      <workItem from="1714318780771" duration="9021000" />
+      <workItem from="1714424331877" duration="675000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit, getting things set up">
       <option name="closed" value="true" />
@@ -592,7 +596,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713544558340</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="13.2 complete + homepage update">
+      <option name="closed" value="true" />
+      <created>1713908885238</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1713908885238</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -639,7 +651,6 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="8.2 complete" />
     <MESSAGE value="8.2 complete - build step" />
     <MESSAGE value="homepage update 8.2" />
     <MESSAGE value="project 8.a setup complete" />
@@ -664,7 +675,8 @@
     <MESSAGE value="11.a tinkering" />
     <MESSAGE value="11.a sketch C complete" />
     <MESSAGE value="11.a homepage update" />
-    <option name="LAST_COMMIT_MESSAGE" value="11.a homepage update" />
+    <MESSAGE value="13.2 complete + homepage update" />
+    <option name="LAST_COMMIT_MESSAGE" value="13.2 complete + homepage update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
