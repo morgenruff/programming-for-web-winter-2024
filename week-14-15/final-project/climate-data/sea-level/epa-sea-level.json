@@ -1,1 +1,947 @@
-[{"Year":2014,"CSIRO Adjusted Sea Level":null,"Lower Error Bound":null,"Upper Error Bound":null,"NOAA Adjusted Sea Level":8.663700393},{"Year":2013,"CSIRO Adjusted Sea Level":8.980314951,"Lower Error Bound":8.622047235,"Upper Error Bound":9.338582668,"NOAA Adjusted Sea Level":8.546648227},{"Year":2012,"CSIRO Adjusted Sea Level":9.326771644,"Lower Error Bound":8.992125975,"Upper Error Bound":9.661417313,"NOAA Adjusted Sea Level":8.457057629},{"Year":2011,"CSIRO Adjusted Sea Level":8.96456692,"Lower Error Bound":8.661417314,"Upper Error Bound":9.267716526,"NOAA Adjusted Sea Level":8.053065004},{"Year":2010,"CSIRO Adjusted Sea Level":8.901574794,"Lower Error Bound":8.618110227,"Upper Error Bound":9.185039361,"NOAA Adjusted Sea Level":8.122972567},{"Year":2009,"CSIRO Adjusted Sea Level":8.586614164,"Lower Error Bound":8.311023614,"Upper Error Bound":8.862204715,"NOAA Adjusted Sea Level":8.04635409},{"Year":2008,"CSIRO Adjusted Sea Level":8.350393692,"Lower Error Bound":8.078740149,"Upper Error Bound":8.622047235,"NOAA Adjusted Sea Level":7.90736541},{"Year":2007,"CSIRO Adjusted Sea Level":7.996062984,"Lower Error Bound":7.712598417,"Upper Error Bound":8.279527551,"NOAA Adjusted Sea Level":7.70214715},{"Year":2006,"CSIRO Adjusted Sea Level":7.917322827,"Lower Error Bound":7.645669284,"Upper Error Bound":8.18897637,"NOAA Adjusted Sea Level":7.697420009},{"Year":2005,"CSIRO Adjusted Sea Level":7.74409448,"Lower Error Bound":7.472440937,"Upper Error Bound":8.015748023,"NOAA Adjusted Sea Level":7.644563144},{"Year":2004,"CSIRO Adjusted Sea Level":7.740157472,"Lower Error Bound":7.464566922,"Upper Error Bound":8.015748023,"NOAA Adjusted Sea Level":7.507932839},{"Year":2003,"CSIRO Adjusted Sea Level":7.759842512,"Lower Error Bound":7.484251961,"Upper Error Bound":8.035433063,"NOAA Adjusted Sea Level":7.488352718},{"Year":2002,"CSIRO Adjusted Sea Level":7.381889756,"Lower Error Bound":7.110236213,"Upper Error Bound":7.653543299,"NOAA Adjusted Sea Level":7.319697525},{"Year":2001,"CSIRO Adjusted Sea Level":7.287401567,"Lower Error Bound":7.019685032,"Upper Error Bound":7.555118103,"NOAA Adjusted Sea Level":7.087460011},{"Year":2000,"CSIRO Adjusted Sea Level":7.062992119,"Lower Error Bound":6.791338576,"Upper Error Bound":7.334645662,"NOAA Adjusted Sea Level":6.920582014},{"Year":1999,"CSIRO Adjusted Sea Level":7.011811016,"Lower Error Bound":6.736220466,"Upper Error Bound":7.287401567,"NOAA Adjusted Sea Level":6.848689771},{"Year":1998,"CSIRO Adjusted Sea Level":6.665354324,"Lower Error Bound":6.393700781,"Upper Error Bound":6.937007867,"NOAA Adjusted Sea Level":6.865806069},{"Year":1997,"CSIRO Adjusted Sea Level":7.066929127,"Lower Error Bound":6.803149599,"Upper Error Bound":7.330708654,"NOAA Adjusted Sea Level":6.733920367},{"Year":1996,"CSIRO Adjusted Sea Level":6.787401568,"Lower Error Bound":6.523622041,"Upper Error Bound":7.051181095,"NOAA Adjusted Sea Level":6.62763131},{"Year":1995,"CSIRO Adjusted Sea Level":6.618110229,"Lower Error Bound":6.354330702,"Upper Error Bound":6.881889757,"NOAA Adjusted Sea Level":6.452568661},{"Year":1994,"CSIRO Adjusted Sea Level":6.499999993,"Lower Error Bound":6.236220466,"Upper Error Bound":6.763779521,"NOAA Adjusted Sea Level":6.310933553},{"Year":1993,"CSIRO Adjusted Sea Level":6.291338576,"Lower Error Bound":6.027559049,"Upper Error Bound":6.555118104,"NOAA Adjusted Sea Level":6.297493046},{"Year":1992,"CSIRO Adjusted Sea Level":6.35826771,"Lower Error Bound":6.094488183,"Upper Error Bound":6.622047237,"NOAA Adjusted Sea Level":null},{"Year":1991,"CSIRO Adjusted Sea Level":6.334645663,"Lower Error Bound":6.074803143,"Upper Error Bound":6.594488182,"NOAA Adjusted Sea Level":null},{"Year":1990,"CSIRO Adjusted Sea Level":6.232283458,"Lower Error Bound":5.972440939,"Upper Error Bound":6.492125978,"NOAA Adjusted Sea Level":null},{"Year":1989,"CSIRO Adjusted Sea Level":6.157480309,"Lower Error Bound":5.905511805,"Upper Error Bound":6.409448812,"NOAA Adjusted Sea Level":null},{"Year":1988,"CSIRO Adjusted Sea Level":5.980314955,"Lower Error Bound":5.732283459,"Upper Error Bound":6.22834645,"NOAA Adjusted Sea Level":null},{"Year":1987,"CSIRO Adjusted Sea Level":5.795275585,"Lower Error Bound":5.551181097,"Upper Error Bound":6.039370073,"NOAA Adjusted Sea Level":null},{"Year":1986,"CSIRO Adjusted Sea Level":5.771653537,"Lower Error Bound":5.523622042,"Upper Error Bound":6.019685033,"NOAA Adjusted Sea Level":null},{"Year":1985,"CSIRO Adjusted Sea Level":5.74803149,"Lower Error Bound":5.499999994,"Upper Error Bound":5.996062986,"NOAA Adjusted Sea Level":null},{"Year":1984,"CSIRO Adjusted Sea Level":6.153543301,"Lower Error Bound":5.905511805,"Upper Error Bound":6.401574797,"NOAA Adjusted Sea Level":null},{"Year":1983,"CSIRO Adjusted Sea Level":6.188976372,"Lower Error Bound":5.93307086,"Upper Error Bound":6.444881883,"NOAA Adjusted Sea Level":null},{"Year":1982,"CSIRO Adjusted Sea Level":5.858267711,"Lower Error Bound":5.610236215,"Upper Error Bound":6.106299206,"NOAA Adjusted Sea Level":null},{"Year":1981,"CSIRO Adjusted Sea Level":6.086614167,"Lower Error Bound":5.830708655,"Upper Error Bound":6.342519679,"NOAA Adjusted Sea Level":null},{"Year":1980,"CSIRO Adjusted Sea Level":5.598425191,"Lower Error Bound":5.34251968,"Upper Error Bound":5.854330703,"NOAA Adjusted Sea Level":null},{"Year":1979,"CSIRO Adjusted Sea Level":5.362204719,"Lower Error Bound":5.098425192,"Upper Error Bound":5.625984246,"NOAA Adjusted Sea Level":null},{"Year":1978,"CSIRO Adjusted Sea Level":5.555118105,"Lower Error Bound":5.291338577,"Upper Error Bound":5.818897632,"NOAA Adjusted Sea Level":null},{"Year":1977,"CSIRO Adjusted Sea Level":5.303149601,"Lower Error Bound":5.043307081,"Upper Error Bound":5.56299212,"NOAA Adjusted Sea Level":null},{"Year":1976,"CSIRO Adjusted Sea Level":5.370078735,"Lower Error Bound":5.1023622,"Upper Error Bound":5.63779527,"NOAA Adjusted Sea Level":null},{"Year":1975,"CSIRO Adjusted Sea Level":5.409448813,"Lower Error Bound":5.145669286,"Upper Error Bound":5.673228341,"NOAA Adjusted Sea Level":null},{"Year":1974,"CSIRO Adjusted Sea Level":5.472440939,"Lower Error Bound":5.204724404,"Upper Error Bound":5.740157474,"NOAA Adjusted Sea Level":null},{"Year":1973,"CSIRO Adjusted Sea Level":5.003937003,"Lower Error Bound":4.736220468,"Upper Error Bound":5.271653538,"NOAA Adjusted Sea Level":null},{"Year":1972,"CSIRO Adjusted Sea Level":5.240157475,"Lower Error Bound":4.968503932,"Upper Error Bound":5.511811018,"NOAA Adjusted Sea Level":null},{"Year":1971,"CSIRO Adjusted Sea Level":4.881889759,"Lower Error Bound":4.610236216,"Upper Error Bound":5.153543302,"NOAA Adjusted Sea Level":null},{"Year":1970,"CSIRO Adjusted Sea Level":4.67716535,"Lower Error Bound":4.401574799,"Upper Error Bound":4.9527559,"NOAA Adjusted Sea Level":null},{"Year":1969,"CSIRO Adjusted Sea Level":4.751968499,"Lower Error Bound":4.476377948,"Upper Error Bound":5.02755905,"NOAA Adjusted Sea Level":null},{"Year":1968,"CSIRO Adjusted Sea Level":4.484251964,"Lower Error Bound":4.220472437,"Upper Error Bound":4.748031491,"NOAA Adjusted Sea Level":null},{"Year":1967,"CSIRO Adjusted Sea Level":4.452755901,"Lower Error Bound":4.196850389,"Upper Error Bound":4.708661413,"NOAA Adjusted Sea Level":null},{"Year":1966,"CSIRO Adjusted Sea Level":4.397637791,"Lower Error Bound":4.137795271,"Upper Error Bound":4.65748031,"NOAA Adjusted Sea Level":null},{"Year":1965,"CSIRO Adjusted Sea Level":4.610236216,"Lower Error Bound":4.346456688,"Upper Error Bound":4.874015743,"NOAA Adjusted Sea Level":null},{"Year":1964,"CSIRO Adjusted Sea Level":4.169291334,"Lower Error Bound":3.905511807,"Upper Error Bound":4.433070862,"NOAA Adjusted Sea Level":null},{"Year":1963,"CSIRO Adjusted Sea Level":4.480314956,"Lower Error Bound":4.220472437,"Upper Error Bound":4.740157475,"NOAA Adjusted Sea Level":null},{"Year":1962,"CSIRO Adjusted Sea Level":4.543307082,"Lower Error Bound":4.283464563,"Upper Error Bound":4.803149601,"NOAA Adjusted Sea Level":null},{"Year":1961,"CSIRO Adjusted Sea Level":4.748031491,"Lower Error Bound":4.488188972,"Upper Error Bound":5.007874011,"NOAA Adjusted Sea Level":null},{"Year":1960,"CSIRO Adjusted Sea Level":4.503937003,"Lower Error Bound":4.244094484,"Upper Error Bound":4.763779523,"NOAA Adjusted Sea Level":null},{"Year":1959,"CSIRO Adjusted Sea Level":4.358267712,"Lower Error Bound":4.102362201,"Upper Error Bound":4.614173224,"NOAA Adjusted Sea Level":null},{"Year":1958,"CSIRO Adjusted Sea Level":4.346456688,"Lower Error Bound":4.086614169,"Upper Error Bound":4.606299208,"NOAA Adjusted Sea Level":null},{"Year":1957,"CSIRO Adjusted Sea Level":4.291338578,"Lower Error Bound":4.019685035,"Upper Error Bound":4.562992121,"NOAA Adjusted Sea Level":null},{"Year":1956,"CSIRO Adjusted Sea Level":3.763779524,"Lower Error Bound":3.488188973,"Upper Error Bound":4.039370075,"NOAA Adjusted Sea Level":null},{"Year":1955,"CSIRO Adjusted Sea Level":3.964566925,"Lower Error Bound":3.685039366,"Upper Error Bound":4.244094484,"NOAA Adjusted Sea Level":null},{"Year":1954,"CSIRO Adjusted Sea Level":3.929133854,"Lower Error Bound":3.64173228,"Upper Error Bound":4.216535429,"NOAA Adjusted Sea Level":null},{"Year":1953,"CSIRO Adjusted Sea Level":4.043307082,"Lower Error Bound":3.748031492,"Upper Error Bound":4.338582673,"NOAA Adjusted Sea Level":null},{"Year":1952,"CSIRO Adjusted Sea Level":3.870078736,"Lower Error Bound":3.56692913,"Upper Error Bound":4.173228342,"NOAA Adjusted Sea Level":null},{"Year":1951,"CSIRO Adjusted Sea Level":3.972440941,"Lower Error Bound":3.665354327,"Upper Error Bound":4.279527555,"NOAA Adjusted Sea Level":null},{"Year":1950,"CSIRO Adjusted Sea Level":3.598425193,"Lower Error Bound":3.287401571,"Upper Error Bound":3.909448815,"NOAA Adjusted Sea Level":null},{"Year":1949,"CSIRO Adjusted Sea Level":3.51181102,"Lower Error Bound":3.181102359,"Upper Error Bound":3.842519681,"NOAA Adjusted Sea Level":null},{"Year":1948,"CSIRO Adjusted Sea Level":3.562992122,"Lower Error Bound":3.19685039,"Upper Error Bound":3.929133854,"NOAA Adjusted Sea Level":null},{"Year":1947,"CSIRO Adjusted Sea Level":3.374015745,"Lower Error Bound":2.996062989,"Upper Error Bound":3.7519685,"NOAA Adjusted Sea Level":null},{"Year":1946,"CSIRO Adjusted Sea Level":3.251968501,"Lower Error Bound":2.834645666,"Upper Error Bound":3.669291335,"NOAA Adjusted Sea Level":null},{"Year":1945,"CSIRO Adjusted Sea Level":2.95669291,"Lower Error Bound":2.535433068,"Upper Error Bound":3.377952752,"NOAA Adjusted Sea Level":null},{"Year":1944,"CSIRO Adjusted Sea Level":2.84645669,"Lower Error Bound":2.425196848,"Upper Error Bound":3.267716532,"NOAA Adjusted Sea Level":null},{"Year":1943,"CSIRO Adjusted Sea Level":3.098425194,"Lower Error Bound":2.673228344,"Upper Error Bound":3.523622044,"NOAA Adjusted Sea Level":null},{"Year":1942,"CSIRO Adjusted Sea Level":3.098425194,"Lower Error Bound":2.673228344,"Upper Error Bound":3.523622044,"NOAA Adjusted Sea Level":null},{"Year":1941,"CSIRO Adjusted Sea Level":3.098425194,"Lower Error Bound":2.673228344,"Upper Error Bound":3.523622044,"NOAA Adjusted Sea Level":null},{"Year":1940,"CSIRO Adjusted Sea Level":2.618110234,"Lower Error Bound":2.18110236,"Upper Error Bound":3.055118107,"NOAA Adjusted Sea Level":null},{"Year":1939,"CSIRO Adjusted Sea Level":2.826771651,"Lower Error Bound":2.346456691,"Upper Error Bound":3.307086611,"NOAA Adjusted Sea Level":null},{"Year":1938,"CSIRO Adjusted Sea Level":2.622047241,"Lower Error Bound":2.157480313,"Upper Error Bound":3.08661417,"NOAA Adjusted Sea Level":null},{"Year":1937,"CSIRO Adjusted Sea Level":2.519685037,"Lower Error Bound":2.055118108,"Upper Error Bound":2.984251965,"NOAA Adjusted Sea Level":null},{"Year":1936,"CSIRO Adjusted Sea Level":2.295275588,"Lower Error Bound":1.83070866,"Upper Error Bound":2.759842517,"NOAA Adjusted Sea Level":null},{"Year":1935,"CSIRO Adjusted Sea Level":2.448818895,"Lower Error Bound":1.980314959,"Upper Error Bound":2.917322832,"NOAA Adjusted Sea Level":null},{"Year":1934,"CSIRO Adjusted Sea Level":2.228346454,"Lower Error Bound":1.759842518,"Upper Error Bound":2.696850391,"NOAA Adjusted Sea Level":null},{"Year":1933,"CSIRO Adjusted Sea Level":2.440944879,"Lower Error Bound":1.976377951,"Upper Error Bound":2.905511808,"NOAA Adjusted Sea Level":null},{"Year":1932,"CSIRO Adjusted Sea Level":2.271653541,"Lower Error Bound":1.803149604,"Upper Error Bound":2.740157478,"NOAA Adjusted Sea Level":null},{"Year":1931,"CSIRO Adjusted Sea Level":2.047244092,"Lower Error Bound":1.566929132,"Upper Error Bound":2.527559053,"NOAA Adjusted Sea Level":null},{"Year":1930,"CSIRO Adjusted Sea Level":2.062992124,"Lower Error Bound":1.590551179,"Upper Error Bound":2.535433068,"NOAA Adjusted Sea Level":null},{"Year":1929,"CSIRO Adjusted Sea Level":1.905511809,"Lower Error Bound":1.429133857,"Upper Error Bound":2.381889761,"NOAA Adjusted Sea Level":null},{"Year":1928,"CSIRO Adjusted Sea Level":1.850393699,"Lower Error Bound":1.366141731,"Upper Error Bound":2.334645667,"NOAA Adjusted Sea Level":null},{"Year":1927,"CSIRO Adjusted Sea Level":2.003937006,"Lower Error Bound":1.496062991,"Upper Error Bound":2.511811021,"NOAA Adjusted Sea Level":null},{"Year":1926,"CSIRO Adjusted Sea Level":2.047244092,"Lower Error Bound":1.507874014,"Upper Error Bound":2.586614171,"NOAA Adjusted Sea Level":null},{"Year":1925,"CSIRO Adjusted Sea Level":1.791338581,"Lower Error Bound":1.255905511,"Upper Error Bound":2.326771651,"NOAA Adjusted Sea Level":null},{"Year":1924,"CSIRO Adjusted Sea Level":1.712598423,"Lower Error Bound":1.196850392,"Upper Error Bound":2.228346454,"NOAA Adjusted Sea Level":null},{"Year":1923,"CSIRO Adjusted Sea Level":1.999999998,"Lower Error Bound":1.488188975,"Upper Error Bound":2.511811021,"NOAA Adjusted Sea Level":null},{"Year":1922,"CSIRO Adjusted Sea Level":1.952755904,"Lower Error Bound":1.433070865,"Upper Error Bound":2.472440942,"NOAA Adjusted Sea Level":null},{"Year":1921,"CSIRO Adjusted Sea Level":1.988188974,"Lower Error Bound":1.472440943,"Upper Error Bound":2.503937005,"NOAA Adjusted Sea Level":null},{"Year":1920,"CSIRO Adjusted Sea Level":1.905511809,"Lower Error Bound":1.393700786,"Upper Error Bound":2.417322832,"NOAA Adjusted Sea Level":null},{"Year":1919,"CSIRO Adjusted Sea Level":1.854330707,"Lower Error Bound":1.354330707,"Upper Error Bound":2.354330706,"NOAA Adjusted Sea Level":null},{"Year":1918,"CSIRO Adjusted Sea Level":1.791338581,"Lower Error Bound":1.291338581,"Upper Error Bound":2.29133858,"NOAA Adjusted Sea Level":null},{"Year":1917,"CSIRO Adjusted Sea Level":1.854330707,"Lower Error Bound":1.350393699,"Upper Error Bound":2.358267714,"NOAA Adjusted Sea Level":null},{"Year":1916,"CSIRO Adjusted Sea Level":2.031496061,"Lower Error Bound":1.519685038,"Upper Error Bound":2.543307084,"NOAA Adjusted Sea Level":null},{"Year":1915,"CSIRO Adjusted Sea Level":2.10629921,"Lower Error Bound":1.57086614,"Upper Error Bound":2.641732281,"NOAA Adjusted Sea Level":null},{"Year":1914,"CSIRO Adjusted Sea Level":1.795275589,"Lower Error Bound":1.251968503,"Upper Error Bound":2.338582675,"NOAA Adjusted Sea Level":null},{"Year":1913,"CSIRO Adjusted Sea Level":1.547244093,"Lower Error Bound":0.992125983,"Upper Error Bound":2.102362203,"NOAA Adjusted Sea Level":null},{"Year":1912,"CSIRO Adjusted Sea Level":1.476377951,"Lower Error Bound":0.917322834,"Upper Error Bound":2.035433069,"NOAA Adjusted Sea Level":null},{"Year":1911,"CSIRO Adjusted Sea Level":1.598425195,"Lower Error Bound":1.039370078,"Upper Error Bound":2.157480313,"NOAA Adjusted Sea Level":null},{"Year":1910,"CSIRO Adjusted Sea Level":1.271653542,"Lower Error Bound":0.696850393,"Upper Error Bound":1.846456691,"NOAA Adjusted Sea Level":null},{"Year":1909,"CSIRO Adjusted Sea Level":1.27559055,"Lower Error Bound":0.700787401,"Upper Error Bound":1.850393699,"NOAA Adjusted Sea Level":null},{"Year":1908,"CSIRO Adjusted Sea Level":1.098425196,"Lower Error Bound":0.527559055,"Upper Error Bound":1.669291337,"NOAA Adjusted Sea Level":null},{"Year":1907,"CSIRO Adjusted Sea Level":1.196850392,"Lower Error Bound":0.61023622,"Upper Error Bound":1.783464565,"NOAA Adjusted Sea Level":null},{"Year":1906,"CSIRO Adjusted Sea Level":1.251968503,"Lower Error Bound":0.673228346,"Upper Error Bound":1.83070866,"NOAA Adjusted Sea Level":null},{"Year":1905,"CSIRO Adjusted Sea Level":0.984251968,"Lower Error Bound":0.377952756,"Upper Error Bound":1.590551179,"NOAA Adjusted Sea Level":null},{"Year":1904,"CSIRO Adjusted Sea Level":1.2007874,"Lower Error Bound":0.53543307,"Upper Error Bound":1.86614173,"NOAA Adjusted Sea Level":null},{"Year":1903,"CSIRO Adjusted Sea Level":1.606299211,"Lower Error Bound":0.937007873,"Upper Error Bound":2.275590549,"NOAA Adjusted Sea Level":null},{"Year":1902,"CSIRO Adjusted Sea Level":1.291338581,"Lower Error Bound":0.61023622,"Upper Error Bound":1.972440943,"NOAA Adjusted Sea Level":null},{"Year":1901,"CSIRO Adjusted Sea Level":1.110236219,"Lower Error Bound":0.417322834,"Upper Error Bound":1.803149604,"NOAA Adjusted Sea Level":null},{"Year":1900,"CSIRO Adjusted Sea Level":1.125984251,"Lower Error Bound":0.405511811,"Upper Error Bound":1.846456691,"NOAA Adjusted Sea Level":null},{"Year":1899,"CSIRO Adjusted Sea Level":1.338582676,"Lower Error Bound":0.574803149,"Upper Error Bound":2.102362203,"NOAA Adjusted Sea Level":null},{"Year":1898,"CSIRO Adjusted Sea Level":1.043307086,"Lower Error Bound":0.267716535,"Upper Error Bound":1.818897636,"NOAA Adjusted Sea Level":null},{"Year":1897,"CSIRO Adjusted Sea Level":0.673228346,"Lower Error Bound":-0.145669291,"Upper Error Bound":1.492125983,"NOAA Adjusted Sea Level":null},{"Year":1896,"CSIRO Adjusted Sea Level":0.468503937,"Lower Error Bound":-0.366141732,"Upper Error Bound":1.303149605,"NOAA Adjusted Sea Level":null},{"Year":1895,"CSIRO Adjusted Sea Level":0.767716535,"Lower Error Bound":-0.082677165,"Upper Error Bound":1.618110235,"NOAA Adjusted Sea Level":null},{"Year":1894,"CSIRO Adjusted Sea Level":0.303149606,"Lower Error Bound":-0.547244094,"Upper Error Bound":1.153543306,"NOAA Adjusted Sea Level":null},{"Year":1893,"CSIRO Adjusted Sea Level":0.685039369,"Lower Error Bound":-0.114173228,"Upper Error Bound":1.484251967,"NOAA Adjusted Sea Level":null},{"Year":1892,"CSIRO Adjusted Sea Level":0.499999999,"Lower Error Bound":-0.31496063,"Upper Error Bound":1.314960629,"NOAA Adjusted Sea Level":null},{"Year":1891,"CSIRO Adjusted Sea Level":0.374015748,"Lower Error Bound":-0.440944881,"Upper Error Bound":1.188976377,"NOAA Adjusted Sea Level":null},{"Year":1890,"CSIRO Adjusted Sea Level":0.440944881,"Lower Error Bound":-0.374015748,"Upper Error Bound":1.255905511,"NOAA Adjusted Sea Level":null},{"Year":1889,"CSIRO Adjusted Sea Level":0.362204724,"Lower Error Bound":-0.456692913,"Upper Error Bound":1.181102361,"NOAA Adjusted Sea Level":null},{"Year":1888,"CSIRO Adjusted Sea Level":0.299212598,"Lower Error Bound":-0.519685039,"Upper Error Bound":1.118110235,"NOAA Adjusted Sea Level":null},{"Year":1887,"CSIRO Adjusted Sea Level":0.216535433,"Lower Error Bound":-0.602362204,"Upper Error Bound":1.03543307,"NOAA Adjusted Sea Level":null},{"Year":1886,"CSIRO Adjusted Sea Level":0.437007874,"Lower Error Bound":-0.381889763,"Upper Error Bound":1.255905511,"NOAA Adjusted Sea Level":null},{"Year":1885,"CSIRO Adjusted Sea Level":0.531496062,"Lower Error Bound":-0.330708661,"Upper Error Bound":1.393700786,"NOAA Adjusted Sea Level":null},{"Year":1884,"CSIRO Adjusted Sea Level":0.590551181,"Lower Error Bound":-0.283464567,"Upper Error Bound":1.464566928,"NOAA Adjusted Sea Level":null},{"Year":1883,"CSIRO Adjusted Sea Level":-0.232283464,"Lower Error Bound":-1.129921259,"Upper Error Bound":0.66535433,"NOAA Adjusted Sea Level":null},{"Year":1882,"CSIRO Adjusted Sea Level":-0.440944881,"Lower Error Bound":-1.346456692,"Upper Error Bound":0.464566929,"NOAA Adjusted Sea Level":null},{"Year":1881,"CSIRO Adjusted Sea Level":0.220472441,"Lower Error Bound":-0.732283464,"Upper Error Bound":1.173228345,"NOAA Adjusted Sea Level":null},{"Year":1880,"CSIRO Adjusted Sea Level":0,"Lower Error Bound":-0.952755905,"Upper Error Bound":0.952755905,"NOAA Adjusted Sea Level":null}]
+[
+  {
+    "Year": 2014,
+    "CSIRO Adjusted Sea Level": null,
+    "Lower Error Bound": null,
+    "Upper Error Bound": null,
+    "NOAA Adjusted Sea Level": 8.663700393
+  },
+  {
+    "Year": 2013,
+    "CSIRO Adjusted Sea Level": 8.980314951,
+    "Lower Error Bound": 8.622047235,
+    "Upper Error Bound": 9.338582668,
+    "NOAA Adjusted Sea Level": 8.546648227
+  },
+  {
+    "Year": 2012,
+    "CSIRO Adjusted Sea Level": 9.326771644,
+    "Lower Error Bound": 8.992125975,
+    "Upper Error Bound": 9.661417313,
+    "NOAA Adjusted Sea Level": 8.457057629
+  },
+  {
+    "Year": 2011,
+    "CSIRO Adjusted Sea Level": 8.96456692,
+    "Lower Error Bound": 8.661417314,
+    "Upper Error Bound": 9.267716526,
+    "NOAA Adjusted Sea Level": 8.053065004
+  },
+  {
+    "Year": 2010,
+    "CSIRO Adjusted Sea Level": 8.901574794,
+    "Lower Error Bound": 8.618110227,
+    "Upper Error Bound": 9.185039361,
+    "NOAA Adjusted Sea Level": 8.122972567
+  },
+  {
+    "Year": 2009,
+    "CSIRO Adjusted Sea Level": 8.586614164,
+    "Lower Error Bound": 8.311023614,
+    "Upper Error Bound": 8.862204715,
+    "NOAA Adjusted Sea Level": 8.04635409
+  },
+  {
+    "Year": 2008,
+    "CSIRO Adjusted Sea Level": 8.350393692,
+    "Lower Error Bound": 8.078740149,
+    "Upper Error Bound": 8.622047235,
+    "NOAA Adjusted Sea Level": 7.90736541
+  },
+  {
+    "Year": 2007,
+    "CSIRO Adjusted Sea Level": 7.996062984,
+    "Lower Error Bound": 7.712598417,
+    "Upper Error Bound": 8.279527551,
+    "NOAA Adjusted Sea Level": 7.70214715
+  },
+  {
+    "Year": 2006,
+    "CSIRO Adjusted Sea Level": 7.917322827,
+    "Lower Error Bound": 7.645669284,
+    "Upper Error Bound": 8.18897637,
+    "NOAA Adjusted Sea Level": 7.697420009
+  },
+  {
+    "Year": 2005,
+    "CSIRO Adjusted Sea Level": 7.74409448,
+    "Lower Error Bound": 7.472440937,
+    "Upper Error Bound": 8.015748023,
+    "NOAA Adjusted Sea Level": 7.644563144
+  },
+  {
+    "Year": 2004,
+    "CSIRO Adjusted Sea Level": 7.740157472,
+    "Lower Error Bound": 7.464566922,
+    "Upper Error Bound": 8.015748023,
+    "NOAA Adjusted Sea Level": 7.507932839
+  },
+  {
+    "Year": 2003,
+    "CSIRO Adjusted Sea Level": 7.759842512,
+    "Lower Error Bound": 7.484251961,
+    "Upper Error Bound": 8.035433063,
+    "NOAA Adjusted Sea Level": 7.488352718
+  },
+  {
+    "Year": 2002,
+    "CSIRO Adjusted Sea Level": 7.381889756,
+    "Lower Error Bound": 7.110236213,
+    "Upper Error Bound": 7.653543299,
+    "NOAA Adjusted Sea Level": 7.319697525
+  },
+  {
+    "Year": 2001,
+    "CSIRO Adjusted Sea Level": 7.287401567,
+    "Lower Error Bound": 7.019685032,
+    "Upper Error Bound": 7.555118103,
+    "NOAA Adjusted Sea Level": 7.087460011
+  },
+  {
+    "Year": 2000,
+    "CSIRO Adjusted Sea Level": 7.062992119,
+    "Lower Error Bound": 6.791338576,
+    "Upper Error Bound": 7.334645662,
+    "NOAA Adjusted Sea Level": 6.920582014
+  },
+  {
+    "Year": 1999,
+    "CSIRO Adjusted Sea Level": 7.011811016,
+    "Lower Error Bound": 6.736220466,
+    "Upper Error Bound": 7.287401567,
+    "NOAA Adjusted Sea Level": 6.848689771
+  },
+  {
+    "Year": 1998,
+    "CSIRO Adjusted Sea Level": 6.665354324,
+    "Lower Error Bound": 6.393700781,
+    "Upper Error Bound": 6.937007867,
+    "NOAA Adjusted Sea Level": 6.865806069
+  },
+  {
+    "Year": 1997,
+    "CSIRO Adjusted Sea Level": 7.066929127,
+    "Lower Error Bound": 6.803149599,
+    "Upper Error Bound": 7.330708654,
+    "NOAA Adjusted Sea Level": 6.733920367
+  },
+  {
+    "Year": 1996,
+    "CSIRO Adjusted Sea Level": 6.787401568,
+    "Lower Error Bound": 6.523622041,
+    "Upper Error Bound": 7.051181095,
+    "NOAA Adjusted Sea Level": 6.62763131
+  },
+  {
+    "Year": 1995,
+    "CSIRO Adjusted Sea Level": 6.618110229,
+    "Lower Error Bound": 6.354330702,
+    "Upper Error Bound": 6.881889757,
+    "NOAA Adjusted Sea Level": 6.452568661
+  },
+  {
+    "Year": 1994,
+    "CSIRO Adjusted Sea Level": 6.499999993,
+    "Lower Error Bound": 6.236220466,
+    "Upper Error Bound": 6.763779521,
+    "NOAA Adjusted Sea Level": 6.310933553
+  },
+  {
+    "Year": 1993,
+    "CSIRO Adjusted Sea Level": 6.291338576,
+    "Lower Error Bound": 6.027559049,
+    "Upper Error Bound": 6.555118104,
+    "NOAA Adjusted Sea Level": 6.297493046
+  },
+  {
+    "Year": 1992,
+    "CSIRO Adjusted Sea Level": 6.35826771,
+    "Lower Error Bound": 6.094488183,
+    "Upper Error Bound": 6.622047237,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1991,
+    "CSIRO Adjusted Sea Level": 6.334645663,
+    "Lower Error Bound": 6.074803143,
+    "Upper Error Bound": 6.594488182,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1990,
+    "CSIRO Adjusted Sea Level": 6.232283458,
+    "Lower Error Bound": 5.972440939,
+    "Upper Error Bound": 6.492125978,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1989,
+    "CSIRO Adjusted Sea Level": 6.157480309,
+    "Lower Error Bound": 5.905511805,
+    "Upper Error Bound": 6.409448812,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1988,
+    "CSIRO Adjusted Sea Level": 5.980314955,
+    "Lower Error Bound": 5.732283459,
+    "Upper Error Bound": 6.22834645,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1987,
+    "CSIRO Adjusted Sea Level": 5.795275585,
+    "Lower Error Bound": 5.551181097,
+    "Upper Error Bound": 6.039370073,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1986,
+    "CSIRO Adjusted Sea Level": 5.771653537,
+    "Lower Error Bound": 5.523622042,
+    "Upper Error Bound": 6.019685033,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1985,
+    "CSIRO Adjusted Sea Level": 5.74803149,
+    "Lower Error Bound": 5.499999994,
+    "Upper Error Bound": 5.996062986,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1984,
+    "CSIRO Adjusted Sea Level": 6.153543301,
+    "Lower Error Bound": 5.905511805,
+    "Upper Error Bound": 6.401574797,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1983,
+    "CSIRO Adjusted Sea Level": 6.188976372,
+    "Lower Error Bound": 5.93307086,
+    "Upper Error Bound": 6.444881883,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1982,
+    "CSIRO Adjusted Sea Level": 5.858267711,
+    "Lower Error Bound": 5.610236215,
+    "Upper Error Bound": 6.106299206,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1981,
+    "CSIRO Adjusted Sea Level": 6.086614167,
+    "Lower Error Bound": 5.830708655,
+    "Upper Error Bound": 6.342519679,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1980,
+    "CSIRO Adjusted Sea Level": 5.598425191,
+    "Lower Error Bound": 5.34251968,
+    "Upper Error Bound": 5.854330703,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1979,
+    "CSIRO Adjusted Sea Level": 5.362204719,
+    "Lower Error Bound": 5.098425192,
+    "Upper Error Bound": 5.625984246,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1978,
+    "CSIRO Adjusted Sea Level": 5.555118105,
+    "Lower Error Bound": 5.291338577,
+    "Upper Error Bound": 5.818897632,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1977,
+    "CSIRO Adjusted Sea Level": 5.303149601,
+    "Lower Error Bound": 5.043307081,
+    "Upper Error Bound": 5.56299212,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1976,
+    "CSIRO Adjusted Sea Level": 5.370078735,
+    "Lower Error Bound": 5.1023622,
+    "Upper Error Bound": 5.63779527,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1975,
+    "CSIRO Adjusted Sea Level": 5.409448813,
+    "Lower Error Bound": 5.145669286,
+    "Upper Error Bound": 5.673228341,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1974,
+    "CSIRO Adjusted Sea Level": 5.472440939,
+    "Lower Error Bound": 5.204724404,
+    "Upper Error Bound": 5.740157474,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1973,
+    "CSIRO Adjusted Sea Level": 5.003937003,
+    "Lower Error Bound": 4.736220468,
+    "Upper Error Bound": 5.271653538,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1972,
+    "CSIRO Adjusted Sea Level": 5.240157475,
+    "Lower Error Bound": 4.968503932,
+    "Upper Error Bound": 5.511811018,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1971,
+    "CSIRO Adjusted Sea Level": 4.881889759,
+    "Lower Error Bound": 4.610236216,
+    "Upper Error Bound": 5.153543302,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1970,
+    "CSIRO Adjusted Sea Level": 4.67716535,
+    "Lower Error Bound": 4.401574799,
+    "Upper Error Bound": 4.9527559,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1969,
+    "CSIRO Adjusted Sea Level": 4.751968499,
+    "Lower Error Bound": 4.476377948,
+    "Upper Error Bound": 5.02755905,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1968,
+    "CSIRO Adjusted Sea Level": 4.484251964,
+    "Lower Error Bound": 4.220472437,
+    "Upper Error Bound": 4.748031491,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1967,
+    "CSIRO Adjusted Sea Level": 4.452755901,
+    "Lower Error Bound": 4.196850389,
+    "Upper Error Bound": 4.708661413,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1966,
+    "CSIRO Adjusted Sea Level": 4.397637791,
+    "Lower Error Bound": 4.137795271,
+    "Upper Error Bound": 4.65748031,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1965,
+    "CSIRO Adjusted Sea Level": 4.610236216,
+    "Lower Error Bound": 4.346456688,
+    "Upper Error Bound": 4.874015743,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1964,
+    "CSIRO Adjusted Sea Level": 4.169291334,
+    "Lower Error Bound": 3.905511807,
+    "Upper Error Bound": 4.433070862,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1963,
+    "CSIRO Adjusted Sea Level": 4.480314956,
+    "Lower Error Bound": 4.220472437,
+    "Upper Error Bound": 4.740157475,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1962,
+    "CSIRO Adjusted Sea Level": 4.543307082,
+    "Lower Error Bound": 4.283464563,
+    "Upper Error Bound": 4.803149601,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1961,
+    "CSIRO Adjusted Sea Level": 4.748031491,
+    "Lower Error Bound": 4.488188972,
+    "Upper Error Bound": 5.007874011,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1960,
+    "CSIRO Adjusted Sea Level": 4.503937003,
+    "Lower Error Bound": 4.244094484,
+    "Upper Error Bound": 4.763779523,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1959,
+    "CSIRO Adjusted Sea Level": 4.358267712,
+    "Lower Error Bound": 4.102362201,
+    "Upper Error Bound": 4.614173224,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1958,
+    "CSIRO Adjusted Sea Level": 4.346456688,
+    "Lower Error Bound": 4.086614169,
+    "Upper Error Bound": 4.606299208,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1957,
+    "CSIRO Adjusted Sea Level": 4.291338578,
+    "Lower Error Bound": 4.019685035,
+    "Upper Error Bound": 4.562992121,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1956,
+    "CSIRO Adjusted Sea Level": 3.763779524,
+    "Lower Error Bound": 3.488188973,
+    "Upper Error Bound": 4.039370075,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1955,
+    "CSIRO Adjusted Sea Level": 3.964566925,
+    "Lower Error Bound": 3.685039366,
+    "Upper Error Bound": 4.244094484,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1954,
+    "CSIRO Adjusted Sea Level": 3.929133854,
+    "Lower Error Bound": 3.64173228,
+    "Upper Error Bound": 4.216535429,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1953,
+    "CSIRO Adjusted Sea Level": 4.043307082,
+    "Lower Error Bound": 3.748031492,
+    "Upper Error Bound": 4.338582673,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1952,
+    "CSIRO Adjusted Sea Level": 3.870078736,
+    "Lower Error Bound": 3.56692913,
+    "Upper Error Bound": 4.173228342,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1951,
+    "CSIRO Adjusted Sea Level": 3.972440941,
+    "Lower Error Bound": 3.665354327,
+    "Upper Error Bound": 4.279527555,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1950,
+    "CSIRO Adjusted Sea Level": 3.598425193,
+    "Lower Error Bound": 3.287401571,
+    "Upper Error Bound": 3.909448815,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1949,
+    "CSIRO Adjusted Sea Level": 3.51181102,
+    "Lower Error Bound": 3.181102359,
+    "Upper Error Bound": 3.842519681,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1948,
+    "CSIRO Adjusted Sea Level": 3.562992122,
+    "Lower Error Bound": 3.19685039,
+    "Upper Error Bound": 3.929133854,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1947,
+    "CSIRO Adjusted Sea Level": 3.374015745,
+    "Lower Error Bound": 2.996062989,
+    "Upper Error Bound": 3.7519685,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1946,
+    "CSIRO Adjusted Sea Level": 3.251968501,
+    "Lower Error Bound": 2.834645666,
+    "Upper Error Bound": 3.669291335,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1945,
+    "CSIRO Adjusted Sea Level": 2.95669291,
+    "Lower Error Bound": 2.535433068,
+    "Upper Error Bound": 3.377952752,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1944,
+    "CSIRO Adjusted Sea Level": 2.84645669,
+    "Lower Error Bound": 2.425196848,
+    "Upper Error Bound": 3.267716532,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1943,
+    "CSIRO Adjusted Sea Level": 3.098425194,
+    "Lower Error Bound": 2.673228344,
+    "Upper Error Bound": 3.523622044,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1942,
+    "CSIRO Adjusted Sea Level": 3.098425194,
+    "Lower Error Bound": 2.673228344,
+    "Upper Error Bound": 3.523622044,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1941,
+    "CSIRO Adjusted Sea Level": 3.098425194,
+    "Lower Error Bound": 2.673228344,
+    "Upper Error Bound": 3.523622044,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1940,
+    "CSIRO Adjusted Sea Level": 2.618110234,
+    "Lower Error Bound": 2.18110236,
+    "Upper Error Bound": 3.055118107,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1939,
+    "CSIRO Adjusted Sea Level": 2.826771651,
+    "Lower Error Bound": 2.346456691,
+    "Upper Error Bound": 3.307086611,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1938,
+    "CSIRO Adjusted Sea Level": 2.622047241,
+    "Lower Error Bound": 2.157480313,
+    "Upper Error Bound": 3.08661417,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1937,
+    "CSIRO Adjusted Sea Level": 2.519685037,
+    "Lower Error Bound": 2.055118108,
+    "Upper Error Bound": 2.984251965,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1936,
+    "CSIRO Adjusted Sea Level": 2.295275588,
+    "Lower Error Bound": 1.83070866,
+    "Upper Error Bound": 2.759842517,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1935,
+    "CSIRO Adjusted Sea Level": 2.448818895,
+    "Lower Error Bound": 1.980314959,
+    "Upper Error Bound": 2.917322832,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1934,
+    "CSIRO Adjusted Sea Level": 2.228346454,
+    "Lower Error Bound": 1.759842518,
+    "Upper Error Bound": 2.696850391,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1933,
+    "CSIRO Adjusted Sea Level": 2.440944879,
+    "Lower Error Bound": 1.976377951,
+    "Upper Error Bound": 2.905511808,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1932,
+    "CSIRO Adjusted Sea Level": 2.271653541,
+    "Lower Error Bound": 1.803149604,
+    "Upper Error Bound": 2.740157478,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1931,
+    "CSIRO Adjusted Sea Level": 2.047244092,
+    "Lower Error Bound": 1.566929132,
+    "Upper Error Bound": 2.527559053,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1930,
+    "CSIRO Adjusted Sea Level": 2.062992124,
+    "Lower Error Bound": 1.590551179,
+    "Upper Error Bound": 2.535433068,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1929,
+    "CSIRO Adjusted Sea Level": 1.905511809,
+    "Lower Error Bound": 1.429133857,
+    "Upper Error Bound": 2.381889761,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1928,
+    "CSIRO Adjusted Sea Level": 1.850393699,
+    "Lower Error Bound": 1.366141731,
+    "Upper Error Bound": 2.334645667,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1927,
+    "CSIRO Adjusted Sea Level": 2.003937006,
+    "Lower Error Bound": 1.496062991,
+    "Upper Error Bound": 2.511811021,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1926,
+    "CSIRO Adjusted Sea Level": 2.047244092,
+    "Lower Error Bound": 1.507874014,
+    "Upper Error Bound": 2.586614171,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1925,
+    "CSIRO Adjusted Sea Level": 1.791338581,
+    "Lower Error Bound": 1.255905511,
+    "Upper Error Bound": 2.326771651,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1924,
+    "CSIRO Adjusted Sea Level": 1.712598423,
+    "Lower Error Bound": 1.196850392,
+    "Upper Error Bound": 2.228346454,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1923,
+    "CSIRO Adjusted Sea Level": 1.999999998,
+    "Lower Error Bound": 1.488188975,
+    "Upper Error Bound": 2.511811021,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1922,
+    "CSIRO Adjusted Sea Level": 1.952755904,
+    "Lower Error Bound": 1.433070865,
+    "Upper Error Bound": 2.472440942,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1921,
+    "CSIRO Adjusted Sea Level": 1.988188974,
+    "Lower Error Bound": 1.472440943,
+    "Upper Error Bound": 2.503937005,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1920,
+    "CSIRO Adjusted Sea Level": 1.905511809,
+    "Lower Error Bound": 1.393700786,
+    "Upper Error Bound": 2.417322832,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1919,
+    "CSIRO Adjusted Sea Level": 1.854330707,
+    "Lower Error Bound": 1.354330707,
+    "Upper Error Bound": 2.354330706,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1918,
+    "CSIRO Adjusted Sea Level": 1.791338581,
+    "Lower Error Bound": 1.291338581,
+    "Upper Error Bound": 2.29133858,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1917,
+    "CSIRO Adjusted Sea Level": 1.854330707,
+    "Lower Error Bound": 1.350393699,
+    "Upper Error Bound": 2.358267714,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1916,
+    "CSIRO Adjusted Sea Level": 2.031496061,
+    "Lower Error Bound": 1.519685038,
+    "Upper Error Bound": 2.543307084,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1915,
+    "CSIRO Adjusted Sea Level": 2.10629921,
+    "Lower Error Bound": 1.57086614,
+    "Upper Error Bound": 2.641732281,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1914,
+    "CSIRO Adjusted Sea Level": 1.795275589,
+    "Lower Error Bound": 1.251968503,
+    "Upper Error Bound": 2.338582675,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1913,
+    "CSIRO Adjusted Sea Level": 1.547244093,
+    "Lower Error Bound": 0.992125983,
+    "Upper Error Bound": 2.102362203,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1912,
+    "CSIRO Adjusted Sea Level": 1.476377951,
+    "Lower Error Bound": 0.917322834,
+    "Upper Error Bound": 2.035433069,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1911,
+    "CSIRO Adjusted Sea Level": 1.598425195,
+    "Lower Error Bound": 1.039370078,
+    "Upper Error Bound": 2.157480313,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1910,
+    "CSIRO Adjusted Sea Level": 1.271653542,
+    "Lower Error Bound": 0.696850393,
+    "Upper Error Bound": 1.846456691,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1909,
+    "CSIRO Adjusted Sea Level": 1.27559055,
+    "Lower Error Bound": 0.700787401,
+    "Upper Error Bound": 1.850393699,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1908,
+    "CSIRO Adjusted Sea Level": 1.098425196,
+    "Lower Error Bound": 0.527559055,
+    "Upper Error Bound": 1.669291337,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1907,
+    "CSIRO Adjusted Sea Level": 1.196850392,
+    "Lower Error Bound": 0.61023622,
+    "Upper Error Bound": 1.783464565,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1906,
+    "CSIRO Adjusted Sea Level": 1.251968503,
+    "Lower Error Bound": 0.673228346,
+    "Upper Error Bound": 1.83070866,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1905,
+    "CSIRO Adjusted Sea Level": 0.984251968,
+    "Lower Error Bound": 0.377952756,
+    "Upper Error Bound": 1.590551179,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1904,
+    "CSIRO Adjusted Sea Level": 1.2007874,
+    "Lower Error Bound": 0.53543307,
+    "Upper Error Bound": 1.86614173,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1903,
+    "CSIRO Adjusted Sea Level": 1.606299211,
+    "Lower Error Bound": 0.937007873,
+    "Upper Error Bound": 2.275590549,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1902,
+    "CSIRO Adjusted Sea Level": 1.291338581,
+    "Lower Error Bound": 0.61023622,
+    "Upper Error Bound": 1.972440943,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1901,
+    "CSIRO Adjusted Sea Level": 1.110236219,
+    "Lower Error Bound": 0.417322834,
+    "Upper Error Bound": 1.803149604,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1900,
+    "CSIRO Adjusted Sea Level": 1.125984251,
+    "Lower Error Bound": 0.405511811,
+    "Upper Error Bound": 1.846456691,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1899,
+    "CSIRO Adjusted Sea Level": 1.338582676,
+    "Lower Error Bound": 0.574803149,
+    "Upper Error Bound": 2.102362203,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1898,
+    "CSIRO Adjusted Sea Level": 1.043307086,
+    "Lower Error Bound": 0.267716535,
+    "Upper Error Bound": 1.818897636,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1897,
+    "CSIRO Adjusted Sea Level": 0.673228346,
+    "Lower Error Bound": -0.145669291,
+    "Upper Error Bound": 1.492125983,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1896,
+    "CSIRO Adjusted Sea Level": 0.468503937,
+    "Lower Error Bound": -0.366141732,
+    "Upper Error Bound": 1.303149605,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1895,
+    "CSIRO Adjusted Sea Level": 0.767716535,
+    "Lower Error Bound": -0.082677165,
+    "Upper Error Bound": 1.618110235,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1894,
+    "CSIRO Adjusted Sea Level": 0.303149606,
+    "Lower Error Bound": -0.547244094,
+    "Upper Error Bound": 1.153543306,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1893,
+    "CSIRO Adjusted Sea Level": 0.685039369,
+    "Lower Error Bound": -0.114173228,
+    "Upper Error Bound": 1.484251967,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1892,
+    "CSIRO Adjusted Sea Level": 0.499999999,
+    "Lower Error Bound": -0.31496063,
+    "Upper Error Bound": 1.314960629,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1891,
+    "CSIRO Adjusted Sea Level": 0.374015748,
+    "Lower Error Bound": -0.440944881,
+    "Upper Error Bound": 1.188976377,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1890,
+    "CSIRO Adjusted Sea Level": 0.440944881,
+    "Lower Error Bound": -0.374015748,
+    "Upper Error Bound": 1.255905511,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1889,
+    "CSIRO Adjusted Sea Level": 0.362204724,
+    "Lower Error Bound": -0.456692913,
+    "Upper Error Bound": 1.181102361,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1888,
+    "CSIRO Adjusted Sea Level": 0.299212598,
+    "Lower Error Bound": -0.519685039,
+    "Upper Error Bound": 1.118110235,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1887,
+    "CSIRO Adjusted Sea Level": 0.216535433,
+    "Lower Error Bound": -0.602362204,
+    "Upper Error Bound": 1.03543307,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1886,
+    "CSIRO Adjusted Sea Level": 0.437007874,
+    "Lower Error Bound": -0.381889763,
+    "Upper Error Bound": 1.255905511,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1885,
+    "CSIRO Adjusted Sea Level": 0.531496062,
+    "Lower Error Bound": -0.330708661,
+    "Upper Error Bound": 1.393700786,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1884,
+    "CSIRO Adjusted Sea Level": 0.590551181,
+    "Lower Error Bound": -0.283464567,
+    "Upper Error Bound": 1.464566928,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1883,
+    "CSIRO Adjusted Sea Level": -0.232283464,
+    "Lower Error Bound": -1.129921259,
+    "Upper Error Bound": 0.66535433,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1882,
+    "CSIRO Adjusted Sea Level": -0.440944881,
+    "Lower Error Bound": -1.346456692,
+    "Upper Error Bound": 0.464566929,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1881,
+    "CSIRO Adjusted Sea Level": 0.220472441,
+    "Lower Error Bound": -0.732283464,
+    "Upper Error Bound": 1.173228345,
+    "NOAA Adjusted Sea Level": null
+  },
+  {
+    "Year": 1880,
+    "CSIRO Adjusted Sea Level": 0,
+    "Lower Error Bound": -0.952755905,
+    "Upper Error Bound": 0.952755905,
+    "NOAA Adjusted Sea Level": null
+  }
+]

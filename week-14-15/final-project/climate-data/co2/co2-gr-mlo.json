@@ -1,1 +1,322 @@
-[{"Year":2022,"Annual Increase":1.81,"Uncertainty":0.11},{"Year":2021,"Annual Increase":2.36,"Uncertainty":0.11},{"Year":2020,"Annual Increase":2.32,"Uncertainty":0.11},{"Year":2019,"Annual Increase":2.49,"Uncertainty":0.11},{"Year":2018,"Annual Increase":2.85,"Uncertainty":0.11},{"Year":2017,"Annual Increase":1.9,"Uncertainty":0.11},{"Year":2016,"Annual Increase":3.03,"Uncertainty":0.11},{"Year":2015,"Annual Increase":2.95,"Uncertainty":0.11},{"Year":2014,"Annual Increase":2.17,"Uncertainty":0.11},{"Year":2013,"Annual Increase":1.99,"Uncertainty":0.11},{"Year":2012,"Annual Increase":2.65,"Uncertainty":0.11},{"Year":2011,"Annual Increase":1.92,"Uncertainty":0.11},{"Year":2010,"Annual Increase":2.3,"Uncertainty":0.11},{"Year":2009,"Annual Increase":2,"Uncertainty":0.11},{"Year":2008,"Annual Increase":1.54,"Uncertainty":0.11},{"Year":2007,"Annual Increase":2.31,"Uncertainty":0.11},{"Year":2006,"Annual Increase":1.69,"Uncertainty":0.11},{"Year":2005,"Annual Increase":2.57,"Uncertainty":0.11},{"Year":2004,"Annual Increase":1.59,"Uncertainty":0.11},{"Year":2003,"Annual Increase":2.27,"Uncertainty":0.11},{"Year":2002,"Annual Increase":2.51,"Uncertainty":0.11},{"Year":2001,"Annual Increase":1.62,"Uncertainty":0.11},{"Year":2000,"Annual Increase":1.62,"Uncertainty":0.11},{"Year":1999,"Annual Increase":0.92,"Uncertainty":0.11},{"Year":1998,"Annual Increase":2.97,"Uncertainty":0.11},{"Year":1997,"Annual Increase":1.91,"Uncertainty":0.11},{"Year":1996,"Annual Increase":1.24,"Uncertainty":0.11},{"Year":1995,"Annual Increase":2.01,"Uncertainty":0.11},{"Year":1994,"Annual Increase":1.96,"Uncertainty":0.11},{"Year":1993,"Annual Increase":1.36,"Uncertainty":0.11},{"Year":1992,"Annual Increase":0.49,"Uncertainty":0.11},{"Year":1991,"Annual Increase":1.05,"Uncertainty":0.11},{"Year":1990,"Annual Increase":1.2,"Uncertainty":0.11},{"Year":1989,"Annual Increase":1.24,"Uncertainty":0.11},{"Year":1988,"Annual Increase":2.24,"Uncertainty":0.11},{"Year":1987,"Annual Increase":2.06,"Uncertainty":0.11},{"Year":1986,"Annual Increase":1.47,"Uncertainty":0.11},{"Year":1985,"Annual Increase":1.21,"Uncertainty":0.11},{"Year":1984,"Annual Increase":1.51,"Uncertainty":0.11},{"Year":1983,"Annual Increase":2.36,"Uncertainty":0.11},{"Year":1982,"Annual Increase":0.86,"Uncertainty":0.11},{"Year":1981,"Annual Increase":1.43,"Uncertainty":0.11},{"Year":1980,"Annual Increase":1.68,"Uncertainty":0.11},{"Year":1979,"Annual Increase":1.83,"Uncertainty":0.11},{"Year":1978,"Annual Increase":1.3,"Uncertainty":0.11},{"Year":1977,"Annual Increase":2.15,"Uncertainty":0.11},{"Year":1976,"Annual Increase":0.79,"Uncertainty":0.11},{"Year":1975,"Annual Increase":1.1,"Uncertainty":0.11},{"Year":1974,"Annual Increase":0.95,"Uncertainty":0.11},{"Year":1973,"Annual Increase":1.18,"Uncertainty":0.11},{"Year":1972,"Annual Increase":1.74,"Uncertainty":0.11},{"Year":1971,"Annual Increase":0.81,"Uncertainty":0.11},{"Year":1970,"Annual Increase":1,"Uncertainty":0.11},{"Year":1969,"Annual Increase":1.35,"Uncertainty":0.11},{"Year":1968,"Annual Increase":1.06,"Uncertainty":0.11},{"Year":1967,"Annual Increase":0.7,"Uncertainty":0.11},{"Year":1966,"Annual Increase":1.28,"Uncertainty":0.11},{"Year":1965,"Annual Increase":1.06,"Uncertainty":0.11},{"Year":1964,"Annual Increase":0.32,"Uncertainty":0.11},{"Year":1963,"Annual Increase":0.71,"Uncertainty":0.11},{"Year":1962,"Annual Increase":0.64,"Uncertainty":0.11},{"Year":1961,"Annual Increase":0.96,"Uncertainty":0.11},{"Year":1960,"Annual Increase":0.5,"Uncertainty":0.11},{"Year":1959,"Annual Increase":0.94,"Uncertainty":0.11}]
+[
+  {
+    "Year": 2022,
+    "Annual Increase": 1.81,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 2021,
+    "Annual Increase": 2.36,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 2020,
+    "Annual Increase": 2.32,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 2019,
+    "Annual Increase": 2.49,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 2018,
+    "Annual Increase": 2.85,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 2017,
+    "Annual Increase": 1.9,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 2016,
+    "Annual Increase": 3.03,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 2015,
+    "Annual Increase": 2.95,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 2014,
+    "Annual Increase": 2.17,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 2013,
+    "Annual Increase": 1.99,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 2012,
+    "Annual Increase": 2.65,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 2011,
+    "Annual Increase": 1.92,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 2010,
+    "Annual Increase": 2.3,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 2009,
+    "Annual Increase": 2,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 2008,
+    "Annual Increase": 1.54,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 2007,
+    "Annual Increase": 2.31,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 2006,
+    "Annual Increase": 1.69,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 2005,
+    "Annual Increase": 2.57,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 2004,
+    "Annual Increase": 1.59,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 2003,
+    "Annual Increase": 2.27,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 2002,
+    "Annual Increase": 2.51,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 2001,
+    "Annual Increase": 1.62,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 2000,
+    "Annual Increase": 1.62,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1999,
+    "Annual Increase": 0.92,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1998,
+    "Annual Increase": 2.97,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1997,
+    "Annual Increase": 1.91,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1996,
+    "Annual Increase": 1.24,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1995,
+    "Annual Increase": 2.01,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1994,
+    "Annual Increase": 1.96,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1993,
+    "Annual Increase": 1.36,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1992,
+    "Annual Increase": 0.49,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1991,
+    "Annual Increase": 1.05,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1990,
+    "Annual Increase": 1.2,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1989,
+    "Annual Increase": 1.24,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1988,
+    "Annual Increase": 2.24,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1987,
+    "Annual Increase": 2.06,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1986,
+    "Annual Increase": 1.47,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1985,
+    "Annual Increase": 1.21,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1984,
+    "Annual Increase": 1.51,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1983,
+    "Annual Increase": 2.36,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1982,
+    "Annual Increase": 0.86,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1981,
+    "Annual Increase": 1.43,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1980,
+    "Annual Increase": 1.68,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1979,
+    "Annual Increase": 1.83,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1978,
+    "Annual Increase": 1.3,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1977,
+    "Annual Increase": 2.15,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1976,
+    "Annual Increase": 0.79,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1975,
+    "Annual Increase": 1.1,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1974,
+    "Annual Increase": 0.95,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1973,
+    "Annual Increase": 1.18,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1972,
+    "Annual Increase": 1.74,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1971,
+    "Annual Increase": 0.81,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1970,
+    "Annual Increase": 1,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1969,
+    "Annual Increase": 1.35,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1968,
+    "Annual Increase": 1.06,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1967,
+    "Annual Increase": 0.7,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1966,
+    "Annual Increase": 1.28,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1965,
+    "Annual Increase": 1.06,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1964,
+    "Annual Increase": 0.32,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1963,
+    "Annual Increase": 0.71,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1962,
+    "Annual Increase": 0.64,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1961,
+    "Annual Increase": 0.96,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1960,
+    "Annual Increase": 0.5,
+    "Uncertainty": 0.11
+  },
+  {
+    "Year": 1959,
+    "Annual Increase": 0.94,
+    "Uncertainty": 0.11
+  }
+]

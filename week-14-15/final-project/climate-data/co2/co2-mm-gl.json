@@ -1,1 +1,5392 @@
-[{"Date":"1979-01","Decimal Date":1979.042,"Average":336.56,"Trend":0.11,"__parsed_extra":[335.92,0.09]},{"Date":"1979-02","Decimal Date":1979.125,"Average":337.29,"Trend":0.09,"__parsed_extra":[336.25,0.1]},{"Date":"1979-03","Decimal Date":1979.208,"Average":337.88,"Trend":0.11,"__parsed_extra":[336.51,0.1]},{"Date":"1979-04","Decimal Date":1979.292,"Average":338.32,"Trend":0.12,"__parsed_extra":[336.72,0.1]},{"Date":"1979-05","Decimal Date":1979.375,"Average":338.26,"Trend":0.03,"__parsed_extra":[336.71,0.1]},{"Date":"1979-06","Decimal Date":1979.458,"Average":337.38,"Trend":0.17,"__parsed_extra":[336.61,0.11]},{"Date":"1979-07","Decimal Date":1979.542,"Average":335.56,"Trend":0.27,"__parsed_extra":[336.41,0.11]},{"Date":"1979-08","Decimal Date":1979.625,"Average":334.37,"Trend":0.29,"__parsed_extra":[336.65,0.11]},{"Date":"1979-09","Decimal Date":1979.708,"Average":335.02,"Trend":0.22,"__parsed_extra":[337.4,0.11]},{"Date":"1979-10","Decimal Date":1979.792,"Average":336.36,"Trend":0.22,"__parsed_extra":[337.71,0.11]},{"Date":"1979-11","Decimal Date":1979.875,"Average":337.36,"Trend":0.18,"__parsed_extra":[337.68,0.11]},{"Date":"1979-12","Decimal Date":1979.958,"Average":337.85,"Trend":0.13,"__parsed_extra":[337.61,0.1]},{"Date":"1980-01","Decimal Date":1980.042,"Average":338.55,"Trend":0.13,"__parsed_extra":[337.91,0.1]},{"Date":"1980-02","Decimal Date":1980.125,"Average":339.26,"Trend":0.1,"__parsed_extra":[338.23,0.09]},{"Date":"1980-03","Decimal Date":1980.208,"Average":339.59,"Trend":0.08,"__parsed_extra":[338.23,0.09]},{"Date":"1980-04","Decimal Date":1980.292,"Average":339.99,"Trend":0.08,"__parsed_extra":[338.39,0.08]},{"Date":"1980-05","Decimal Date":1980.375,"Average":340.44,"Trend":0.1,"__parsed_extra":[338.88,0.07]},{"Date":"1980-06","Decimal Date":1980.458,"Average":339.99,"Trend":0.09,"__parsed_extra":[339.22,0.07]},{"Date":"1980-07","Decimal Date":1980.542,"Average":338.44,"Trend":0.16,"__parsed_extra":[339.28,0.07]},{"Date":"1980-08","Decimal Date":1980.625,"Average":337.21,"Trend":0.19,"__parsed_extra":[339.5,0.06]},{"Date":"1980-09","Decimal Date":1980.708,"Average":337.05,"Trend":0.12,"__parsed_extra":[339.44,0.06]},{"Date":"1980-10","Decimal Date":1980.792,"Average":337.83,"Trend":0.07,"__parsed_extra":[339.17,0.07]},{"Date":"1980-11","Decimal Date":1980.875,"Average":338.93,"Trend":0.06,"__parsed_extra":[339.26,0.07]},{"Date":"1980-12","Decimal Date":1980.958,"Average":339.64,"Trend":0.08,"__parsed_extra":[339.41,0.07]},{"Date":"1981-01","Decimal Date":1981.042,"Average":340.18,"Trend":0.1,"__parsed_extra":[339.55,0.08]},{"Date":"1981-02","Decimal Date":1981.125,"Average":340.75,"Trend":0.11,"__parsed_extra":[339.71,0.08]},{"Date":"1981-03","Decimal Date":1981.208,"Average":341.38,"Trend":0.12,"__parsed_extra":[340.02,0.08]},{"Date":"1981-04","Decimal Date":1981.292,"Average":341.68,"Trend":0.08,"__parsed_extra":[340.08,0.08]},{"Date":"1981-05","Decimal Date":1981.375,"Average":341.43,"Trend":0.06,"__parsed_extra":[339.88,0.09]},{"Date":"1981-06","Decimal Date":1981.458,"Average":340.63,"Trend":0.1,"__parsed_extra":[339.86,0.09]},{"Date":"1981-07","Decimal Date":1981.542,"Average":339.22,"Trend":0.15,"__parsed_extra":[340.07,0.09]},{"Date":"1981-08","Decimal Date":1981.625,"Average":338.08,"Trend":0.17,"__parsed_extra":[340.37,0.09]},{"Date":"1981-09","Decimal Date":1981.708,"Average":337.98,"Trend":0.11,"__parsed_extra":[340.36,0.08]},{"Date":"1981-10","Decimal Date":1981.792,"Average":339.07,"Trend":0.09,"__parsed_extra":[340.42,0.08]},{"Date":"1981-11","Decimal Date":1981.875,"Average":340.18,"Trend":0.11,"__parsed_extra":[340.5,0.07]},{"Date":"1981-12","Decimal Date":1981.958,"Average":340.75,"Trend":0.09,"__parsed_extra":[340.52,0.07]},{"Date":"1982-01","Decimal Date":1982.042,"Average":341.37,"Trend":0.08,"__parsed_extra":[340.74,0.06]},{"Date":"1982-02","Decimal Date":1982.125,"Average":341.95,"Trend":0.08,"__parsed_extra":[340.91,0.05]},{"Date":"1982-03","Decimal Date":1982.208,"Average":342.23,"Trend":0.07,"__parsed_extra":[340.84,0.05]},{"Date":"1982-04","Decimal Date":1982.292,"Average":342.52,"Trend":0.07,"__parsed_extra":[340.91,0.04]},{"Date":"1982-05","Decimal Date":1982.375,"Average":342.36,"Trend":0.07,"__parsed_extra":[340.82,0.04]},{"Date":"1982-06","Decimal Date":1982.458,"Average":341.49,"Trend":0.03,"__parsed_extra":[340.72,0.03]},{"Date":"1982-07","Decimal Date":1982.542,"Average":339.75,"Trend":0.08,"__parsed_extra":[340.61,0.03]},{"Date":"1982-08","Decimal Date":1982.625,"Average":338.11,"Trend":0.09,"__parsed_extra":[340.4,0.03]},{"Date":"1982-09","Decimal Date":1982.708,"Average":338.16,"Trend":0.07,"__parsed_extra":[340.54,0.03]},{"Date":"1982-10","Decimal Date":1982.792,"Average":339.61,"Trend":0.05,"__parsed_extra":[340.97,0.03]},{"Date":"1982-11","Decimal Date":1982.875,"Average":340.95,"Trend":0.06,"__parsed_extra":[341.27,0.03]},{"Date":"1982-12","Decimal Date":1982.958,"Average":341.77,"Trend":0.06,"__parsed_extra":[341.53,0.03]},{"Date":"1983-01","Decimal Date":1983.042,"Average":342.37,"Trend":0.05,"__parsed_extra":[341.71,0.03]},{"Date":"1983-02","Decimal Date":1983.125,"Average":342.74,"Trend":0.08,"__parsed_extra":[341.71,0.03]},{"Date":"1983-03","Decimal Date":1983.208,"Average":343.04,"Trend":0.08,"__parsed_extra":[341.7,0.03]},{"Date":"1983-04","Decimal Date":1983.292,"Average":343.51,"Trend":0.05,"__parsed_extra":[341.94,0.04]},{"Date":"1983-05","Decimal Date":1983.375,"Average":343.84,"Trend":0.1,"__parsed_extra":[342.3,0.04]},{"Date":"1983-06","Decimal Date":1983.458,"Average":343.5,"Trend":0.1,"__parsed_extra":[342.71,0.04]},{"Date":"1983-07","Decimal Date":1983.542,"Average":342.14,"Trend":0.14,"__parsed_extra":[342.9,0.05]},{"Date":"1983-08","Decimal Date":1983.625,"Average":340.62,"Trend":0.16,"__parsed_extra":[342.85,0.05]},{"Date":"1983-09","Decimal Date":1983.708,"Average":340.53,"Trend":0.09,"__parsed_extra":[342.94,0.05]},{"Date":"1983-10","Decimal Date":1983.792,"Average":341.75,"Trend":0.11,"__parsed_extra":[343.15,0.06]},{"Date":"1983-11","Decimal Date":1983.875,"Average":342.83,"Trend":0.14,"__parsed_extra":[343.19,0.06]},{"Date":"1983-12","Decimal Date":1983.958,"Average":343.49,"Trend":0.11,"__parsed_extra":[343.26,0.06]},{"Date":"1984-01","Decimal Date":1984.042,"Average":344.32,"Trend":0.05,"__parsed_extra":[343.66,0.06]},{"Date":"1984-02","Decimal Date":1984.125,"Average":344.82,"Trend":0.05,"__parsed_extra":[343.82,0.07]},{"Date":"1984-03","Decimal Date":1984.208,"Average":344.96,"Trend":0.07,"__parsed_extra":[343.6,0.07]},{"Date":"1984-04","Decimal Date":1984.292,"Average":345.19,"Trend":0.13,"__parsed_extra":[343.56,0.07]},{"Date":"1984-05","Decimal Date":1984.375,"Average":345.33,"Trend":0.1,"__parsed_extra":[343.78,0.08]},{"Date":"1984-06","Decimal Date":1984.458,"Average":344.57,"Trend":0.05,"__parsed_extra":[343.8,0.08]},{"Date":"1984-07","Decimal Date":1984.542,"Average":343.2,"Trend":0.11,"__parsed_extra":[344.02,0.08]},{"Date":"1984-08","Decimal Date":1984.625,"Average":342.21,"Trend":0.16,"__parsed_extra":[344.51,0.08]},{"Date":"1984-09","Decimal Date":1984.708,"Average":342.13,"Trend":0.15,"__parsed_extra":[344.57,0.09]},{"Date":"1984-10","Decimal Date":1984.792,"Average":342.99,"Trend":0.13,"__parsed_extra":[344.37,0.09]},{"Date":"1984-11","Decimal Date":1984.875,"Average":344.16,"Trend":0.14,"__parsed_extra":[344.46,0.09]},{"Date":"1984-12","Decimal Date":1984.958,"Average":345,"Trend":0.12,"__parsed_extra":[344.72,0.09]},{"Date":"1985-01","Decimal Date":1985.042,"Average":345.35,"Trend":0.1,"__parsed_extra":[344.66,0.09]},{"Date":"1985-02","Decimal Date":1985.125,"Average":345.8,"Trend":0.1,"__parsed_extra":[344.78,0.09]},{"Date":"1985-03","Decimal Date":1985.208,"Average":346.64,"Trend":0.11,"__parsed_extra":[345.31,0.09]},{"Date":"1985-04","Decimal Date":1985.292,"Average":346.94,"Trend":0.11,"__parsed_extra":[345.33,0.09]},{"Date":"1985-05","Decimal Date":1985.375,"Average":346.78,"Trend":0.1,"__parsed_extra":[345.2,0.09]},{"Date":"1985-06","Decimal Date":1985.458,"Average":346.26,"Trend":0.11,"__parsed_extra":[345.47,0.09]},{"Date":"1985-07","Decimal Date":1985.542,"Average":344.92,"Trend":0.14,"__parsed_extra":[345.75,0.09]},{"Date":"1985-08","Decimal Date":1985.625,"Average":343.41,"Trend":0.13,"__parsed_extra":[345.73,0.08]},{"Date":"1985-09","Decimal Date":1985.708,"Average":343.37,"Trend":0.08,"__parsed_extra":[345.82,0.08]},{"Date":"1985-10","Decimal Date":1985.792,"Average":344.64,"Trend":0.08,"__parsed_extra":[346.03,0.08]},{"Date":"1985-11","Decimal Date":1985.875,"Average":345.79,"Trend":0.1,"__parsed_extra":[346.11,0.08]},{"Date":"1985-12","Decimal Date":1985.958,"Average":346.55,"Trend":0.1,"__parsed_extra":[346.25,0.07]},{"Date":"1986-01","Decimal Date":1986.042,"Average":347.11,"Trend":0.11,"__parsed_extra":[346.42,0.07]},{"Date":"1986-02","Decimal Date":1986.125,"Average":347.34,"Trend":0.12,"__parsed_extra":[346.34,0.07]},{"Date":"1986-03","Decimal Date":1986.208,"Average":347.71,"Trend":0.12,"__parsed_extra":[346.38,0.07]},{"Date":"1986-04","Decimal Date":1986.292,"Average":348.22,"Trend":0.13,"__parsed_extra":[346.61,0.07]},{"Date":"1986-05","Decimal Date":1986.375,"Average":348.32,"Trend":0.11,"__parsed_extra":[346.75,0.07]},{"Date":"1986-06","Decimal Date":1986.458,"Average":347.76,"Trend":0.09,"__parsed_extra":[346.99,0.07]},{"Date":"1986-07","Decimal Date":1986.542,"Average":346.29,"Trend":0.15,"__parsed_extra":[347.14,0.07]},{"Date":"1986-08","Decimal Date":1986.625,"Average":344.92,"Trend":0.12,"__parsed_extra":[347.22,0.07]},{"Date":"1986-09","Decimal Date":1986.708,"Average":344.86,"Trend":0.1,"__parsed_extra":[347.26,0.07]},{"Date":"1986-10","Decimal Date":1986.792,"Average":346.03,"Trend":0.14,"__parsed_extra":[347.4,0.07]},{"Date":"1986-11","Decimal Date":1986.875,"Average":347.3,"Trend":0.16,"__parsed_extra":[347.63,0.08]},{"Date":"1986-12","Decimal Date":1986.958,"Average":347.76,"Trend":0.14,"__parsed_extra":[347.46,0.08]},{"Date":"1987-01","Decimal Date":1987.042,"Average":348.02,"Trend":0.11,"__parsed_extra":[347.24,0.08]},{"Date":"1987-02","Decimal Date":1987.125,"Average":348.57,"Trend":0.11,"__parsed_extra":[347.47,0.09]},{"Date":"1987-03","Decimal Date":1987.208,"Average":349.29,"Trend":0.11,"__parsed_extra":[347.88,0.09]},{"Date":"1987-04","Decimal Date":1987.292,"Average":349.98,"Trend":0.13,"__parsed_extra":[348.29,0.09]},{"Date":"1987-05","Decimal Date":1987.375,"Average":350.26,"Trend":0.16,"__parsed_extra":[348.69,0.1]},{"Date":"1987-06","Decimal Date":1987.458,"Average":349.48,"Trend":0.13,"__parsed_extra":[348.82,0.1]},{"Date":"1987-07","Decimal Date":1987.542,"Average":347.86,"Trend":0.15,"__parsed_extra":[348.85,0.1]},{"Date":"1987-08","Decimal Date":1987.625,"Average":346.61,"Trend":0.17,"__parsed_extra":[349.01,0.1]},{"Date":"1987-09","Decimal Date":1987.708,"Average":346.7,"Trend":0.12,"__parsed_extra":[349.15,0.1]},{"Date":"1987-10","Decimal Date":1987.792,"Average":347.97,"Trend":0.13,"__parsed_extra":[349.36,0.1]},{"Date":"1987-11","Decimal Date":1987.875,"Average":349.25,"Trend":0.13,"__parsed_extra":[349.57,0.09]},{"Date":"1987-12","Decimal Date":1987.958,"Average":350.21,"Trend":0.13,"__parsed_extra":[349.88,0.09]},{"Date":"1988-01","Decimal Date":1988.042,"Average":350.91,"Trend":0.1,"__parsed_extra":[350.13,0.09]},{"Date":"1988-02","Decimal Date":1988.125,"Average":351.47,"Trend":0.08,"__parsed_extra":[350.36,0.08]},{"Date":"1988-03","Decimal Date":1988.208,"Average":351.85,"Trend":0.1,"__parsed_extra":[350.39,0.08]},{"Date":"1988-04","Decimal Date":1988.292,"Average":352.3,"Trend":0.11,"__parsed_extra":[350.52,0.08]},{"Date":"1988-05","Decimal Date":1988.375,"Average":352.46,"Trend":0.11,"__parsed_extra":[350.83,0.07]},{"Date":"1988-06","Decimal Date":1988.458,"Average":351.76,"Trend":0.09,"__parsed_extra":[351.07,0.07]},{"Date":"1988-07","Decimal Date":1988.542,"Average":350.28,"Trend":0.13,"__parsed_extra":[351.27,0.06]},{"Date":"1988-08","Decimal Date":1988.625,"Average":349.1,"Trend":0.15,"__parsed_extra":[351.56,0.06]},{"Date":"1988-09","Decimal Date":1988.708,"Average":349.27,"Trend":0.11,"__parsed_extra":[351.79,0.06]},{"Date":"1988-10","Decimal Date":1988.792,"Average":350.44,"Trend":0.1,"__parsed_extra":[351.85,0.06]},{"Date":"1988-11","Decimal Date":1988.875,"Average":351.61,"Trend":0.09,"__parsed_extra":[351.98,0.06]},{"Date":"1988-12","Decimal Date":1988.958,"Average":352.46,"Trend":0.1,"__parsed_extra":[352.16,0.06]},{"Date":"1989-01","Decimal Date":1989.042,"Average":353.01,"Trend":0.08,"__parsed_extra":[352.19,0.06]},{"Date":"1989-02","Decimal Date":1989.125,"Average":353.46,"Trend":0.09,"__parsed_extra":[352.34,0.06]},{"Date":"1989-03","Decimal Date":1989.208,"Average":354.01,"Trend":0.1,"__parsed_extra":[352.58,0.06]},{"Date":"1989-04","Decimal Date":1989.292,"Average":354.38,"Trend":0.1,"__parsed_extra":[352.6,0.07]},{"Date":"1989-05","Decimal Date":1989.375,"Average":354.19,"Trend":0.1,"__parsed_extra":[352.51,0.07]},{"Date":"1989-06","Decimal Date":1989.458,"Average":353.27,"Trend":0.08,"__parsed_extra":[352.58,0.07]},{"Date":"1989-07","Decimal Date":1989.542,"Average":351.56,"Trend":0.12,"__parsed_extra":[352.6,0.07]},{"Date":"1989-08","Decimal Date":1989.625,"Average":350.21,"Trend":0.14,"__parsed_extra":[352.7,0.07]},{"Date":"1989-09","Decimal Date":1989.708,"Average":350.56,"Trend":0.09,"__parsed_extra":[353.1,0.07]},{"Date":"1989-10","Decimal Date":1989.792,"Average":351.85,"Trend":0.11,"__parsed_extra":[353.28,0.07]},{"Date":"1989-11","Decimal Date":1989.875,"Average":353.04,"Trend":0.11,"__parsed_extra":[353.39,0.07]},{"Date":"1989-12","Decimal Date":1989.958,"Average":353.91,"Trend":0.1,"__parsed_extra":[353.59,0.07]},{"Date":"1990-01","Decimal Date":1990.042,"Average":354.47,"Trend":0.12,"__parsed_extra":[353.69,0.07]},{"Date":"1990-02","Decimal Date":1990.125,"Average":354.88,"Trend":0.14,"__parsed_extra":[353.82,0.07]},{"Date":"1990-03","Decimal Date":1990.208,"Average":355.2,"Trend":0.13,"__parsed_extra":[353.77,0.07]},{"Date":"1990-04","Decimal Date":1990.292,"Average":355.51,"Trend":0.11,"__parsed_extra":[353.73,0.07]},{"Date":"1990-05","Decimal Date":1990.375,"Average":355.4,"Trend":0.1,"__parsed_extra":[353.74,0.07]},{"Date":"1990-06","Decimal Date":1990.458,"Average":354.32,"Trend":0.08,"__parsed_extra":[353.66,0.07]},{"Date":"1990-07","Decimal Date":1990.542,"Average":352.7,"Trend":0.09,"__parsed_extra":[353.8,0.06]},{"Date":"1990-08","Decimal Date":1990.625,"Average":351.58,"Trend":0.1,"__parsed_extra":[354.09,0.06]},{"Date":"1990-09","Decimal Date":1990.708,"Average":351.79,"Trend":0.06,"__parsed_extra":[354.31,0.06]},{"Date":"1990-10","Decimal Date":1990.792,"Average":353.19,"Trend":0.08,"__parsed_extra":[354.6,0.06]},{"Date":"1990-11","Decimal Date":1990.875,"Average":354.45,"Trend":0.11,"__parsed_extra":[354.7,0.06]},{"Date":"1990-12","Decimal Date":1990.958,"Average":355.19,"Trend":0.07,"__parsed_extra":[354.76,0.06]},{"Date":"1991-01","Decimal Date":1991.042,"Average":355.76,"Trend":0.07,"__parsed_extra":[354.96,0.06]},{"Date":"1991-02","Decimal Date":1991.125,"Average":356.19,"Trend":0.07,"__parsed_extra":[355.1,0.06]},{"Date":"1991-03","Decimal Date":1991.208,"Average":356.68,"Trend":0.09,"__parsed_extra":[355.25,0.06]},{"Date":"1991-04","Decimal Date":1991.292,"Average":357.19,"Trend":0.11,"__parsed_extra":[355.44,0.06]},{"Date":"1991-05","Decimal Date":1991.375,"Average":357.11,"Trend":0.11,"__parsed_extra":[355.48,0.06]},{"Date":"1991-06","Decimal Date":1991.458,"Average":356.17,"Trend":0.08,"__parsed_extra":[355.56,0.07]},{"Date":"1991-07","Decimal Date":1991.542,"Average":354.53,"Trend":0.12,"__parsed_extra":[355.65,0.07]},{"Date":"1991-08","Decimal Date":1991.625,"Average":353.05,"Trend":0.14,"__parsed_extra":[355.56,0.07]},{"Date":"1991-09","Decimal Date":1991.708,"Average":352.93,"Trend":0.1,"__parsed_extra":[355.45,0.07]},{"Date":"1991-10","Decimal Date":1991.792,"Average":354,"Trend":0.1,"__parsed_extra":[355.41,0.07]},{"Date":"1991-11","Decimal Date":1991.875,"Average":355.16,"Trend":0.11,"__parsed_extra":[355.38,0.07]},{"Date":"1991-12","Decimal Date":1991.958,"Average":355.95,"Trend":0.11,"__parsed_extra":[355.49,0.07]},{"Date":"1992-01","Decimal Date":1992.042,"Average":356.54,"Trend":0.09,"__parsed_extra":[355.72,0.07]},{"Date":"1992-02","Decimal Date":1992.125,"Average":356.89,"Trend":0.09,"__parsed_extra":[355.78,0.07]},{"Date":"1992-03","Decimal Date":1992.208,"Average":357.26,"Trend":0.08,"__parsed_extra":[355.79,0.07]},{"Date":"1992-04","Decimal Date":1992.292,"Average":357.75,"Trend":0.09,"__parsed_extra":[355.96,0.07]},{"Date":"1992-05","Decimal Date":1992.375,"Average":357.82,"Trend":0.1,"__parsed_extra":[356.19,0.07]},{"Date":"1992-06","Decimal Date":1992.458,"Average":356.87,"Trend":0.08,"__parsed_extra":[356.27,0.07]},{"Date":"1992-07","Decimal Date":1992.542,"Average":355.18,"Trend":0.11,"__parsed_extra":[356.34,0.07]},{"Date":"1992-08","Decimal Date":1992.625,"Average":353.67,"Trend":0.13,"__parsed_extra":[356.22,0.07]},{"Date":"1992-09","Decimal Date":1992.708,"Average":353.58,"Trend":0.14,"__parsed_extra":[356.14,0.07]},{"Date":"1992-10","Decimal Date":1992.792,"Average":354.81,"Trend":0.09,"__parsed_extra":[356.21,0.07]},{"Date":"1992-11","Decimal Date":1992.875,"Average":355.99,"Trend":0.09,"__parsed_extra":[356.2,0.07]},{"Date":"1992-12","Decimal Date":1992.958,"Average":356.74,"Trend":0.09,"__parsed_extra":[356.27,0.07]},{"Date":"1993-01","Decimal Date":1993.042,"Average":357.21,"Trend":0.1,"__parsed_extra":[356.36,0.07]},{"Date":"1993-02","Decimal Date":1993.125,"Average":357.54,"Trend":0.11,"__parsed_extra":[356.39,0.07]},{"Date":"1993-03","Decimal Date":1993.208,"Average":357.96,"Trend":0.11,"__parsed_extra":[356.51,0.07]},{"Date":"1993-04","Decimal Date":1993.292,"Average":358.43,"Trend":0.11,"__parsed_extra":[356.66,0.07]},{"Date":"1993-05","Decimal Date":1993.375,"Average":358.38,"Trend":0.12,"__parsed_extra":[356.73,0.07]},{"Date":"1993-06","Decimal Date":1993.458,"Average":357.34,"Trend":0.1,"__parsed_extra":[356.68,0.07]},{"Date":"1993-07","Decimal Date":1993.542,"Average":355.72,"Trend":0.13,"__parsed_extra":[356.74,0.07]},{"Date":"1993-08","Decimal Date":1993.625,"Average":354.44,"Trend":0.14,"__parsed_extra":[356.91,0.07]},{"Date":"1993-09","Decimal Date":1993.708,"Average":354.47,"Trend":0.08,"__parsed_extra":[357.05,0.07]},{"Date":"1993-10","Decimal Date":1993.792,"Average":355.7,"Trend":0.09,"__parsed_extra":[357.19,0.07]},{"Date":"1993-11","Decimal Date":1993.875,"Average":356.95,"Trend":0.09,"__parsed_extra":[357.29,0.07]},{"Date":"1993-12","Decimal Date":1993.958,"Average":357.86,"Trend":0.1,"__parsed_extra":[357.49,0.07]},{"Date":"1994-01","Decimal Date":1994.042,"Average":358.48,"Trend":0.1,"__parsed_extra":[357.62,0.07]},{"Date":"1994-02","Decimal Date":1994.125,"Average":359,"Trend":0.1,"__parsed_extra":[357.85,0.08]},{"Date":"1994-03","Decimal Date":1994.208,"Average":359.36,"Trend":0.09,"__parsed_extra":[357.9,0.08]},{"Date":"1994-04","Decimal Date":1994.292,"Average":359.71,"Trend":0.1,"__parsed_extra":[357.92,0.08]},{"Date":"1994-05","Decimal Date":1994.375,"Average":359.74,"Trend":0.13,"__parsed_extra":[358.06,0.08]},{"Date":"1994-06","Decimal Date":1994.458,"Average":358.8,"Trend":0.1,"__parsed_extra":[358.1,0.08]},{"Date":"1994-07","Decimal Date":1994.542,"Average":357.27,"Trend":0.1,"__parsed_extra":[358.26,0.08]},{"Date":"1994-08","Decimal Date":1994.625,"Average":356.05,"Trend":0.12,"__parsed_extra":[358.56,0.07]},{"Date":"1994-09","Decimal Date":1994.708,"Average":356.02,"Trend":0.08,"__parsed_extra":[358.67,0.07]},{"Date":"1994-10","Decimal Date":1994.792,"Average":357.26,"Trend":0.08,"__parsed_extra":[358.8,0.07]},{"Date":"1994-11","Decimal Date":1994.875,"Average":358.69,"Trend":0.1,"__parsed_extra":[359.03,0.06]},{"Date":"1994-12","Decimal Date":1994.958,"Average":359.54,"Trend":0.12,"__parsed_extra":[359.15,0.06]},{"Date":"1995-01","Decimal Date":1995.042,"Average":360.13,"Trend":0.1,"__parsed_extra":[359.27,0.06]},{"Date":"1995-02","Decimal Date":1995.125,"Average":360.61,"Trend":0.11,"__parsed_extra":[359.51,0.05]},{"Date":"1995-03","Decimal Date":1995.208,"Average":361.08,"Trend":0.09,"__parsed_extra":[359.7,0.05]},{"Date":"1995-04","Decimal Date":1995.292,"Average":361.55,"Trend":0.07,"__parsed_extra":[359.85,0.05]},{"Date":"1995-05","Decimal Date":1995.375,"Average":361.47,"Trend":0.08,"__parsed_extra":[359.84,0.05]},{"Date":"1995-06","Decimal Date":1995.458,"Average":360.61,"Trend":0.07,"__parsed_extra":[359.93,0.05]},{"Date":"1995-07","Decimal Date":1995.542,"Average":358.99,"Trend":0.08,"__parsed_extra":[359.99,0.05]},{"Date":"1995-08","Decimal Date":1995.625,"Average":357.73,"Trend":0.12,"__parsed_extra":[360.2,0.05]},{"Date":"1995-09","Decimal Date":1995.708,"Average":358.05,"Trend":0.08,"__parsed_extra":[360.64,0.05]},{"Date":"1995-10","Decimal Date":1995.792,"Average":359.42,"Trend":0.08,"__parsed_extra":[360.89,0.05]},{"Date":"1995-11","Decimal Date":1995.875,"Average":360.77,"Trend":0.07,"__parsed_extra":[361.04,0.05]},{"Date":"1995-12","Decimal Date":1995.958,"Average":361.65,"Trend":0.05,"__parsed_extra":[361.2,0.04]},{"Date":"1996-01","Decimal Date":1996.042,"Average":362.14,"Trend":0.05,"__parsed_extra":[361.23,0.04]},{"Date":"1996-02","Decimal Date":1996.125,"Average":362.5,"Trend":0.08,"__parsed_extra":[361.33,0.04]},{"Date":"1996-03","Decimal Date":1996.208,"Average":362.82,"Trend":0.1,"__parsed_extra":[361.4,0.04]},{"Date":"1996-04","Decimal Date":1996.292,"Average":363.14,"Trend":0.09,"__parsed_extra":[361.42,0.04]},{"Date":"1996-05","Decimal Date":1996.375,"Average":363.29,"Trend":0.08,"__parsed_extra":[361.68,0.04]},{"Date":"1996-06","Decimal Date":1996.458,"Average":362.88,"Trend":0.06,"__parsed_extra":[362.23,0.04]},{"Date":"1996-07","Decimal Date":1996.542,"Average":361.57,"Trend":0.07,"__parsed_extra":[362.61,0.04]},{"Date":"1996-08","Decimal Date":1996.625,"Average":360.07,"Trend":0.09,"__parsed_extra":[362.57,0.04]},{"Date":"1996-09","Decimal Date":1996.708,"Average":359.7,"Trend":0.1,"__parsed_extra":[362.31,0.04]},{"Date":"1996-10","Decimal Date":1996.792,"Average":360.67,"Trend":0.07,"__parsed_extra":[362.15,0.04]},{"Date":"1996-11","Decimal Date":1996.875,"Average":361.78,"Trend":0.06,"__parsed_extra":[362.09,0.04]},{"Date":"1996-12","Decimal Date":1996.958,"Average":362.63,"Trend":0.07,"__parsed_extra":[362.19,0.04]},{"Date":"1997-01","Decimal Date":1997.042,"Average":363.28,"Trend":0.06,"__parsed_extra":[362.34,0.04]},{"Date":"1997-02","Decimal Date":1997.125,"Average":363.63,"Trend":0.08,"__parsed_extra":[362.46,0.04]},{"Date":"1997-03","Decimal Date":1997.208,"Average":364.02,"Trend":0.09,"__parsed_extra":[362.62,0.05]},{"Date":"1997-04","Decimal Date":1997.292,"Average":364.5,"Trend":0.1,"__parsed_extra":[362.81,0.05]},{"Date":"1997-05","Decimal Date":1997.375,"Average":364.51,"Trend":0.09,"__parsed_extra":[362.93,0.05]},{"Date":"1997-06","Decimal Date":1997.458,"Average":363.6,"Trend":0.08,"__parsed_extra":[362.97,0.05]},{"Date":"1997-07","Decimal Date":1997.542,"Average":361.93,"Trend":0.1,"__parsed_extra":[362.96,0.05]},{"Date":"1997-08","Decimal Date":1997.625,"Average":360.41,"Trend":0.09,"__parsed_extra":[362.89,0.05]},{"Date":"1997-09","Decimal Date":1997.708,"Average":360.4,"Trend":0.07,"__parsed_extra":[363.01,0.05]},{"Date":"1997-10","Decimal Date":1997.792,"Average":361.94,"Trend":0.06,"__parsed_extra":[363.41,0.05]},{"Date":"1997-11","Decimal Date":1997.875,"Average":363.61,"Trend":0.09,"__parsed_extra":[363.9,0.05]},{"Date":"1997-12","Decimal Date":1997.958,"Average":364.68,"Trend":0.09,"__parsed_extra":[364.21,0.05]},{"Date":"1998-01","Decimal Date":1998.042,"Average":365.19,"Trend":0.09,"__parsed_extra":[364.26,0.05]},{"Date":"1998-02","Decimal Date":1998.125,"Average":365.46,"Trend":0.09,"__parsed_extra":[364.31,0.05]},{"Date":"1998-03","Decimal Date":1998.208,"Average":365.93,"Trend":0.09,"__parsed_extra":[364.54,0.04]},{"Date":"1998-04","Decimal Date":1998.292,"Average":366.58,"Trend":0.07,"__parsed_extra":[364.91,0.04]},{"Date":"1998-05","Decimal Date":1998.375,"Average":366.86,"Trend":0.07,"__parsed_extra":[365.32,0.04]},{"Date":"1998-06","Decimal Date":1998.458,"Average":366.27,"Trend":0.06,"__parsed_extra":[365.67,0.04]},{"Date":"1998-07","Decimal Date":1998.542,"Average":364.84,"Trend":0.09,"__parsed_extra":[365.88,0.04]},{"Date":"1998-08","Decimal Date":1998.625,"Average":363.79,"Trend":0.09,"__parsed_extra":[366.28,0.04]},{"Date":"1998-09","Decimal Date":1998.708,"Average":364.04,"Trend":0.06,"__parsed_extra":[366.61,0.04]},{"Date":"1998-10","Decimal Date":1998.792,"Average":365.34,"Trend":0.07,"__parsed_extra":[366.78,0.04]},{"Date":"1998-11","Decimal Date":1998.875,"Average":366.6,"Trend":0.07,"__parsed_extra":[366.85,0.04]},{"Date":"1998-12","Decimal Date":1998.958,"Average":367.47,"Trend":0.05,"__parsed_extra":[366.97,0.04]},{"Date":"1999-01","Decimal Date":1999.042,"Average":368.11,"Trend":0.08,"__parsed_extra":[367.18,0.04]},{"Date":"1999-02","Decimal Date":1999.125,"Average":368.51,"Trend":0.1,"__parsed_extra":[367.37,0.04]},{"Date":"1999-03","Decimal Date":1999.208,"Average":368.91,"Trend":0.1,"__parsed_extra":[367.52,0.05]},{"Date":"1999-04","Decimal Date":1999.292,"Average":369.29,"Trend":0.09,"__parsed_extra":[367.64,0.05]},{"Date":"1999-05","Decimal Date":1999.375,"Average":369.21,"Trend":0.08,"__parsed_extra":[367.7,0.05]},{"Date":"1999-06","Decimal Date":1999.458,"Average":368.36,"Trend":0.06,"__parsed_extra":[367.79,0.05]},{"Date":"1999-07","Decimal Date":1999.542,"Average":366.69,"Trend":0.11,"__parsed_extra":[367.74,0.05]},{"Date":"1999-08","Decimal Date":1999.625,"Average":365.33,"Trend":0.15,"__parsed_extra":[367.79,0.06]},{"Date":"1999-09","Decimal Date":1999.708,"Average":365.45,"Trend":0.12,"__parsed_extra":[367.99,0.06]},{"Date":"1999-10","Decimal Date":1999.792,"Average":366.75,"Trend":0.08,"__parsed_extra":[368.18,0.06]},{"Date":"1999-11","Decimal Date":1999.875,"Average":368.04,"Trend":0.08,"__parsed_extra":[368.27,0.06]},{"Date":"1999-12","Decimal Date":1999.958,"Average":368.88,"Trend":0.08,"__parsed_extra":[368.36,0.06]},{"Date":"2000-01","Decimal Date":2000.042,"Average":369.39,"Trend":0.1,"__parsed_extra":[368.47,0.06]},{"Date":"2000-02","Decimal Date":2000.125,"Average":369.65,"Trend":0.12,"__parsed_extra":[368.51,0.06]},{"Date":"2000-03","Decimal Date":2000.208,"Average":369.97,"Trend":0.11,"__parsed_extra":[368.57,0.06]},{"Date":"2000-04","Decimal Date":2000.292,"Average":370.35,"Trend":0.1,"__parsed_extra":[368.67,0.06]},{"Date":"2000-05","Decimal Date":2000.375,"Average":370.24,"Trend":0.09,"__parsed_extra":[368.71,0.06]},{"Date":"2000-06","Decimal Date":2000.458,"Average":369.31,"Trend":0.07,"__parsed_extra":[368.78,0.06]},{"Date":"2000-07","Decimal Date":2000.542,"Average":367.91,"Trend":0.12,"__parsed_extra":[369.05,0.06]},{"Date":"2000-08","Decimal Date":2000.625,"Average":366.76,"Trend":0.14,"__parsed_extra":[369.27,0.06]},{"Date":"2000-09","Decimal Date":2000.708,"Average":366.71,"Trend":0.11,"__parsed_extra":[369.25,0.06]},{"Date":"2000-10","Decimal Date":2000.792,"Average":367.91,"Trend":0.08,"__parsed_extra":[369.31,0.06]},{"Date":"2000-11","Decimal Date":2000.875,"Average":369.28,"Trend":0.09,"__parsed_extra":[369.44,0.06]},{"Date":"2000-12","Decimal Date":2000.958,"Average":370.1,"Trend":0.09,"__parsed_extra":[369.54,0.06]},{"Date":"2001-01","Decimal Date":2001.042,"Average":370.69,"Trend":0.09,"__parsed_extra":[369.79,0.06]},{"Date":"2001-02","Decimal Date":2001.125,"Average":371.18,"Trend":0.12,"__parsed_extra":[370.03,0.06]},{"Date":"2001-03","Decimal Date":2001.208,"Average":371.59,"Trend":0.11,"__parsed_extra":[370.17,0.06]},{"Date":"2001-04","Decimal Date":2001.292,"Average":371.9,"Trend":0.08,"__parsed_extra":[370.22,0.05]},{"Date":"2001-05","Decimal Date":2001.375,"Average":371.8,"Trend":0.07,"__parsed_extra":[370.27,0.05]},{"Date":"2001-06","Decimal Date":2001.458,"Average":370.85,"Trend":0.06,"__parsed_extra":[370.32,0.05]},{"Date":"2001-07","Decimal Date":2001.542,"Average":369.46,"Trend":0.09,"__parsed_extra":[370.57,0.05]},{"Date":"2001-08","Decimal Date":2001.625,"Average":368.32,"Trend":0.1,"__parsed_extra":[370.8,0.05]},{"Date":"2001-09","Decimal Date":2001.708,"Average":368.36,"Trend":0.08,"__parsed_extra":[370.88,0.04]},{"Date":"2001-10","Decimal Date":2001.792,"Average":369.71,"Trend":0.09,"__parsed_extra":[371.11,0.04]},{"Date":"2001-11","Decimal Date":2001.875,"Average":371.05,"Trend":0.08,"__parsed_extra":[371.25,0.04]},{"Date":"2001-12","Decimal Date":2001.958,"Average":371.97,"Trend":0.12,"__parsed_extra":[371.46,0.04]},{"Date":"2002-01","Decimal Date":2002.042,"Average":372.51,"Trend":0.09,"__parsed_extra":[371.56,0.05]},{"Date":"2002-02","Decimal Date":2002.125,"Average":372.91,"Trend":0.07,"__parsed_extra":[371.65,0.05]},{"Date":"2002-03","Decimal Date":2002.208,"Average":373.38,"Trend":0.08,"__parsed_extra":[371.86,0.05]},{"Date":"2002-04","Decimal Date":2002.292,"Average":373.73,"Trend":0.09,"__parsed_extra":[371.96,0.05]},{"Date":"2002-05","Decimal Date":2002.375,"Average":373.71,"Trend":0.08,"__parsed_extra":[372.13,0.05]},{"Date":"2002-06","Decimal Date":2002.458,"Average":372.84,"Trend":0.06,"__parsed_extra":[372.3,0.05]},{"Date":"2002-07","Decimal Date":2002.542,"Average":371.41,"Trend":0.07,"__parsed_extra":[372.54,0.04]},{"Date":"2002-08","Decimal Date":2002.625,"Average":370.35,"Trend":0.08,"__parsed_extra":[372.89,0.04]},{"Date":"2002-09","Decimal Date":2002.708,"Average":370.67,"Trend":0.08,"__parsed_extra":[373.29,0.04]},{"Date":"2002-10","Decimal Date":2002.792,"Average":371.95,"Trend":0.08,"__parsed_extra":[373.44,0.04]},{"Date":"2002-11","Decimal Date":2002.875,"Average":373.28,"Trend":0.08,"__parsed_extra":[373.58,0.04]},{"Date":"2002-12","Decimal Date":2002.958,"Average":374.26,"Trend":0.11,"__parsed_extra":[373.8,0.04]},{"Date":"2003-01","Decimal Date":2003.042,"Average":374.94,"Trend":0.09,"__parsed_extra":[373.95,0.04]},{"Date":"2003-02","Decimal Date":2003.125,"Average":375.47,"Trend":0.09,"__parsed_extra":[374.13,0.04]},{"Date":"2003-03","Decimal Date":2003.208,"Average":375.91,"Trend":0.08,"__parsed_extra":[374.34,0.04]},{"Date":"2003-04","Decimal Date":2003.292,"Average":376.39,"Trend":0.07,"__parsed_extra":[374.6,0.04]},{"Date":"2003-05","Decimal Date":2003.375,"Average":376.55,"Trend":0.09,"__parsed_extra":[374.95,0.05]},{"Date":"2003-06","Decimal Date":2003.458,"Average":375.71,"Trend":0.07,"__parsed_extra":[375.16,0.05]},{"Date":"2003-07","Decimal Date":2003.542,"Average":374.16,"Trend":0.08,"__parsed_extra":[375.31,0.05]},{"Date":"2003-08","Decimal Date":2003.625,"Average":372.93,"Trend":0.13,"__parsed_extra":[375.52,0.05]},{"Date":"2003-09","Decimal Date":2003.708,"Average":373.09,"Trend":0.1,"__parsed_extra":[375.77,0.05]},{"Date":"2003-10","Decimal Date":2003.792,"Average":374.36,"Trend":0.08,"__parsed_extra":[375.9,0.05]},{"Date":"2003-11","Decimal Date":2003.875,"Average":375.66,"Trend":0.07,"__parsed_extra":[376,0.05]},{"Date":"2003-12","Decimal Date":2003.958,"Average":376.52,"Trend":0.06,"__parsed_extra":[376.09,0.05]},{"Date":"2004-01","Decimal Date":2004.042,"Average":377.21,"Trend":0.07,"__parsed_extra":[376.23,0.05]},{"Date":"2004-02","Decimal Date":2004.125,"Average":377.73,"Trend":0.1,"__parsed_extra":[376.41,0.05]},{"Date":"2004-03","Decimal Date":2004.208,"Average":378.16,"Trend":0.09,"__parsed_extra":[376.56,0.05]},{"Date":"2004-04","Decimal Date":2004.292,"Average":378.48,"Trend":0.08,"__parsed_extra":[376.68,0.05]},{"Date":"2004-05","Decimal Date":2004.375,"Average":378.4,"Trend":0.1,"__parsed_extra":[376.81,0.05]},{"Date":"2004-06","Decimal Date":2004.458,"Average":377.51,"Trend":0.07,"__parsed_extra":[376.95,0.06]},{"Date":"2004-07","Decimal Date":2004.542,"Average":375.96,"Trend":0.07,"__parsed_extra":[377.15,0.06]},{"Date":"2004-08","Decimal Date":2004.625,"Average":374.49,"Trend":0.1,"__parsed_extra":[377.13,0.06]},{"Date":"2004-09","Decimal Date":2004.708,"Average":374.39,"Trend":0.08,"__parsed_extra":[377.06,0.06]},{"Date":"2004-10","Decimal Date":2004.792,"Average":375.73,"Trend":0.07,"__parsed_extra":[377.23,0.06]},{"Date":"2004-11","Decimal Date":2004.875,"Average":377.2,"Trend":0.09,"__parsed_extra":[377.49,0.06]},{"Date":"2004-12","Decimal Date":2004.958,"Average":378.17,"Trend":0.08,"__parsed_extra":[377.69,0.05]},{"Date":"2005-01","Decimal Date":2005.042,"Average":378.73,"Trend":0.09,"__parsed_extra":[377.75,0.05]},{"Date":"2005-02","Decimal Date":2005.125,"Average":379.27,"Trend":0.11,"__parsed_extra":[377.95,0.05]},{"Date":"2005-03","Decimal Date":2005.208,"Average":379.87,"Trend":0.1,"__parsed_extra":[378.26,0.05]},{"Date":"2005-04","Decimal Date":2005.292,"Average":380.32,"Trend":0.07,"__parsed_extra":[378.51,0.05]},{"Date":"2005-05","Decimal Date":2005.375,"Average":380.42,"Trend":0.07,"__parsed_extra":[378.81,0.05]},{"Date":"2005-06","Decimal Date":2005.458,"Average":379.6,"Trend":0.06,"__parsed_extra":[379.01,0.04]},{"Date":"2005-07","Decimal Date":2005.542,"Average":377.94,"Trend":0.08,"__parsed_extra":[379.11,0.04]},{"Date":"2005-08","Decimal Date":2005.625,"Average":376.73,"Trend":0.1,"__parsed_extra":[379.37,0.04]},{"Date":"2005-09","Decimal Date":2005.708,"Average":376.76,"Trend":0.08,"__parsed_extra":[379.47,0.04]},{"Date":"2005-10","Decimal Date":2005.792,"Average":378.07,"Trend":0.09,"__parsed_extra":[379.64,0.04]},{"Date":"2005-11","Decimal Date":2005.875,"Average":379.53,"Trend":0.11,"__parsed_extra":[379.86,0.04]},{"Date":"2005-12","Decimal Date":2005.958,"Average":380.53,"Trend":0.09,"__parsed_extra":[380.05,0.05]},{"Date":"2006-01","Decimal Date":2006.042,"Average":381.33,"Trend":0.07,"__parsed_extra":[380.32,0.05]},{"Date":"2006-02","Decimal Date":2006.125,"Average":381.95,"Trend":0.08,"__parsed_extra":[380.58,0.05]},{"Date":"2006-03","Decimal Date":2006.208,"Average":382.34,"Trend":0.09,"__parsed_extra":[380.7,0.05]},{"Date":"2006-04","Decimal Date":2006.292,"Average":382.67,"Trend":0.08,"__parsed_extra":[380.84,0.05]},{"Date":"2006-05","Decimal Date":2006.375,"Average":382.63,"Trend":0.08,"__parsed_extra":[380.97,0.05]},{"Date":"2006-06","Decimal Date":2006.458,"Average":381.76,"Trend":0.07,"__parsed_extra":[381.14,0.05]},{"Date":"2006-07","Decimal Date":2006.542,"Average":380.07,"Trend":0.06,"__parsed_extra":[381.27,0.05]},{"Date":"2006-08","Decimal Date":2006.625,"Average":378.49,"Trend":0.1,"__parsed_extra":[381.21,0.05]},{"Date":"2006-09","Decimal Date":2006.708,"Average":378.63,"Trend":0.08,"__parsed_extra":[381.4,0.05]},{"Date":"2006-10","Decimal Date":2006.792,"Average":380.08,"Trend":0.09,"__parsed_extra":[381.67,0.05]},{"Date":"2006-11","Decimal Date":2006.875,"Average":381.44,"Trend":0.07,"__parsed_extra":[381.76,0.05]},{"Date":"2006-12","Decimal Date":2006.958,"Average":382.39,"Trend":0.05,"__parsed_extra":[381.92,0.05]},{"Date":"2007-01","Decimal Date":2007.042,"Average":383.03,"Trend":0.07,"__parsed_extra":[382,0.05]},{"Date":"2007-02","Decimal Date":2007.125,"Average":383.55,"Trend":0.09,"__parsed_extra":[382.14,0.05]},{"Date":"2007-03","Decimal Date":2007.208,"Average":384.02,"Trend":0.1,"__parsed_extra":[382.36,0.04]},{"Date":"2007-04","Decimal Date":2007.292,"Average":384.28,"Trend":0.09,"__parsed_extra":[382.45,0.04]},{"Date":"2007-05","Decimal Date":2007.375,"Average":384.13,"Trend":0.06,"__parsed_extra":[382.5,0.04]},{"Date":"2007-06","Decimal Date":2007.458,"Average":383.26,"Trend":0.06,"__parsed_extra":[382.69,0.04]},{"Date":"2007-07","Decimal Date":2007.542,"Average":381.55,"Trend":0.09,"__parsed_extra":[382.82,0.04]},{"Date":"2007-08","Decimal Date":2007.625,"Average":380.29,"Trend":0.08,"__parsed_extra":[383.06,0.04]},{"Date":"2007-09","Decimal Date":2007.708,"Average":380.68,"Trend":0.08,"__parsed_extra":[383.46,0.04]},{"Date":"2007-10","Decimal Date":2007.792,"Average":382.1,"Trend":0.08,"__parsed_extra":[383.65,0.04]},{"Date":"2007-11","Decimal Date":2007.875,"Average":383.45,"Trend":0.07,"__parsed_extra":[383.73,0.04]},{"Date":"2007-12","Decimal Date":2007.958,"Average":384.46,"Trend":0.06,"__parsed_extra":[383.96,0.05]},{"Date":"2008-01","Decimal Date":2008.042,"Average":385.23,"Trend":0.07,"__parsed_extra":[384.2,0.05]},{"Date":"2008-02","Decimal Date":2008.125,"Average":385.74,"Trend":0.1,"__parsed_extra":[384.35,0.05]},{"Date":"2008-03","Decimal Date":2008.208,"Average":386.15,"Trend":0.09,"__parsed_extra":[384.51,0.05]},{"Date":"2008-04","Decimal Date":2008.292,"Average":386.53,"Trend":0.07,"__parsed_extra":[384.73,0.05]},{"Date":"2008-05","Decimal Date":2008.375,"Average":386.49,"Trend":0.08,"__parsed_extra":[384.86,0.05]},{"Date":"2008-06","Decimal Date":2008.458,"Average":385.58,"Trend":0.05,"__parsed_extra":[385.02,0.05]},{"Date":"2008-07","Decimal Date":2008.542,"Average":384.1,"Trend":0.08,"__parsed_extra":[385.42,0.05]},{"Date":"2008-08","Decimal Date":2008.625,"Average":382.77,"Trend":0.09,"__parsed_extra":[385.57,0.05]},{"Date":"2008-09","Decimal Date":2008.708,"Average":382.54,"Trend":0.06,"__parsed_extra":[385.29,0.05]},{"Date":"2008-10","Decimal Date":2008.792,"Average":383.67,"Trend":0.07,"__parsed_extra":[385.15,0.05]},{"Date":"2008-11","Decimal Date":2008.875,"Average":385.18,"Trend":0.06,"__parsed_extra":[385.41,0.05]},{"Date":"2008-12","Decimal Date":2008.958,"Average":386.27,"Trend":0.06,"__parsed_extra":[385.74,0.05]},{"Date":"2009-01","Decimal Date":2009.042,"Average":387.03,"Trend":0.07,"__parsed_extra":[385.98,0.05]},{"Date":"2009-02","Decimal Date":2009.125,"Average":387.48,"Trend":0.07,"__parsed_extra":[386.06,0.04]},{"Date":"2009-03","Decimal Date":2009.208,"Average":387.71,"Trend":0.08,"__parsed_extra":[386.05,0.04]},{"Date":"2009-04","Decimal Date":2009.292,"Average":387.99,"Trend":0.08,"__parsed_extra":[386.18,0.04]},{"Date":"2009-05","Decimal Date":2009.375,"Average":387.95,"Trend":0.06,"__parsed_extra":[386.35,0.04]},{"Date":"2009-06","Decimal Date":2009.458,"Average":386.96,"Trend":0.05,"__parsed_extra":[386.46,0.04]},{"Date":"2009-07","Decimal Date":2009.542,"Average":385.01,"Trend":0.15,"__parsed_extra":[386.42,0.04]},{"Date":"2009-08","Decimal Date":2009.625,"Average":383.63,"Trend":0.14,"__parsed_extra":[386.5,0.03]},{"Date":"2009-09","Decimal Date":2009.708,"Average":383.93,"Trend":0.1,"__parsed_extra":[386.66,0.03]},{"Date":"2009-10","Decimal Date":2009.792,"Average":385.5,"Trend":0.11,"__parsed_extra":[386.92,0.03]},{"Date":"2009-11","Decimal Date":2009.875,"Average":386.94,"Trend":0.09,"__parsed_extra":[387.12,0.03]},{"Date":"2009-12","Decimal Date":2009.958,"Average":387.84,"Trend":0.07,"__parsed_extra":[387.28,0.03]},{"Date":"2010-01","Decimal Date":2010.042,"Average":388.62,"Trend":0.08,"__parsed_extra":[387.6,0.04]},{"Date":"2010-02","Decimal Date":2010.125,"Average":389.33,"Trend":0.1,"__parsed_extra":[387.94,0.05]},{"Date":"2010-03","Decimal Date":2010.208,"Average":389.68,"Trend":0.11,"__parsed_extra":[388.03,0.05]},{"Date":"2010-04","Decimal Date":2010.292,"Average":389.98,"Trend":0.13,"__parsed_extra":[388.17,0.05]},{"Date":"2010-05","Decimal Date":2010.375,"Average":389.95,"Trend":0.16,"__parsed_extra":[388.35,0.06]},{"Date":"2010-06","Decimal Date":2010.458,"Average":389.01,"Trend":0.12,"__parsed_extra":[388.52,0.06]},{"Date":"2010-07","Decimal Date":2010.542,"Average":387.35,"Trend":0.16,"__parsed_extra":[388.74,0.06]},{"Date":"2010-08","Decimal Date":2010.625,"Average":386.23,"Trend":0.12,"__parsed_extra":[389.04,0.06]},{"Date":"2010-09","Decimal Date":2010.708,"Average":386.7,"Trend":0.1,"__parsed_extra":[389.4,0.06]},{"Date":"2010-10","Decimal Date":2010.792,"Average":388.25,"Trend":0.1,"__parsed_extra":[389.68,0.06]},{"Date":"2010-11","Decimal Date":2010.875,"Average":389.62,"Trend":0.11,"__parsed_extra":[389.8,0.06]},{"Date":"2010-12","Decimal Date":2010.958,"Average":390.36,"Trend":0.09,"__parsed_extra":[389.82,0.05]},{"Date":"2011-01","Decimal Date":2011.042,"Average":390.93,"Trend":0.09,"__parsed_extra":[389.89,0.05]},{"Date":"2011-02","Decimal Date":2011.125,"Average":391.36,"Trend":0.07,"__parsed_extra":[389.93,0.05]},{"Date":"2011-03","Decimal Date":2011.208,"Average":391.67,"Trend":0.08,"__parsed_extra":[390.03,0.05]},{"Date":"2011-04","Decimal Date":2011.292,"Average":392.05,"Trend":0.09,"__parsed_extra":[390.24,0.05]},{"Date":"2011-05","Decimal Date":2011.375,"Average":392.08,"Trend":0.09,"__parsed_extra":[390.45,0.05]},{"Date":"2011-06","Decimal Date":2011.458,"Average":391.14,"Trend":0.07,"__parsed_extra":[390.64,0.05]},{"Date":"2011-07","Decimal Date":2011.542,"Average":389.2,"Trend":0.18,"__parsed_extra":[390.57,0.05]},{"Date":"2011-08","Decimal Date":2011.625,"Average":387.88,"Trend":0.19,"__parsed_extra":[390.66,0.05]},{"Date":"2011-09","Decimal Date":2011.708,"Average":388.27,"Trend":0.14,"__parsed_extra":[390.99,0.05]},{"Date":"2011-10","Decimal Date":2011.792,"Average":389.83,"Trend":0.13,"__parsed_extra":[391.3,0.05]},{"Date":"2011-11","Decimal Date":2011.875,"Average":391.19,"Trend":0.11,"__parsed_extra":[391.42,0.05]},{"Date":"2011-12","Decimal Date":2011.958,"Average":392.02,"Trend":0.09,"__parsed_extra":[391.51,0.05]},{"Date":"2012-01","Decimal Date":2012.042,"Average":392.61,"Trend":0.1,"__parsed_extra":[391.55,0.05]},{"Date":"2012-02","Decimal Date":2012.125,"Average":393.2,"Trend":0.16,"__parsed_extra":[391.78,0.05]},{"Date":"2012-03","Decimal Date":2012.208,"Average":393.73,"Trend":0.14,"__parsed_extra":[392.08,0.06]},{"Date":"2012-04","Decimal Date":2012.292,"Average":393.99,"Trend":0.11,"__parsed_extra":[392.2,0.06]},{"Date":"2012-05","Decimal Date":2012.375,"Average":393.88,"Trend":0.09,"__parsed_extra":[392.27,0.06]},{"Date":"2012-06","Decimal Date":2012.458,"Average":392.84,"Trend":0.06,"__parsed_extra":[392.36,0.06]},{"Date":"2012-07","Decimal Date":2012.542,"Average":391,"Trend":0.12,"__parsed_extra":[392.42,0.06]},{"Date":"2012-08","Decimal Date":2012.625,"Average":389.89,"Trend":0.15,"__parsed_extra":[392.73,0.06]},{"Date":"2012-09","Decimal Date":2012.708,"Average":390.55,"Trend":0.11,"__parsed_extra":[393.27,0.06]},{"Date":"2012-10","Decimal Date":2012.792,"Average":392.16,"Trend":0.13,"__parsed_extra":[393.59,0.06]},{"Date":"2012-11","Decimal Date":2012.875,"Average":393.56,"Trend":0.11,"__parsed_extra":[393.73,0.05]},{"Date":"2012-12","Decimal Date":2012.958,"Average":394.39,"Trend":0.1,"__parsed_extra":[393.82,0.05]},{"Date":"2013-01","Decimal Date":2013.042,"Average":395.07,"Trend":0.09,"__parsed_extra":[394.08,0.05]},{"Date":"2013-02","Decimal Date":2013.125,"Average":395.7,"Trend":0.12,"__parsed_extra":[394.34,0.05]},{"Date":"2013-03","Decimal Date":2013.208,"Average":396.29,"Trend":0.09,"__parsed_extra":[394.66,0.05]},{"Date":"2013-04","Decimal Date":2013.292,"Average":396.74,"Trend":0.08,"__parsed_extra":[394.94,0.05]},{"Date":"2013-05","Decimal Date":2013.375,"Average":396.75,"Trend":0.1,"__parsed_extra":[395.14,0.06]},{"Date":"2013-06","Decimal Date":2013.458,"Average":395.96,"Trend":0.07,"__parsed_extra":[395.45,0.06]},{"Date":"2013-07","Decimal Date":2013.542,"Average":394.47,"Trend":0.2,"__parsed_extra":[395.83,0.06]},{"Date":"2013-08","Decimal Date":2013.625,"Average":393.23,"Trend":0.16,"__parsed_extra":[396.01,0.06]},{"Date":"2013-09","Decimal Date":2013.708,"Average":393.21,"Trend":0.13,"__parsed_extra":[395.88,0.06]},{"Date":"2013-10","Decimal Date":2013.792,"Average":394.51,"Trend":0.13,"__parsed_extra":[395.93,0.06]},{"Date":"2013-11","Decimal Date":2013.875,"Average":395.96,"Trend":0.1,"__parsed_extra":[396.16,0.06]},{"Date":"2013-12","Decimal Date":2013.958,"Average":396.88,"Trend":0.08,"__parsed_extra":[396.35,0.06]},{"Date":"2014-01","Decimal Date":2014.042,"Average":397.51,"Trend":0.08,"__parsed_extra":[396.45,0.06]},{"Date":"2014-02","Decimal Date":2014.125,"Average":397.97,"Trend":0.08,"__parsed_extra":[396.53,0.06]},{"Date":"2014-03","Decimal Date":2014.208,"Average":398.27,"Trend":0.07,"__parsed_extra":[396.6,0.06]},{"Date":"2014-04","Decimal Date":2014.292,"Average":398.63,"Trend":0.06,"__parsed_extra":[396.78,0.06]},{"Date":"2014-05","Decimal Date":2014.375,"Average":398.69,"Trend":0.07,"__parsed_extra":[397.03,0.06]},{"Date":"2014-06","Decimal Date":2014.458,"Average":397.72,"Trend":0.1,"__parsed_extra":[397.16,0.06]},{"Date":"2014-07","Decimal Date":2014.542,"Average":396.13,"Trend":0.15,"__parsed_extra":[397.45,0.06]},{"Date":"2014-08","Decimal Date":2014.625,"Average":395.02,"Trend":0.14,"__parsed_extra":[397.83,0.06]},{"Date":"2014-09","Decimal Date":2014.708,"Average":395.12,"Trend":0.1,"__parsed_extra":[397.89,0.06]},{"Date":"2014-10","Decimal Date":2014.792,"Average":396.38,"Trend":0.1,"__parsed_extra":[397.91,0.06]},{"Date":"2014-11","Decimal Date":2014.875,"Average":397.86,"Trend":0.08,"__parsed_extra":[398.16,0.05]},{"Date":"2014-12","Decimal Date":2014.958,"Average":398.84,"Trend":0.08,"__parsed_extra":[398.35,0.05]},{"Date":"2015-01","Decimal Date":2015.042,"Average":399.56,"Trend":0.07,"__parsed_extra":[398.52,0.05]},{"Date":"2015-02","Decimal Date":2015.125,"Average":400.12,"Trend":0.07,"__parsed_extra":[398.69,0.05]},{"Date":"2015-03","Decimal Date":2015.208,"Average":400.57,"Trend":0.07,"__parsed_extra":[398.86,0.05]},{"Date":"2015-04","Decimal Date":2015.292,"Average":400.96,"Trend":0.07,"__parsed_extra":[399.09,0.05]},{"Date":"2015-05","Decimal Date":2015.375,"Average":400.91,"Trend":0.1,"__parsed_extra":[399.27,0.05]},{"Date":"2015-06","Decimal Date":2015.458,"Average":400.06,"Trend":0.11,"__parsed_extra":[399.5,0.05]},{"Date":"2015-07","Decimal Date":2015.542,"Average":398.38,"Trend":0.09,"__parsed_extra":[399.66,0.05]},{"Date":"2015-08","Decimal Date":2015.625,"Average":397.07,"Trend":0.13,"__parsed_extra":[399.85,0.06]},{"Date":"2015-09","Decimal Date":2015.708,"Average":397.34,"Trend":0.09,"__parsed_extra":[400.14,0.06]},{"Date":"2015-10","Decimal Date":2015.792,"Average":398.8,"Trend":0.12,"__parsed_extra":[400.37,0.06]},{"Date":"2015-11","Decimal Date":2015.875,"Average":400.37,"Trend":0.12,"__parsed_extra":[400.68,0.06]},{"Date":"2015-12","Decimal Date":2015.958,"Average":401.66,"Trend":0.1,"__parsed_extra":[401.17,0.06]},{"Date":"2016-01","Decimal Date":2016.042,"Average":402.62,"Trend":0.08,"__parsed_extra":[401.59,0.06]},{"Date":"2016-02","Decimal Date":2016.125,"Average":403.26,"Trend":0.09,"__parsed_extra":[401.86,0.06]},{"Date":"2016-03","Decimal Date":2016.208,"Average":403.85,"Trend":0.08,"__parsed_extra":[402.18,0.06]},{"Date":"2016-04","Decimal Date":2016.292,"Average":404.36,"Trend":0.07,"__parsed_extra":[402.5,0.06]},{"Date":"2016-05","Decimal Date":2016.375,"Average":404.41,"Trend":0.09,"__parsed_extra":[402.76,0.06]},{"Date":"2016-06","Decimal Date":2016.458,"Average":403.62,"Trend":0.1,"__parsed_extra":[403.03,0.07]},{"Date":"2016-07","Decimal Date":2016.542,"Average":402.1,"Trend":0.08,"__parsed_extra":[403.31,0.07]},{"Date":"2016-08","Decimal Date":2016.625,"Average":400.78,"Trend":0.09,"__parsed_extra":[403.52,0.07]},{"Date":"2016-09","Decimal Date":2016.708,"Average":400.96,"Trend":0.11,"__parsed_extra":[403.76,0.07]},{"Date":"2016-10","Decimal Date":2016.792,"Average":402.41,"Trend":0.09,"__parsed_extra":[404,0.07]},{"Date":"2016-11","Decimal Date":2016.875,"Average":403.76,"Trend":0.09,"__parsed_extra":[404.09,0.07]},{"Date":"2016-12","Decimal Date":2016.958,"Average":404.67,"Trend":0.08,"__parsed_extra":[404.19,0.07]},{"Date":"2017-01","Decimal Date":2017.042,"Average":405.32,"Trend":0.07,"__parsed_extra":[404.25,0.07]},{"Date":"2017-02","Decimal Date":2017.125,"Average":405.91,"Trend":0.09,"__parsed_extra":[404.47,0.07]},{"Date":"2017-03","Decimal Date":2017.208,"Average":406.32,"Trend":0.09,"__parsed_extra":[404.63,0.07]},{"Date":"2017-04","Decimal Date":2017.292,"Average":406.6,"Trend":0.1,"__parsed_extra":[404.73,0.07]},{"Date":"2017-05","Decimal Date":2017.375,"Average":406.64,"Trend":0.13,"__parsed_extra":[405,0.07]},{"Date":"2017-06","Decimal Date":2017.458,"Average":405.85,"Trend":0.11,"__parsed_extra":[405.28,0.07]},{"Date":"2017-07","Decimal Date":2017.542,"Average":404.1,"Trend":0.1,"__parsed_extra":[405.37,0.07]},{"Date":"2017-08","Decimal Date":2017.625,"Average":402.57,"Trend":0.16,"__parsed_extra":[405.39,0.07]},{"Date":"2017-09","Decimal Date":2017.708,"Average":402.66,"Trend":0.16,"__parsed_extra":[405.5,0.07]},{"Date":"2017-10","Decimal Date":2017.792,"Average":404.16,"Trend":0.1,"__parsed_extra":[405.74,0.07]},{"Date":"2017-11","Decimal Date":2017.875,"Average":405.7,"Trend":0.08,"__parsed_extra":[406,0.07]},{"Date":"2017-12","Decimal Date":2017.958,"Average":406.75,"Trend":0.08,"__parsed_extra":[406.23,0.07]},{"Date":"2018-01","Decimal Date":2018.042,"Average":407.53,"Trend":0.11,"__parsed_extra":[406.48,0.07]},{"Date":"2018-02","Decimal Date":2018.125,"Average":408.23,"Trend":0.1,"__parsed_extra":[406.85,0.07]},{"Date":"2018-03","Decimal Date":2018.208,"Average":408.77,"Trend":0.09,"__parsed_extra":[407.12,0.07]},{"Date":"2018-04","Decimal Date":2018.292,"Average":409.07,"Trend":0.08,"__parsed_extra":[407.24,0.07]},{"Date":"2018-05","Decimal Date":2018.375,"Average":408.93,"Trend":0.09,"__parsed_extra":[407.3,0.07]},{"Date":"2018-06","Decimal Date":2018.458,"Average":408.06,"Trend":0.08,"__parsed_extra":[407.47,0.07]},{"Date":"2018-07","Decimal Date":2018.542,"Average":406.48,"Trend":0.09,"__parsed_extra":[407.76,0.07]},{"Date":"2018-08","Decimal Date":2018.625,"Average":405.11,"Trend":0.13,"__parsed_extra":[407.95,0.07]},{"Date":"2018-09","Decimal Date":2018.708,"Average":405.18,"Trend":0.13,"__parsed_extra":[408.03,0.07]},{"Date":"2018-10","Decimal Date":2018.792,"Average":406.65,"Trend":0.09,"__parsed_extra":[408.2,0.07]},{"Date":"2018-11","Decimal Date":2018.875,"Average":408.12,"Trend":0.09,"__parsed_extra":[408.34,0.07]},{"Date":"2018-12","Decimal Date":2018.958,"Average":409.19,"Trend":0.09,"__parsed_extra":[408.6,0.08]},{"Date":"2019-01","Decimal Date":2019.042,"Average":409.92,"Trend":0.11,"__parsed_extra":[408.9,0.08]},{"Date":"2019-02","Decimal Date":2019.125,"Average":410.34,"Trend":0.11,"__parsed_extra":[408.99,0.08]},{"Date":"2019-03","Decimal Date":2019.208,"Average":410.89,"Trend":0.11,"__parsed_extra":[409.24,0.08]},{"Date":"2019-04","Decimal Date":2019.292,"Average":411.33,"Trend":0.1,"__parsed_extra":[409.5,0.08]},{"Date":"2019-05","Decimal Date":2019.375,"Average":411.34,"Trend":0.08,"__parsed_extra":[409.7,0.08]},{"Date":"2019-06","Decimal Date":2019.458,"Average":410.53,"Trend":0.08,"__parsed_extra":[409.95,0.08]},{"Date":"2019-07","Decimal Date":2019.542,"Average":408.88,"Trend":0.12,"__parsed_extra":[410.17,0.07]},{"Date":"2019-08","Decimal Date":2019.625,"Average":407.64,"Trend":0.13,"__parsed_extra":[410.48,0.07]},{"Date":"2019-09","Decimal Date":2019.708,"Average":407.92,"Trend":0.11,"__parsed_extra":[410.75,0.07]},{"Date":"2019-10","Decimal Date":2019.792,"Average":409.44,"Trend":0.11,"__parsed_extra":[410.97,0.07]},{"Date":"2019-11","Decimal Date":2019.875,"Average":410.87,"Trend":0.11,"__parsed_extra":[411.05,0.07]},{"Date":"2019-12","Decimal Date":2019.958,"Average":411.76,"Trend":0.09,"__parsed_extra":[411.17,0.07]},{"Date":"2020-01","Decimal Date":2020.042,"Average":412.43,"Trend":0.07,"__parsed_extra":[411.38,0.06]},{"Date":"2020-02","Decimal Date":2020.125,"Average":412.95,"Trend":0.09,"__parsed_extra":[411.58,0.06]},{"Date":"2020-03","Decimal Date":2020.208,"Average":413.44,"Trend":0.1,"__parsed_extra":[411.81,0.06]},{"Date":"2020-04","Decimal Date":2020.292,"Average":413.86,"Trend":0.1,"__parsed_extra":[412.02,0.06]},{"Date":"2020-05","Decimal Date":2020.375,"Average":413.81,"Trend":0.09,"__parsed_extra":[412.17,0.06]},{"Date":"2020-06","Decimal Date":2020.458,"Average":412.88,"Trend":0.1,"__parsed_extra":[412.31,0.06]},{"Date":"2020-07","Decimal Date":2020.542,"Average":411.17,"Trend":0.12,"__parsed_extra":[412.46,0.07]},{"Date":"2020-08","Decimal Date":2020.625,"Average":409.73,"Trend":0.14,"__parsed_extra":[412.57,0.07]},{"Date":"2020-09","Decimal Date":2020.708,"Average":410,"Trend":0.15,"__parsed_extra":[412.8,0.07]},{"Date":"2020-10","Decimal Date":2020.792,"Average":411.66,"Trend":0.15,"__parsed_extra":[413.15,0.07]},{"Date":"2020-11","Decimal Date":2020.875,"Average":413.25,"Trend":0.12,"__parsed_extra":[413.48,0.07]},{"Date":"2020-12","Decimal Date":2020.958,"Average":414.14,"Trend":0.08,"__parsed_extra":[413.59,0.07]},{"Date":"2021-01","Decimal Date":2021.042,"Average":414.73,"Trend":0.11,"__parsed_extra":[413.69,0.07]},{"Date":"2021-02","Decimal Date":2021.125,"Average":415.2,"Trend":0.12,"__parsed_extra":[413.83,0.07]},{"Date":"2021-03","Decimal Date":2021.208,"Average":415.49,"Trend":0.1,"__parsed_extra":[413.86,0.06]},{"Date":"2021-04","Decimal Date":2021.292,"Average":415.81,"Trend":0.11,"__parsed_extra":[413.96,0.06]},{"Date":"2021-05","Decimal Date":2021.375,"Average":416.01,"Trend":0.11,"__parsed_extra":[414.37,0.06]},{"Date":"2021-06","Decimal Date":2021.458,"Average":415.2,"Trend":0.07,"__parsed_extra":[414.63,0.06]},{"Date":"2021-07","Decimal Date":2021.542,"Average":413.45,"Trend":0.09,"__parsed_extra":[414.74,0.06]},{"Date":"2021-08","Decimal Date":2021.625,"Average":412.15,"Trend":0.08,"__parsed_extra":[414.99,0.06]},{"Date":"2021-09","Decimal Date":2021.708,"Average":412.38,"Trend":0.08,"__parsed_extra":[415.18,0.06]},{"Date":"2021-10","Decimal Date":2021.792,"Average":413.83,"Trend":0.08,"__parsed_extra":[415.33,0.06]},{"Date":"2021-11","Decimal Date":2021.875,"Average":415.58,"Trend":0.11,"__parsed_extra":[415.8,0.06]},{"Date":"2021-12","Decimal Date":2021.958,"Average":416.61,"Trend":0.11,"__parsed_extra":[416.06,0.06]},{"Date":"2022-01","Decimal Date":2022.042,"Average":417.18,"Trend":0.1,"__parsed_extra":[416.13,0.06]},{"Date":"2022-02","Decimal Date":2022.125,"Average":417.64,"Trend":0.11,"__parsed_extra":[416.28,0.06]},{"Date":"2022-03","Decimal Date":2022.208,"Average":418.16,"Trend":0.13,"__parsed_extra":[416.53,0.06]},{"Date":"2022-04","Decimal Date":2022.292,"Average":418.58,"Trend":0.13,"__parsed_extra":[416.74,0.07]},{"Date":"2022-05","Decimal Date":2022.375,"Average":418.45,"Trend":0.16,"__parsed_extra":[416.81,0.07]},{"Date":"2022-06","Decimal Date":2022.458,"Average":417.43,"Trend":0.11,"__parsed_extra":[416.86,0.07]},{"Date":"2022-07","Decimal Date":2022.542,"Average":415.68,"Trend":0.15,"__parsed_extra":[416.97,0.07]},{"Date":"2022-08","Decimal Date":2022.625,"Average":414.41,"Trend":0.14,"__parsed_extra":[417.25,0.08]},{"Date":"2022-09","Decimal Date":2022.708,"Average":414.63,"Trend":0.14,"__parsed_extra":[417.43,0.08]},{"Date":"2022-10","Decimal Date":2022.792,"Average":416.14,"Trend":0.18,"__parsed_extra":[417.63,0.09]},{"Date":"2022-11","Decimal Date":2022.875,"Average":417.77,"Trend":0.15,"__parsed_extra":[417.99,0.09]},{"Date":"2022-12","Decimal Date":2022.958,"Average":418.8,"Trend":0.12,"__parsed_extra":[418.25,0.09]},{"Date":"2023-01","Decimal Date":2023.042,"Average":419.3,"Trend":0.1,"__parsed_extra":[418.26,0.1]},{"Date":"2023-02","Decimal Date":2023.125,"Average":419.65,"Trend":0.1,"__parsed_extra":[418.28,0.06]},{"Date":"2023-03","Decimal Date":2023.208,"Average":420.01,"Trend":0.1,"__parsed_extra":[418.38,0.06]},{"Date":"2023-04","Decimal Date":2023.292,"Average":420.5,"Trend":0.1,"__parsed_extra":[418.65,0.06]},{"Date":"2023-05","Decimal Date":2023.375,"Average":420.52,"Trend":0.1,"__parsed_extra":[418.88,0.06]},{"Date":"2023-06","Decimal Date":2023.458,"Average":419.54,"Trend":0.1,"__parsed_extra":[418.97,0.06]},{"Date":"2023-07","Decimal Date":2023.542,"Average":417.86,"Trend":0.1,"__parsed_extra":[419.15,0.06]},{"Date":"2023-08","Decimal Date":2023.625,"Average":416.6,"Trend":0.1,"__parsed_extra":[419.44,0.06]},{"Date":"2023-09","Decimal Date":2023.708,"Average":416.98,"Trend":0.1,"__parsed_extra":[419.78,0.06]},{"Date":"2023-10","Decimal Date":2023.792,"Average":418.64,"Trend":0.1,"__parsed_extra":[420.13,0.06]},{"Date":"2023-11","Decimal Date":2023.875,"Average":420.15,"Trend":0.1,"__parsed_extra":[420.38,0.06]}]
+[
+  {
+    "Date": "1979-01",
+    "Decimal Date": 1979.042,
+    "Average": 336.56,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      335.92,
+      0.09
+    ]
+  },
+  {
+    "Date": "1979-02",
+    "Decimal Date": 1979.125,
+    "Average": 337.29,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      336.25,
+      0.1
+    ]
+  },
+  {
+    "Date": "1979-03",
+    "Decimal Date": 1979.208,
+    "Average": 337.88,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      336.51,
+      0.1
+    ]
+  },
+  {
+    "Date": "1979-04",
+    "Decimal Date": 1979.292,
+    "Average": 338.32,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      336.72,
+      0.1
+    ]
+  },
+  {
+    "Date": "1979-05",
+    "Decimal Date": 1979.375,
+    "Average": 338.26,
+    "Trend": 0.03,
+    "__parsed_extra": [
+      336.71,
+      0.1
+    ]
+  },
+  {
+    "Date": "1979-06",
+    "Decimal Date": 1979.458,
+    "Average": 337.38,
+    "Trend": 0.17,
+    "__parsed_extra": [
+      336.61,
+      0.11
+    ]
+  },
+  {
+    "Date": "1979-07",
+    "Decimal Date": 1979.542,
+    "Average": 335.56,
+    "Trend": 0.27,
+    "__parsed_extra": [
+      336.41,
+      0.11
+    ]
+  },
+  {
+    "Date": "1979-08",
+    "Decimal Date": 1979.625,
+    "Average": 334.37,
+    "Trend": 0.29,
+    "__parsed_extra": [
+      336.65,
+      0.11
+    ]
+  },
+  {
+    "Date": "1979-09",
+    "Decimal Date": 1979.708,
+    "Average": 335.02,
+    "Trend": 0.22,
+    "__parsed_extra": [
+      337.4,
+      0.11
+    ]
+  },
+  {
+    "Date": "1979-10",
+    "Decimal Date": 1979.792,
+    "Average": 336.36,
+    "Trend": 0.22,
+    "__parsed_extra": [
+      337.71,
+      0.11
+    ]
+  },
+  {
+    "Date": "1979-11",
+    "Decimal Date": 1979.875,
+    "Average": 337.36,
+    "Trend": 0.18,
+    "__parsed_extra": [
+      337.68,
+      0.11
+    ]
+  },
+  {
+    "Date": "1979-12",
+    "Decimal Date": 1979.958,
+    "Average": 337.85,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      337.61,
+      0.1
+    ]
+  },
+  {
+    "Date": "1980-01",
+    "Decimal Date": 1980.042,
+    "Average": 338.55,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      337.91,
+      0.1
+    ]
+  },
+  {
+    "Date": "1980-02",
+    "Decimal Date": 1980.125,
+    "Average": 339.26,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      338.23,
+      0.09
+    ]
+  },
+  {
+    "Date": "1980-03",
+    "Decimal Date": 1980.208,
+    "Average": 339.59,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      338.23,
+      0.09
+    ]
+  },
+  {
+    "Date": "1980-04",
+    "Decimal Date": 1980.292,
+    "Average": 339.99,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      338.39,
+      0.08
+    ]
+  },
+  {
+    "Date": "1980-05",
+    "Decimal Date": 1980.375,
+    "Average": 340.44,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      338.88,
+      0.07
+    ]
+  },
+  {
+    "Date": "1980-06",
+    "Decimal Date": 1980.458,
+    "Average": 339.99,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      339.22,
+      0.07
+    ]
+  },
+  {
+    "Date": "1980-07",
+    "Decimal Date": 1980.542,
+    "Average": 338.44,
+    "Trend": 0.16,
+    "__parsed_extra": [
+      339.28,
+      0.07
+    ]
+  },
+  {
+    "Date": "1980-08",
+    "Decimal Date": 1980.625,
+    "Average": 337.21,
+    "Trend": 0.19,
+    "__parsed_extra": [
+      339.5,
+      0.06
+    ]
+  },
+  {
+    "Date": "1980-09",
+    "Decimal Date": 1980.708,
+    "Average": 337.05,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      339.44,
+      0.06
+    ]
+  },
+  {
+    "Date": "1980-10",
+    "Decimal Date": 1980.792,
+    "Average": 337.83,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      339.17,
+      0.07
+    ]
+  },
+  {
+    "Date": "1980-11",
+    "Decimal Date": 1980.875,
+    "Average": 338.93,
+    "Trend": 0.06,
+    "__parsed_extra": [
+      339.26,
+      0.07
+    ]
+  },
+  {
+    "Date": "1980-12",
+    "Decimal Date": 1980.958,
+    "Average": 339.64,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      339.41,
+      0.07
+    ]
+  },
+  {
+    "Date": "1981-01",
+    "Decimal Date": 1981.042,
+    "Average": 340.18,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      339.55,
+      0.08
+    ]
+  },
+  {
+    "Date": "1981-02",
+    "Decimal Date": 1981.125,
+    "Average": 340.75,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      339.71,
+      0.08
+    ]
+  },
+  {
+    "Date": "1981-03",
+    "Decimal Date": 1981.208,
+    "Average": 341.38,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      340.02,
+      0.08
+    ]
+  },
+  {
+    "Date": "1981-04",
+    "Decimal Date": 1981.292,
+    "Average": 341.68,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      340.08,
+      0.08
+    ]
+  },
+  {
+    "Date": "1981-05",
+    "Decimal Date": 1981.375,
+    "Average": 341.43,
+    "Trend": 0.06,
+    "__parsed_extra": [
+      339.88,
+      0.09
+    ]
+  },
+  {
+    "Date": "1981-06",
+    "Decimal Date": 1981.458,
+    "Average": 340.63,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      339.86,
+      0.09
+    ]
+  },
+  {
+    "Date": "1981-07",
+    "Decimal Date": 1981.542,
+    "Average": 339.22,
+    "Trend": 0.15,
+    "__parsed_extra": [
+      340.07,
+      0.09
+    ]
+  },
+  {
+    "Date": "1981-08",
+    "Decimal Date": 1981.625,
+    "Average": 338.08,
+    "Trend": 0.17,
+    "__parsed_extra": [
+      340.37,
+      0.09
+    ]
+  },
+  {
+    "Date": "1981-09",
+    "Decimal Date": 1981.708,
+    "Average": 337.98,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      340.36,
+      0.08
+    ]
+  },
+  {
+    "Date": "1981-10",
+    "Decimal Date": 1981.792,
+    "Average": 339.07,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      340.42,
+      0.08
+    ]
+  },
+  {
+    "Date": "1981-11",
+    "Decimal Date": 1981.875,
+    "Average": 340.18,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      340.5,
+      0.07
+    ]
+  },
+  {
+    "Date": "1981-12",
+    "Decimal Date": 1981.958,
+    "Average": 340.75,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      340.52,
+      0.07
+    ]
+  },
+  {
+    "Date": "1982-01",
+    "Decimal Date": 1982.042,
+    "Average": 341.37,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      340.74,
+      0.06
+    ]
+  },
+  {
+    "Date": "1982-02",
+    "Decimal Date": 1982.125,
+    "Average": 341.95,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      340.91,
+      0.05
+    ]
+  },
+  {
+    "Date": "1982-03",
+    "Decimal Date": 1982.208,
+    "Average": 342.23,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      340.84,
+      0.05
+    ]
+  },
+  {
+    "Date": "1982-04",
+    "Decimal Date": 1982.292,
+    "Average": 342.52,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      340.91,
+      0.04
+    ]
+  },
+  {
+    "Date": "1982-05",
+    "Decimal Date": 1982.375,
+    "Average": 342.36,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      340.82,
+      0.04
+    ]
+  },
+  {
+    "Date": "1982-06",
+    "Decimal Date": 1982.458,
+    "Average": 341.49,
+    "Trend": 0.03,
+    "__parsed_extra": [
+      340.72,
+      0.03
+    ]
+  },
+  {
+    "Date": "1982-07",
+    "Decimal Date": 1982.542,
+    "Average": 339.75,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      340.61,
+      0.03
+    ]
+  },
+  {
+    "Date": "1982-08",
+    "Decimal Date": 1982.625,
+    "Average": 338.11,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      340.4,
+      0.03
+    ]
+  },
+  {
+    "Date": "1982-09",
+    "Decimal Date": 1982.708,
+    "Average": 338.16,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      340.54,
+      0.03
+    ]
+  },
+  {
+    "Date": "1982-10",
+    "Decimal Date": 1982.792,
+    "Average": 339.61,
+    "Trend": 0.05,
+    "__parsed_extra": [
+      340.97,
+      0.03
+    ]
+  },
+  {
+    "Date": "1982-11",
+    "Decimal Date": 1982.875,
+    "Average": 340.95,
+    "Trend": 0.06,
+    "__parsed_extra": [
+      341.27,
+      0.03
+    ]
+  },
+  {
+    "Date": "1982-12",
+    "Decimal Date": 1982.958,
+    "Average": 341.77,
+    "Trend": 0.06,
+    "__parsed_extra": [
+      341.53,
+      0.03
+    ]
+  },
+  {
+    "Date": "1983-01",
+    "Decimal Date": 1983.042,
+    "Average": 342.37,
+    "Trend": 0.05,
+    "__parsed_extra": [
+      341.71,
+      0.03
+    ]
+  },
+  {
+    "Date": "1983-02",
+    "Decimal Date": 1983.125,
+    "Average": 342.74,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      341.71,
+      0.03
+    ]
+  },
+  {
+    "Date": "1983-03",
+    "Decimal Date": 1983.208,
+    "Average": 343.04,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      341.7,
+      0.03
+    ]
+  },
+  {
+    "Date": "1983-04",
+    "Decimal Date": 1983.292,
+    "Average": 343.51,
+    "Trend": 0.05,
+    "__parsed_extra": [
+      341.94,
+      0.04
+    ]
+  },
+  {
+    "Date": "1983-05",
+    "Decimal Date": 1983.375,
+    "Average": 343.84,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      342.3,
+      0.04
+    ]
+  },
+  {
+    "Date": "1983-06",
+    "Decimal Date": 1983.458,
+    "Average": 343.5,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      342.71,
+      0.04
+    ]
+  },
+  {
+    "Date": "1983-07",
+    "Decimal Date": 1983.542,
+    "Average": 342.14,
+    "Trend": 0.14,
+    "__parsed_extra": [
+      342.9,
+      0.05
+    ]
+  },
+  {
+    "Date": "1983-08",
+    "Decimal Date": 1983.625,
+    "Average": 340.62,
+    "Trend": 0.16,
+    "__parsed_extra": [
+      342.85,
+      0.05
+    ]
+  },
+  {
+    "Date": "1983-09",
+    "Decimal Date": 1983.708,
+    "Average": 340.53,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      342.94,
+      0.05
+    ]
+  },
+  {
+    "Date": "1983-10",
+    "Decimal Date": 1983.792,
+    "Average": 341.75,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      343.15,
+      0.06
+    ]
+  },
+  {
+    "Date": "1983-11",
+    "Decimal Date": 1983.875,
+    "Average": 342.83,
+    "Trend": 0.14,
+    "__parsed_extra": [
+      343.19,
+      0.06
+    ]
+  },
+  {
+    "Date": "1983-12",
+    "Decimal Date": 1983.958,
+    "Average": 343.49,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      343.26,
+      0.06
+    ]
+  },
+  {
+    "Date": "1984-01",
+    "Decimal Date": 1984.042,
+    "Average": 344.32,
+    "Trend": 0.05,
+    "__parsed_extra": [
+      343.66,
+      0.06
+    ]
+  },
+  {
+    "Date": "1984-02",
+    "Decimal Date": 1984.125,
+    "Average": 344.82,
+    "Trend": 0.05,
+    "__parsed_extra": [
+      343.82,
+      0.07
+    ]
+  },
+  {
+    "Date": "1984-03",
+    "Decimal Date": 1984.208,
+    "Average": 344.96,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      343.6,
+      0.07
+    ]
+  },
+  {
+    "Date": "1984-04",
+    "Decimal Date": 1984.292,
+    "Average": 345.19,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      343.56,
+      0.07
+    ]
+  },
+  {
+    "Date": "1984-05",
+    "Decimal Date": 1984.375,
+    "Average": 345.33,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      343.78,
+      0.08
+    ]
+  },
+  {
+    "Date": "1984-06",
+    "Decimal Date": 1984.458,
+    "Average": 344.57,
+    "Trend": 0.05,
+    "__parsed_extra": [
+      343.8,
+      0.08
+    ]
+  },
+  {
+    "Date": "1984-07",
+    "Decimal Date": 1984.542,
+    "Average": 343.2,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      344.02,
+      0.08
+    ]
+  },
+  {
+    "Date": "1984-08",
+    "Decimal Date": 1984.625,
+    "Average": 342.21,
+    "Trend": 0.16,
+    "__parsed_extra": [
+      344.51,
+      0.08
+    ]
+  },
+  {
+    "Date": "1984-09",
+    "Decimal Date": 1984.708,
+    "Average": 342.13,
+    "Trend": 0.15,
+    "__parsed_extra": [
+      344.57,
+      0.09
+    ]
+  },
+  {
+    "Date": "1984-10",
+    "Decimal Date": 1984.792,
+    "Average": 342.99,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      344.37,
+      0.09
+    ]
+  },
+  {
+    "Date": "1984-11",
+    "Decimal Date": 1984.875,
+    "Average": 344.16,
+    "Trend": 0.14,
+    "__parsed_extra": [
+      344.46,
+      0.09
+    ]
+  },
+  {
+    "Date": "1984-12",
+    "Decimal Date": 1984.958,
+    "Average": 345,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      344.72,
+      0.09
+    ]
+  },
+  {
+    "Date": "1985-01",
+    "Decimal Date": 1985.042,
+    "Average": 345.35,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      344.66,
+      0.09
+    ]
+  },
+  {
+    "Date": "1985-02",
+    "Decimal Date": 1985.125,
+    "Average": 345.8,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      344.78,
+      0.09
+    ]
+  },
+  {
+    "Date": "1985-03",
+    "Decimal Date": 1985.208,
+    "Average": 346.64,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      345.31,
+      0.09
+    ]
+  },
+  {
+    "Date": "1985-04",
+    "Decimal Date": 1985.292,
+    "Average": 346.94,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      345.33,
+      0.09
+    ]
+  },
+  {
+    "Date": "1985-05",
+    "Decimal Date": 1985.375,
+    "Average": 346.78,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      345.2,
+      0.09
+    ]
+  },
+  {
+    "Date": "1985-06",
+    "Decimal Date": 1985.458,
+    "Average": 346.26,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      345.47,
+      0.09
+    ]
+  },
+  {
+    "Date": "1985-07",
+    "Decimal Date": 1985.542,
+    "Average": 344.92,
+    "Trend": 0.14,
+    "__parsed_extra": [
+      345.75,
+      0.09
+    ]
+  },
+  {
+    "Date": "1985-08",
+    "Decimal Date": 1985.625,
+    "Average": 343.41,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      345.73,
+      0.08
+    ]
+  },
+  {
+    "Date": "1985-09",
+    "Decimal Date": 1985.708,
+    "Average": 343.37,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      345.82,
+      0.08
+    ]
+  },
+  {
+    "Date": "1985-10",
+    "Decimal Date": 1985.792,
+    "Average": 344.64,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      346.03,
+      0.08
+    ]
+  },
+  {
+    "Date": "1985-11",
+    "Decimal Date": 1985.875,
+    "Average": 345.79,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      346.11,
+      0.08
+    ]
+  },
+  {
+    "Date": "1985-12",
+    "Decimal Date": 1985.958,
+    "Average": 346.55,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      346.25,
+      0.07
+    ]
+  },
+  {
+    "Date": "1986-01",
+    "Decimal Date": 1986.042,
+    "Average": 347.11,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      346.42,
+      0.07
+    ]
+  },
+  {
+    "Date": "1986-02",
+    "Decimal Date": 1986.125,
+    "Average": 347.34,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      346.34,
+      0.07
+    ]
+  },
+  {
+    "Date": "1986-03",
+    "Decimal Date": 1986.208,
+    "Average": 347.71,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      346.38,
+      0.07
+    ]
+  },
+  {
+    "Date": "1986-04",
+    "Decimal Date": 1986.292,
+    "Average": 348.22,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      346.61,
+      0.07
+    ]
+  },
+  {
+    "Date": "1986-05",
+    "Decimal Date": 1986.375,
+    "Average": 348.32,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      346.75,
+      0.07
+    ]
+  },
+  {
+    "Date": "1986-06",
+    "Decimal Date": 1986.458,
+    "Average": 347.76,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      346.99,
+      0.07
+    ]
+  },
+  {
+    "Date": "1986-07",
+    "Decimal Date": 1986.542,
+    "Average": 346.29,
+    "Trend": 0.15,
+    "__parsed_extra": [
+      347.14,
+      0.07
+    ]
+  },
+  {
+    "Date": "1986-08",
+    "Decimal Date": 1986.625,
+    "Average": 344.92,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      347.22,
+      0.07
+    ]
+  },
+  {
+    "Date": "1986-09",
+    "Decimal Date": 1986.708,
+    "Average": 344.86,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      347.26,
+      0.07
+    ]
+  },
+  {
+    "Date": "1986-10",
+    "Decimal Date": 1986.792,
+    "Average": 346.03,
+    "Trend": 0.14,
+    "__parsed_extra": [
+      347.4,
+      0.07
+    ]
+  },
+  {
+    "Date": "1986-11",
+    "Decimal Date": 1986.875,
+    "Average": 347.3,
+    "Trend": 0.16,
+    "__parsed_extra": [
+      347.63,
+      0.08
+    ]
+  },
+  {
+    "Date": "1986-12",
+    "Decimal Date": 1986.958,
+    "Average": 347.76,
+    "Trend": 0.14,
+    "__parsed_extra": [
+      347.46,
+      0.08
+    ]
+  },
+  {
+    "Date": "1987-01",
+    "Decimal Date": 1987.042,
+    "Average": 348.02,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      347.24,
+      0.08
+    ]
+  },
+  {
+    "Date": "1987-02",
+    "Decimal Date": 1987.125,
+    "Average": 348.57,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      347.47,
+      0.09
+    ]
+  },
+  {
+    "Date": "1987-03",
+    "Decimal Date": 1987.208,
+    "Average": 349.29,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      347.88,
+      0.09
+    ]
+  },
+  {
+    "Date": "1987-04",
+    "Decimal Date": 1987.292,
+    "Average": 349.98,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      348.29,
+      0.09
+    ]
+  },
+  {
+    "Date": "1987-05",
+    "Decimal Date": 1987.375,
+    "Average": 350.26,
+    "Trend": 0.16,
+    "__parsed_extra": [
+      348.69,
+      0.1
+    ]
+  },
+  {
+    "Date": "1987-06",
+    "Decimal Date": 1987.458,
+    "Average": 349.48,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      348.82,
+      0.1
+    ]
+  },
+  {
+    "Date": "1987-07",
+    "Decimal Date": 1987.542,
+    "Average": 347.86,
+    "Trend": 0.15,
+    "__parsed_extra": [
+      348.85,
+      0.1
+    ]
+  },
+  {
+    "Date": "1987-08",
+    "Decimal Date": 1987.625,
+    "Average": 346.61,
+    "Trend": 0.17,
+    "__parsed_extra": [
+      349.01,
+      0.1
+    ]
+  },
+  {
+    "Date": "1987-09",
+    "Decimal Date": 1987.708,
+    "Average": 346.7,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      349.15,
+      0.1
+    ]
+  },
+  {
+    "Date": "1987-10",
+    "Decimal Date": 1987.792,
+    "Average": 347.97,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      349.36,
+      0.1
+    ]
+  },
+  {
+    "Date": "1987-11",
+    "Decimal Date": 1987.875,
+    "Average": 349.25,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      349.57,
+      0.09
+    ]
+  },
+  {
+    "Date": "1987-12",
+    "Decimal Date": 1987.958,
+    "Average": 350.21,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      349.88,
+      0.09
+    ]
+  },
+  {
+    "Date": "1988-01",
+    "Decimal Date": 1988.042,
+    "Average": 350.91,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      350.13,
+      0.09
+    ]
+  },
+  {
+    "Date": "1988-02",
+    "Decimal Date": 1988.125,
+    "Average": 351.47,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      350.36,
+      0.08
+    ]
+  },
+  {
+    "Date": "1988-03",
+    "Decimal Date": 1988.208,
+    "Average": 351.85,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      350.39,
+      0.08
+    ]
+  },
+  {
+    "Date": "1988-04",
+    "Decimal Date": 1988.292,
+    "Average": 352.3,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      350.52,
+      0.08
+    ]
+  },
+  {
+    "Date": "1988-05",
+    "Decimal Date": 1988.375,
+    "Average": 352.46,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      350.83,
+      0.07
+    ]
+  },
+  {
+    "Date": "1988-06",
+    "Decimal Date": 1988.458,
+    "Average": 351.76,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      351.07,
+      0.07
+    ]
+  },
+  {
+    "Date": "1988-07",
+    "Decimal Date": 1988.542,
+    "Average": 350.28,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      351.27,
+      0.06
+    ]
+  },
+  {
+    "Date": "1988-08",
+    "Decimal Date": 1988.625,
+    "Average": 349.1,
+    "Trend": 0.15,
+    "__parsed_extra": [
+      351.56,
+      0.06
+    ]
+  },
+  {
+    "Date": "1988-09",
+    "Decimal Date": 1988.708,
+    "Average": 349.27,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      351.79,
+      0.06
+    ]
+  },
+  {
+    "Date": "1988-10",
+    "Decimal Date": 1988.792,
+    "Average": 350.44,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      351.85,
+      0.06
+    ]
+  },
+  {
+    "Date": "1988-11",
+    "Decimal Date": 1988.875,
+    "Average": 351.61,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      351.98,
+      0.06
+    ]
+  },
+  {
+    "Date": "1988-12",
+    "Decimal Date": 1988.958,
+    "Average": 352.46,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      352.16,
+      0.06
+    ]
+  },
+  {
+    "Date": "1989-01",
+    "Decimal Date": 1989.042,
+    "Average": 353.01,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      352.19,
+      0.06
+    ]
+  },
+  {
+    "Date": "1989-02",
+    "Decimal Date": 1989.125,
+    "Average": 353.46,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      352.34,
+      0.06
+    ]
+  },
+  {
+    "Date": "1989-03",
+    "Decimal Date": 1989.208,
+    "Average": 354.01,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      352.58,
+      0.06
+    ]
+  },
+  {
+    "Date": "1989-04",
+    "Decimal Date": 1989.292,
+    "Average": 354.38,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      352.6,
+      0.07
+    ]
+  },
+  {
+    "Date": "1989-05",
+    "Decimal Date": 1989.375,
+    "Average": 354.19,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      352.51,
+      0.07
+    ]
+  },
+  {
+    "Date": "1989-06",
+    "Decimal Date": 1989.458,
+    "Average": 353.27,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      352.58,
+      0.07
+    ]
+  },
+  {
+    "Date": "1989-07",
+    "Decimal Date": 1989.542,
+    "Average": 351.56,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      352.6,
+      0.07
+    ]
+  },
+  {
+    "Date": "1989-08",
+    "Decimal Date": 1989.625,
+    "Average": 350.21,
+    "Trend": 0.14,
+    "__parsed_extra": [
+      352.7,
+      0.07
+    ]
+  },
+  {
+    "Date": "1989-09",
+    "Decimal Date": 1989.708,
+    "Average": 350.56,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      353.1,
+      0.07
+    ]
+  },
+  {
+    "Date": "1989-10",
+    "Decimal Date": 1989.792,
+    "Average": 351.85,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      353.28,
+      0.07
+    ]
+  },
+  {
+    "Date": "1989-11",
+    "Decimal Date": 1989.875,
+    "Average": 353.04,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      353.39,
+      0.07
+    ]
+  },
+  {
+    "Date": "1989-12",
+    "Decimal Date": 1989.958,
+    "Average": 353.91,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      353.59,
+      0.07
+    ]
+  },
+  {
+    "Date": "1990-01",
+    "Decimal Date": 1990.042,
+    "Average": 354.47,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      353.69,
+      0.07
+    ]
+  },
+  {
+    "Date": "1990-02",
+    "Decimal Date": 1990.125,
+    "Average": 354.88,
+    "Trend": 0.14,
+    "__parsed_extra": [
+      353.82,
+      0.07
+    ]
+  },
+  {
+    "Date": "1990-03",
+    "Decimal Date": 1990.208,
+    "Average": 355.2,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      353.77,
+      0.07
+    ]
+  },
+  {
+    "Date": "1990-04",
+    "Decimal Date": 1990.292,
+    "Average": 355.51,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      353.73,
+      0.07
+    ]
+  },
+  {
+    "Date": "1990-05",
+    "Decimal Date": 1990.375,
+    "Average": 355.4,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      353.74,
+      0.07
+    ]
+  },
+  {
+    "Date": "1990-06",
+    "Decimal Date": 1990.458,
+    "Average": 354.32,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      353.66,
+      0.07
+    ]
+  },
+  {
+    "Date": "1990-07",
+    "Decimal Date": 1990.542,
+    "Average": 352.7,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      353.8,
+      0.06
+    ]
+  },
+  {
+    "Date": "1990-08",
+    "Decimal Date": 1990.625,
+    "Average": 351.58,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      354.09,
+      0.06
+    ]
+  },
+  {
+    "Date": "1990-09",
+    "Decimal Date": 1990.708,
+    "Average": 351.79,
+    "Trend": 0.06,
+    "__parsed_extra": [
+      354.31,
+      0.06
+    ]
+  },
+  {
+    "Date": "1990-10",
+    "Decimal Date": 1990.792,
+    "Average": 353.19,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      354.6,
+      0.06
+    ]
+  },
+  {
+    "Date": "1990-11",
+    "Decimal Date": 1990.875,
+    "Average": 354.45,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      354.7,
+      0.06
+    ]
+  },
+  {
+    "Date": "1990-12",
+    "Decimal Date": 1990.958,
+    "Average": 355.19,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      354.76,
+      0.06
+    ]
+  },
+  {
+    "Date": "1991-01",
+    "Decimal Date": 1991.042,
+    "Average": 355.76,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      354.96,
+      0.06
+    ]
+  },
+  {
+    "Date": "1991-02",
+    "Decimal Date": 1991.125,
+    "Average": 356.19,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      355.1,
+      0.06
+    ]
+  },
+  {
+    "Date": "1991-03",
+    "Decimal Date": 1991.208,
+    "Average": 356.68,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      355.25,
+      0.06
+    ]
+  },
+  {
+    "Date": "1991-04",
+    "Decimal Date": 1991.292,
+    "Average": 357.19,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      355.44,
+      0.06
+    ]
+  },
+  {
+    "Date": "1991-05",
+    "Decimal Date": 1991.375,
+    "Average": 357.11,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      355.48,
+      0.06
+    ]
+  },
+  {
+    "Date": "1991-06",
+    "Decimal Date": 1991.458,
+    "Average": 356.17,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      355.56,
+      0.07
+    ]
+  },
+  {
+    "Date": "1991-07",
+    "Decimal Date": 1991.542,
+    "Average": 354.53,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      355.65,
+      0.07
+    ]
+  },
+  {
+    "Date": "1991-08",
+    "Decimal Date": 1991.625,
+    "Average": 353.05,
+    "Trend": 0.14,
+    "__parsed_extra": [
+      355.56,
+      0.07
+    ]
+  },
+  {
+    "Date": "1991-09",
+    "Decimal Date": 1991.708,
+    "Average": 352.93,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      355.45,
+      0.07
+    ]
+  },
+  {
+    "Date": "1991-10",
+    "Decimal Date": 1991.792,
+    "Average": 354,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      355.41,
+      0.07
+    ]
+  },
+  {
+    "Date": "1991-11",
+    "Decimal Date": 1991.875,
+    "Average": 355.16,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      355.38,
+      0.07
+    ]
+  },
+  {
+    "Date": "1991-12",
+    "Decimal Date": 1991.958,
+    "Average": 355.95,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      355.49,
+      0.07
+    ]
+  },
+  {
+    "Date": "1992-01",
+    "Decimal Date": 1992.042,
+    "Average": 356.54,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      355.72,
+      0.07
+    ]
+  },
+  {
+    "Date": "1992-02",
+    "Decimal Date": 1992.125,
+    "Average": 356.89,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      355.78,
+      0.07
+    ]
+  },
+  {
+    "Date": "1992-03",
+    "Decimal Date": 1992.208,
+    "Average": 357.26,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      355.79,
+      0.07
+    ]
+  },
+  {
+    "Date": "1992-04",
+    "Decimal Date": 1992.292,
+    "Average": 357.75,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      355.96,
+      0.07
+    ]
+  },
+  {
+    "Date": "1992-05",
+    "Decimal Date": 1992.375,
+    "Average": 357.82,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      356.19,
+      0.07
+    ]
+  },
+  {
+    "Date": "1992-06",
+    "Decimal Date": 1992.458,
+    "Average": 356.87,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      356.27,
+      0.07
+    ]
+  },
+  {
+    "Date": "1992-07",
+    "Decimal Date": 1992.542,
+    "Average": 355.18,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      356.34,
+      0.07
+    ]
+  },
+  {
+    "Date": "1992-08",
+    "Decimal Date": 1992.625,
+    "Average": 353.67,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      356.22,
+      0.07
+    ]
+  },
+  {
+    "Date": "1992-09",
+    "Decimal Date": 1992.708,
+    "Average": 353.58,
+    "Trend": 0.14,
+    "__parsed_extra": [
+      356.14,
+      0.07
+    ]
+  },
+  {
+    "Date": "1992-10",
+    "Decimal Date": 1992.792,
+    "Average": 354.81,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      356.21,
+      0.07
+    ]
+  },
+  {
+    "Date": "1992-11",
+    "Decimal Date": 1992.875,
+    "Average": 355.99,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      356.2,
+      0.07
+    ]
+  },
+  {
+    "Date": "1992-12",
+    "Decimal Date": 1992.958,
+    "Average": 356.74,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      356.27,
+      0.07
+    ]
+  },
+  {
+    "Date": "1993-01",
+    "Decimal Date": 1993.042,
+    "Average": 357.21,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      356.36,
+      0.07
+    ]
+  },
+  {
+    "Date": "1993-02",
+    "Decimal Date": 1993.125,
+    "Average": 357.54,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      356.39,
+      0.07
+    ]
+  },
+  {
+    "Date": "1993-03",
+    "Decimal Date": 1993.208,
+    "Average": 357.96,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      356.51,
+      0.07
+    ]
+  },
+  {
+    "Date": "1993-04",
+    "Decimal Date": 1993.292,
+    "Average": 358.43,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      356.66,
+      0.07
+    ]
+  },
+  {
+    "Date": "1993-05",
+    "Decimal Date": 1993.375,
+    "Average": 358.38,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      356.73,
+      0.07
+    ]
+  },
+  {
+    "Date": "1993-06",
+    "Decimal Date": 1993.458,
+    "Average": 357.34,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      356.68,
+      0.07
+    ]
+  },
+  {
+    "Date": "1993-07",
+    "Decimal Date": 1993.542,
+    "Average": 355.72,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      356.74,
+      0.07
+    ]
+  },
+  {
+    "Date": "1993-08",
+    "Decimal Date": 1993.625,
+    "Average": 354.44,
+    "Trend": 0.14,
+    "__parsed_extra": [
+      356.91,
+      0.07
+    ]
+  },
+  {
+    "Date": "1993-09",
+    "Decimal Date": 1993.708,
+    "Average": 354.47,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      357.05,
+      0.07
+    ]
+  },
+  {
+    "Date": "1993-10",
+    "Decimal Date": 1993.792,
+    "Average": 355.7,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      357.19,
+      0.07
+    ]
+  },
+  {
+    "Date": "1993-11",
+    "Decimal Date": 1993.875,
+    "Average": 356.95,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      357.29,
+      0.07
+    ]
+  },
+  {
+    "Date": "1993-12",
+    "Decimal Date": 1993.958,
+    "Average": 357.86,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      357.49,
+      0.07
+    ]
+  },
+  {
+    "Date": "1994-01",
+    "Decimal Date": 1994.042,
+    "Average": 358.48,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      357.62,
+      0.07
+    ]
+  },
+  {
+    "Date": "1994-02",
+    "Decimal Date": 1994.125,
+    "Average": 359,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      357.85,
+      0.08
+    ]
+  },
+  {
+    "Date": "1994-03",
+    "Decimal Date": 1994.208,
+    "Average": 359.36,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      357.9,
+      0.08
+    ]
+  },
+  {
+    "Date": "1994-04",
+    "Decimal Date": 1994.292,
+    "Average": 359.71,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      357.92,
+      0.08
+    ]
+  },
+  {
+    "Date": "1994-05",
+    "Decimal Date": 1994.375,
+    "Average": 359.74,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      358.06,
+      0.08
+    ]
+  },
+  {
+    "Date": "1994-06",
+    "Decimal Date": 1994.458,
+    "Average": 358.8,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      358.1,
+      0.08
+    ]
+  },
+  {
+    "Date": "1994-07",
+    "Decimal Date": 1994.542,
+    "Average": 357.27,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      358.26,
+      0.08
+    ]
+  },
+  {
+    "Date": "1994-08",
+    "Decimal Date": 1994.625,
+    "Average": 356.05,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      358.56,
+      0.07
+    ]
+  },
+  {
+    "Date": "1994-09",
+    "Decimal Date": 1994.708,
+    "Average": 356.02,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      358.67,
+      0.07
+    ]
+  },
+  {
+    "Date": "1994-10",
+    "Decimal Date": 1994.792,
+    "Average": 357.26,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      358.8,
+      0.07
+    ]
+  },
+  {
+    "Date": "1994-11",
+    "Decimal Date": 1994.875,
+    "Average": 358.69,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      359.03,
+      0.06
+    ]
+  },
+  {
+    "Date": "1994-12",
+    "Decimal Date": 1994.958,
+    "Average": 359.54,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      359.15,
+      0.06
+    ]
+  },
+  {
+    "Date": "1995-01",
+    "Decimal Date": 1995.042,
+    "Average": 360.13,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      359.27,
+      0.06
+    ]
+  },
+  {
+    "Date": "1995-02",
+    "Decimal Date": 1995.125,
+    "Average": 360.61,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      359.51,
+      0.05
+    ]
+  },
+  {
+    "Date": "1995-03",
+    "Decimal Date": 1995.208,
+    "Average": 361.08,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      359.7,
+      0.05
+    ]
+  },
+  {
+    "Date": "1995-04",
+    "Decimal Date": 1995.292,
+    "Average": 361.55,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      359.85,
+      0.05
+    ]
+  },
+  {
+    "Date": "1995-05",
+    "Decimal Date": 1995.375,
+    "Average": 361.47,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      359.84,
+      0.05
+    ]
+  },
+  {
+    "Date": "1995-06",
+    "Decimal Date": 1995.458,
+    "Average": 360.61,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      359.93,
+      0.05
+    ]
+  },
+  {
+    "Date": "1995-07",
+    "Decimal Date": 1995.542,
+    "Average": 358.99,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      359.99,
+      0.05
+    ]
+  },
+  {
+    "Date": "1995-08",
+    "Decimal Date": 1995.625,
+    "Average": 357.73,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      360.2,
+      0.05
+    ]
+  },
+  {
+    "Date": "1995-09",
+    "Decimal Date": 1995.708,
+    "Average": 358.05,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      360.64,
+      0.05
+    ]
+  },
+  {
+    "Date": "1995-10",
+    "Decimal Date": 1995.792,
+    "Average": 359.42,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      360.89,
+      0.05
+    ]
+  },
+  {
+    "Date": "1995-11",
+    "Decimal Date": 1995.875,
+    "Average": 360.77,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      361.04,
+      0.05
+    ]
+  },
+  {
+    "Date": "1995-12",
+    "Decimal Date": 1995.958,
+    "Average": 361.65,
+    "Trend": 0.05,
+    "__parsed_extra": [
+      361.2,
+      0.04
+    ]
+  },
+  {
+    "Date": "1996-01",
+    "Decimal Date": 1996.042,
+    "Average": 362.14,
+    "Trend": 0.05,
+    "__parsed_extra": [
+      361.23,
+      0.04
+    ]
+  },
+  {
+    "Date": "1996-02",
+    "Decimal Date": 1996.125,
+    "Average": 362.5,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      361.33,
+      0.04
+    ]
+  },
+  {
+    "Date": "1996-03",
+    "Decimal Date": 1996.208,
+    "Average": 362.82,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      361.4,
+      0.04
+    ]
+  },
+  {
+    "Date": "1996-04",
+    "Decimal Date": 1996.292,
+    "Average": 363.14,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      361.42,
+      0.04
+    ]
+  },
+  {
+    "Date": "1996-05",
+    "Decimal Date": 1996.375,
+    "Average": 363.29,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      361.68,
+      0.04
+    ]
+  },
+  {
+    "Date": "1996-06",
+    "Decimal Date": 1996.458,
+    "Average": 362.88,
+    "Trend": 0.06,
+    "__parsed_extra": [
+      362.23,
+      0.04
+    ]
+  },
+  {
+    "Date": "1996-07",
+    "Decimal Date": 1996.542,
+    "Average": 361.57,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      362.61,
+      0.04
+    ]
+  },
+  {
+    "Date": "1996-08",
+    "Decimal Date": 1996.625,
+    "Average": 360.07,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      362.57,
+      0.04
+    ]
+  },
+  {
+    "Date": "1996-09",
+    "Decimal Date": 1996.708,
+    "Average": 359.7,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      362.31,
+      0.04
+    ]
+  },
+  {
+    "Date": "1996-10",
+    "Decimal Date": 1996.792,
+    "Average": 360.67,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      362.15,
+      0.04
+    ]
+  },
+  {
+    "Date": "1996-11",
+    "Decimal Date": 1996.875,
+    "Average": 361.78,
+    "Trend": 0.06,
+    "__parsed_extra": [
+      362.09,
+      0.04
+    ]
+  },
+  {
+    "Date": "1996-12",
+    "Decimal Date": 1996.958,
+    "Average": 362.63,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      362.19,
+      0.04
+    ]
+  },
+  {
+    "Date": "1997-01",
+    "Decimal Date": 1997.042,
+    "Average": 363.28,
+    "Trend": 0.06,
+    "__parsed_extra": [
+      362.34,
+      0.04
+    ]
+  },
+  {
+    "Date": "1997-02",
+    "Decimal Date": 1997.125,
+    "Average": 363.63,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      362.46,
+      0.04
+    ]
+  },
+  {
+    "Date": "1997-03",
+    "Decimal Date": 1997.208,
+    "Average": 364.02,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      362.62,
+      0.05
+    ]
+  },
+  {
+    "Date": "1997-04",
+    "Decimal Date": 1997.292,
+    "Average": 364.5,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      362.81,
+      0.05
+    ]
+  },
+  {
+    "Date": "1997-05",
+    "Decimal Date": 1997.375,
+    "Average": 364.51,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      362.93,
+      0.05
+    ]
+  },
+  {
+    "Date": "1997-06",
+    "Decimal Date": 1997.458,
+    "Average": 363.6,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      362.97,
+      0.05
+    ]
+  },
+  {
+    "Date": "1997-07",
+    "Decimal Date": 1997.542,
+    "Average": 361.93,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      362.96,
+      0.05
+    ]
+  },
+  {
+    "Date": "1997-08",
+    "Decimal Date": 1997.625,
+    "Average": 360.41,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      362.89,
+      0.05
+    ]
+  },
+  {
+    "Date": "1997-09",
+    "Decimal Date": 1997.708,
+    "Average": 360.4,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      363.01,
+      0.05
+    ]
+  },
+  {
+    "Date": "1997-10",
+    "Decimal Date": 1997.792,
+    "Average": 361.94,
+    "Trend": 0.06,
+    "__parsed_extra": [
+      363.41,
+      0.05
+    ]
+  },
+  {
+    "Date": "1997-11",
+    "Decimal Date": 1997.875,
+    "Average": 363.61,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      363.9,
+      0.05
+    ]
+  },
+  {
+    "Date": "1997-12",
+    "Decimal Date": 1997.958,
+    "Average": 364.68,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      364.21,
+      0.05
+    ]
+  },
+  {
+    "Date": "1998-01",
+    "Decimal Date": 1998.042,
+    "Average": 365.19,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      364.26,
+      0.05
+    ]
+  },
+  {
+    "Date": "1998-02",
+    "Decimal Date": 1998.125,
+    "Average": 365.46,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      364.31,
+      0.05
+    ]
+  },
+  {
+    "Date": "1998-03",
+    "Decimal Date": 1998.208,
+    "Average": 365.93,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      364.54,
+      0.04
+    ]
+  },
+  {
+    "Date": "1998-04",
+    "Decimal Date": 1998.292,
+    "Average": 366.58,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      364.91,
+      0.04
+    ]
+  },
+  {
+    "Date": "1998-05",
+    "Decimal Date": 1998.375,
+    "Average": 366.86,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      365.32,
+      0.04
+    ]
+  },
+  {
+    "Date": "1998-06",
+    "Decimal Date": 1998.458,
+    "Average": 366.27,
+    "Trend": 0.06,
+    "__parsed_extra": [
+      365.67,
+      0.04
+    ]
+  },
+  {
+    "Date": "1998-07",
+    "Decimal Date": 1998.542,
+    "Average": 364.84,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      365.88,
+      0.04
+    ]
+  },
+  {
+    "Date": "1998-08",
+    "Decimal Date": 1998.625,
+    "Average": 363.79,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      366.28,
+      0.04
+    ]
+  },
+  {
+    "Date": "1998-09",
+    "Decimal Date": 1998.708,
+    "Average": 364.04,
+    "Trend": 0.06,
+    "__parsed_extra": [
+      366.61,
+      0.04
+    ]
+  },
+  {
+    "Date": "1998-10",
+    "Decimal Date": 1998.792,
+    "Average": 365.34,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      366.78,
+      0.04
+    ]
+  },
+  {
+    "Date": "1998-11",
+    "Decimal Date": 1998.875,
+    "Average": 366.6,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      366.85,
+      0.04
+    ]
+  },
+  {
+    "Date": "1998-12",
+    "Decimal Date": 1998.958,
+    "Average": 367.47,
+    "Trend": 0.05,
+    "__parsed_extra": [
+      366.97,
+      0.04
+    ]
+  },
+  {
+    "Date": "1999-01",
+    "Decimal Date": 1999.042,
+    "Average": 368.11,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      367.18,
+      0.04
+    ]
+  },
+  {
+    "Date": "1999-02",
+    "Decimal Date": 1999.125,
+    "Average": 368.51,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      367.37,
+      0.04
+    ]
+  },
+  {
+    "Date": "1999-03",
+    "Decimal Date": 1999.208,
+    "Average": 368.91,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      367.52,
+      0.05
+    ]
+  },
+  {
+    "Date": "1999-04",
+    "Decimal Date": 1999.292,
+    "Average": 369.29,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      367.64,
+      0.05
+    ]
+  },
+  {
+    "Date": "1999-05",
+    "Decimal Date": 1999.375,
+    "Average": 369.21,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      367.7,
+      0.05
+    ]
+  },
+  {
+    "Date": "1999-06",
+    "Decimal Date": 1999.458,
+    "Average": 368.36,
+    "Trend": 0.06,
+    "__parsed_extra": [
+      367.79,
+      0.05
+    ]
+  },
+  {
+    "Date": "1999-07",
+    "Decimal Date": 1999.542,
+    "Average": 366.69,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      367.74,
+      0.05
+    ]
+  },
+  {
+    "Date": "1999-08",
+    "Decimal Date": 1999.625,
+    "Average": 365.33,
+    "Trend": 0.15,
+    "__parsed_extra": [
+      367.79,
+      0.06
+    ]
+  },
+  {
+    "Date": "1999-09",
+    "Decimal Date": 1999.708,
+    "Average": 365.45,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      367.99,
+      0.06
+    ]
+  },
+  {
+    "Date": "1999-10",
+    "Decimal Date": 1999.792,
+    "Average": 366.75,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      368.18,
+      0.06
+    ]
+  },
+  {
+    "Date": "1999-11",
+    "Decimal Date": 1999.875,
+    "Average": 368.04,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      368.27,
+      0.06
+    ]
+  },
+  {
+    "Date": "1999-12",
+    "Decimal Date": 1999.958,
+    "Average": 368.88,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      368.36,
+      0.06
+    ]
+  },
+  {
+    "Date": "2000-01",
+    "Decimal Date": 2000.042,
+    "Average": 369.39,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      368.47,
+      0.06
+    ]
+  },
+  {
+    "Date": "2000-02",
+    "Decimal Date": 2000.125,
+    "Average": 369.65,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      368.51,
+      0.06
+    ]
+  },
+  {
+    "Date": "2000-03",
+    "Decimal Date": 2000.208,
+    "Average": 369.97,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      368.57,
+      0.06
+    ]
+  },
+  {
+    "Date": "2000-04",
+    "Decimal Date": 2000.292,
+    "Average": 370.35,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      368.67,
+      0.06
+    ]
+  },
+  {
+    "Date": "2000-05",
+    "Decimal Date": 2000.375,
+    "Average": 370.24,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      368.71,
+      0.06
+    ]
+  },
+  {
+    "Date": "2000-06",
+    "Decimal Date": 2000.458,
+    "Average": 369.31,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      368.78,
+      0.06
+    ]
+  },
+  {
+    "Date": "2000-07",
+    "Decimal Date": 2000.542,
+    "Average": 367.91,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      369.05,
+      0.06
+    ]
+  },
+  {
+    "Date": "2000-08",
+    "Decimal Date": 2000.625,
+    "Average": 366.76,
+    "Trend": 0.14,
+    "__parsed_extra": [
+      369.27,
+      0.06
+    ]
+  },
+  {
+    "Date": "2000-09",
+    "Decimal Date": 2000.708,
+    "Average": 366.71,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      369.25,
+      0.06
+    ]
+  },
+  {
+    "Date": "2000-10",
+    "Decimal Date": 2000.792,
+    "Average": 367.91,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      369.31,
+      0.06
+    ]
+  },
+  {
+    "Date": "2000-11",
+    "Decimal Date": 2000.875,
+    "Average": 369.28,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      369.44,
+      0.06
+    ]
+  },
+  {
+    "Date": "2000-12",
+    "Decimal Date": 2000.958,
+    "Average": 370.1,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      369.54,
+      0.06
+    ]
+  },
+  {
+    "Date": "2001-01",
+    "Decimal Date": 2001.042,
+    "Average": 370.69,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      369.79,
+      0.06
+    ]
+  },
+  {
+    "Date": "2001-02",
+    "Decimal Date": 2001.125,
+    "Average": 371.18,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      370.03,
+      0.06
+    ]
+  },
+  {
+    "Date": "2001-03",
+    "Decimal Date": 2001.208,
+    "Average": 371.59,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      370.17,
+      0.06
+    ]
+  },
+  {
+    "Date": "2001-04",
+    "Decimal Date": 2001.292,
+    "Average": 371.9,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      370.22,
+      0.05
+    ]
+  },
+  {
+    "Date": "2001-05",
+    "Decimal Date": 2001.375,
+    "Average": 371.8,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      370.27,
+      0.05
+    ]
+  },
+  {
+    "Date": "2001-06",
+    "Decimal Date": 2001.458,
+    "Average": 370.85,
+    "Trend": 0.06,
+    "__parsed_extra": [
+      370.32,
+      0.05
+    ]
+  },
+  {
+    "Date": "2001-07",
+    "Decimal Date": 2001.542,
+    "Average": 369.46,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      370.57,
+      0.05
+    ]
+  },
+  {
+    "Date": "2001-08",
+    "Decimal Date": 2001.625,
+    "Average": 368.32,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      370.8,
+      0.05
+    ]
+  },
+  {
+    "Date": "2001-09",
+    "Decimal Date": 2001.708,
+    "Average": 368.36,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      370.88,
+      0.04
+    ]
+  },
+  {
+    "Date": "2001-10",
+    "Decimal Date": 2001.792,
+    "Average": 369.71,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      371.11,
+      0.04
+    ]
+  },
+  {
+    "Date": "2001-11",
+    "Decimal Date": 2001.875,
+    "Average": 371.05,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      371.25,
+      0.04
+    ]
+  },
+  {
+    "Date": "2001-12",
+    "Decimal Date": 2001.958,
+    "Average": 371.97,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      371.46,
+      0.04
+    ]
+  },
+  {
+    "Date": "2002-01",
+    "Decimal Date": 2002.042,
+    "Average": 372.51,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      371.56,
+      0.05
+    ]
+  },
+  {
+    "Date": "2002-02",
+    "Decimal Date": 2002.125,
+    "Average": 372.91,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      371.65,
+      0.05
+    ]
+  },
+  {
+    "Date": "2002-03",
+    "Decimal Date": 2002.208,
+    "Average": 373.38,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      371.86,
+      0.05
+    ]
+  },
+  {
+    "Date": "2002-04",
+    "Decimal Date": 2002.292,
+    "Average": 373.73,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      371.96,
+      0.05
+    ]
+  },
+  {
+    "Date": "2002-05",
+    "Decimal Date": 2002.375,
+    "Average": 373.71,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      372.13,
+      0.05
+    ]
+  },
+  {
+    "Date": "2002-06",
+    "Decimal Date": 2002.458,
+    "Average": 372.84,
+    "Trend": 0.06,
+    "__parsed_extra": [
+      372.3,
+      0.05
+    ]
+  },
+  {
+    "Date": "2002-07",
+    "Decimal Date": 2002.542,
+    "Average": 371.41,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      372.54,
+      0.04
+    ]
+  },
+  {
+    "Date": "2002-08",
+    "Decimal Date": 2002.625,
+    "Average": 370.35,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      372.89,
+      0.04
+    ]
+  },
+  {
+    "Date": "2002-09",
+    "Decimal Date": 2002.708,
+    "Average": 370.67,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      373.29,
+      0.04
+    ]
+  },
+  {
+    "Date": "2002-10",
+    "Decimal Date": 2002.792,
+    "Average": 371.95,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      373.44,
+      0.04
+    ]
+  },
+  {
+    "Date": "2002-11",
+    "Decimal Date": 2002.875,
+    "Average": 373.28,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      373.58,
+      0.04
+    ]
+  },
+  {
+    "Date": "2002-12",
+    "Decimal Date": 2002.958,
+    "Average": 374.26,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      373.8,
+      0.04
+    ]
+  },
+  {
+    "Date": "2003-01",
+    "Decimal Date": 2003.042,
+    "Average": 374.94,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      373.95,
+      0.04
+    ]
+  },
+  {
+    "Date": "2003-02",
+    "Decimal Date": 2003.125,
+    "Average": 375.47,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      374.13,
+      0.04
+    ]
+  },
+  {
+    "Date": "2003-03",
+    "Decimal Date": 2003.208,
+    "Average": 375.91,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      374.34,
+      0.04
+    ]
+  },
+  {
+    "Date": "2003-04",
+    "Decimal Date": 2003.292,
+    "Average": 376.39,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      374.6,
+      0.04
+    ]
+  },
+  {
+    "Date": "2003-05",
+    "Decimal Date": 2003.375,
+    "Average": 376.55,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      374.95,
+      0.05
+    ]
+  },
+  {
+    "Date": "2003-06",
+    "Decimal Date": 2003.458,
+    "Average": 375.71,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      375.16,
+      0.05
+    ]
+  },
+  {
+    "Date": "2003-07",
+    "Decimal Date": 2003.542,
+    "Average": 374.16,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      375.31,
+      0.05
+    ]
+  },
+  {
+    "Date": "2003-08",
+    "Decimal Date": 2003.625,
+    "Average": 372.93,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      375.52,
+      0.05
+    ]
+  },
+  {
+    "Date": "2003-09",
+    "Decimal Date": 2003.708,
+    "Average": 373.09,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      375.77,
+      0.05
+    ]
+  },
+  {
+    "Date": "2003-10",
+    "Decimal Date": 2003.792,
+    "Average": 374.36,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      375.9,
+      0.05
+    ]
+  },
+  {
+    "Date": "2003-11",
+    "Decimal Date": 2003.875,
+    "Average": 375.66,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      376,
+      0.05
+    ]
+  },
+  {
+    "Date": "2003-12",
+    "Decimal Date": 2003.958,
+    "Average": 376.52,
+    "Trend": 0.06,
+    "__parsed_extra": [
+      376.09,
+      0.05
+    ]
+  },
+  {
+    "Date": "2004-01",
+    "Decimal Date": 2004.042,
+    "Average": 377.21,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      376.23,
+      0.05
+    ]
+  },
+  {
+    "Date": "2004-02",
+    "Decimal Date": 2004.125,
+    "Average": 377.73,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      376.41,
+      0.05
+    ]
+  },
+  {
+    "Date": "2004-03",
+    "Decimal Date": 2004.208,
+    "Average": 378.16,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      376.56,
+      0.05
+    ]
+  },
+  {
+    "Date": "2004-04",
+    "Decimal Date": 2004.292,
+    "Average": 378.48,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      376.68,
+      0.05
+    ]
+  },
+  {
+    "Date": "2004-05",
+    "Decimal Date": 2004.375,
+    "Average": 378.4,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      376.81,
+      0.05
+    ]
+  },
+  {
+    "Date": "2004-06",
+    "Decimal Date": 2004.458,
+    "Average": 377.51,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      376.95,
+      0.06
+    ]
+  },
+  {
+    "Date": "2004-07",
+    "Decimal Date": 2004.542,
+    "Average": 375.96,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      377.15,
+      0.06
+    ]
+  },
+  {
+    "Date": "2004-08",
+    "Decimal Date": 2004.625,
+    "Average": 374.49,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      377.13,
+      0.06
+    ]
+  },
+  {
+    "Date": "2004-09",
+    "Decimal Date": 2004.708,
+    "Average": 374.39,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      377.06,
+      0.06
+    ]
+  },
+  {
+    "Date": "2004-10",
+    "Decimal Date": 2004.792,
+    "Average": 375.73,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      377.23,
+      0.06
+    ]
+  },
+  {
+    "Date": "2004-11",
+    "Decimal Date": 2004.875,
+    "Average": 377.2,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      377.49,
+      0.06
+    ]
+  },
+  {
+    "Date": "2004-12",
+    "Decimal Date": 2004.958,
+    "Average": 378.17,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      377.69,
+      0.05
+    ]
+  },
+  {
+    "Date": "2005-01",
+    "Decimal Date": 2005.042,
+    "Average": 378.73,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      377.75,
+      0.05
+    ]
+  },
+  {
+    "Date": "2005-02",
+    "Decimal Date": 2005.125,
+    "Average": 379.27,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      377.95,
+      0.05
+    ]
+  },
+  {
+    "Date": "2005-03",
+    "Decimal Date": 2005.208,
+    "Average": 379.87,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      378.26,
+      0.05
+    ]
+  },
+  {
+    "Date": "2005-04",
+    "Decimal Date": 2005.292,
+    "Average": 380.32,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      378.51,
+      0.05
+    ]
+  },
+  {
+    "Date": "2005-05",
+    "Decimal Date": 2005.375,
+    "Average": 380.42,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      378.81,
+      0.05
+    ]
+  },
+  {
+    "Date": "2005-06",
+    "Decimal Date": 2005.458,
+    "Average": 379.6,
+    "Trend": 0.06,
+    "__parsed_extra": [
+      379.01,
+      0.04
+    ]
+  },
+  {
+    "Date": "2005-07",
+    "Decimal Date": 2005.542,
+    "Average": 377.94,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      379.11,
+      0.04
+    ]
+  },
+  {
+    "Date": "2005-08",
+    "Decimal Date": 2005.625,
+    "Average": 376.73,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      379.37,
+      0.04
+    ]
+  },
+  {
+    "Date": "2005-09",
+    "Decimal Date": 2005.708,
+    "Average": 376.76,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      379.47,
+      0.04
+    ]
+  },
+  {
+    "Date": "2005-10",
+    "Decimal Date": 2005.792,
+    "Average": 378.07,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      379.64,
+      0.04
+    ]
+  },
+  {
+    "Date": "2005-11",
+    "Decimal Date": 2005.875,
+    "Average": 379.53,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      379.86,
+      0.04
+    ]
+  },
+  {
+    "Date": "2005-12",
+    "Decimal Date": 2005.958,
+    "Average": 380.53,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      380.05,
+      0.05
+    ]
+  },
+  {
+    "Date": "2006-01",
+    "Decimal Date": 2006.042,
+    "Average": 381.33,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      380.32,
+      0.05
+    ]
+  },
+  {
+    "Date": "2006-02",
+    "Decimal Date": 2006.125,
+    "Average": 381.95,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      380.58,
+      0.05
+    ]
+  },
+  {
+    "Date": "2006-03",
+    "Decimal Date": 2006.208,
+    "Average": 382.34,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      380.7,
+      0.05
+    ]
+  },
+  {
+    "Date": "2006-04",
+    "Decimal Date": 2006.292,
+    "Average": 382.67,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      380.84,
+      0.05
+    ]
+  },
+  {
+    "Date": "2006-05",
+    "Decimal Date": 2006.375,
+    "Average": 382.63,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      380.97,
+      0.05
+    ]
+  },
+  {
+    "Date": "2006-06",
+    "Decimal Date": 2006.458,
+    "Average": 381.76,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      381.14,
+      0.05
+    ]
+  },
+  {
+    "Date": "2006-07",
+    "Decimal Date": 2006.542,
+    "Average": 380.07,
+    "Trend": 0.06,
+    "__parsed_extra": [
+      381.27,
+      0.05
+    ]
+  },
+  {
+    "Date": "2006-08",
+    "Decimal Date": 2006.625,
+    "Average": 378.49,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      381.21,
+      0.05
+    ]
+  },
+  {
+    "Date": "2006-09",
+    "Decimal Date": 2006.708,
+    "Average": 378.63,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      381.4,
+      0.05
+    ]
+  },
+  {
+    "Date": "2006-10",
+    "Decimal Date": 2006.792,
+    "Average": 380.08,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      381.67,
+      0.05
+    ]
+  },
+  {
+    "Date": "2006-11",
+    "Decimal Date": 2006.875,
+    "Average": 381.44,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      381.76,
+      0.05
+    ]
+  },
+  {
+    "Date": "2006-12",
+    "Decimal Date": 2006.958,
+    "Average": 382.39,
+    "Trend": 0.05,
+    "__parsed_extra": [
+      381.92,
+      0.05
+    ]
+  },
+  {
+    "Date": "2007-01",
+    "Decimal Date": 2007.042,
+    "Average": 383.03,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      382,
+      0.05
+    ]
+  },
+  {
+    "Date": "2007-02",
+    "Decimal Date": 2007.125,
+    "Average": 383.55,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      382.14,
+      0.05
+    ]
+  },
+  {
+    "Date": "2007-03",
+    "Decimal Date": 2007.208,
+    "Average": 384.02,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      382.36,
+      0.04
+    ]
+  },
+  {
+    "Date": "2007-04",
+    "Decimal Date": 2007.292,
+    "Average": 384.28,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      382.45,
+      0.04
+    ]
+  },
+  {
+    "Date": "2007-05",
+    "Decimal Date": 2007.375,
+    "Average": 384.13,
+    "Trend": 0.06,
+    "__parsed_extra": [
+      382.5,
+      0.04
+    ]
+  },
+  {
+    "Date": "2007-06",
+    "Decimal Date": 2007.458,
+    "Average": 383.26,
+    "Trend": 0.06,
+    "__parsed_extra": [
+      382.69,
+      0.04
+    ]
+  },
+  {
+    "Date": "2007-07",
+    "Decimal Date": 2007.542,
+    "Average": 381.55,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      382.82,
+      0.04
+    ]
+  },
+  {
+    "Date": "2007-08",
+    "Decimal Date": 2007.625,
+    "Average": 380.29,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      383.06,
+      0.04
+    ]
+  },
+  {
+    "Date": "2007-09",
+    "Decimal Date": 2007.708,
+    "Average": 380.68,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      383.46,
+      0.04
+    ]
+  },
+  {
+    "Date": "2007-10",
+    "Decimal Date": 2007.792,
+    "Average": 382.1,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      383.65,
+      0.04
+    ]
+  },
+  {
+    "Date": "2007-11",
+    "Decimal Date": 2007.875,
+    "Average": 383.45,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      383.73,
+      0.04
+    ]
+  },
+  {
+    "Date": "2007-12",
+    "Decimal Date": 2007.958,
+    "Average": 384.46,
+    "Trend": 0.06,
+    "__parsed_extra": [
+      383.96,
+      0.05
+    ]
+  },
+  {
+    "Date": "2008-01",
+    "Decimal Date": 2008.042,
+    "Average": 385.23,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      384.2,
+      0.05
+    ]
+  },
+  {
+    "Date": "2008-02",
+    "Decimal Date": 2008.125,
+    "Average": 385.74,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      384.35,
+      0.05
+    ]
+  },
+  {
+    "Date": "2008-03",
+    "Decimal Date": 2008.208,
+    "Average": 386.15,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      384.51,
+      0.05
+    ]
+  },
+  {
+    "Date": "2008-04",
+    "Decimal Date": 2008.292,
+    "Average": 386.53,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      384.73,
+      0.05
+    ]
+  },
+  {
+    "Date": "2008-05",
+    "Decimal Date": 2008.375,
+    "Average": 386.49,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      384.86,
+      0.05
+    ]
+  },
+  {
+    "Date": "2008-06",
+    "Decimal Date": 2008.458,
+    "Average": 385.58,
+    "Trend": 0.05,
+    "__parsed_extra": [
+      385.02,
+      0.05
+    ]
+  },
+  {
+    "Date": "2008-07",
+    "Decimal Date": 2008.542,
+    "Average": 384.1,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      385.42,
+      0.05
+    ]
+  },
+  {
+    "Date": "2008-08",
+    "Decimal Date": 2008.625,
+    "Average": 382.77,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      385.57,
+      0.05
+    ]
+  },
+  {
+    "Date": "2008-09",
+    "Decimal Date": 2008.708,
+    "Average": 382.54,
+    "Trend": 0.06,
+    "__parsed_extra": [
+      385.29,
+      0.05
+    ]
+  },
+  {
+    "Date": "2008-10",
+    "Decimal Date": 2008.792,
+    "Average": 383.67,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      385.15,
+      0.05
+    ]
+  },
+  {
+    "Date": "2008-11",
+    "Decimal Date": 2008.875,
+    "Average": 385.18,
+    "Trend": 0.06,
+    "__parsed_extra": [
+      385.41,
+      0.05
+    ]
+  },
+  {
+    "Date": "2008-12",
+    "Decimal Date": 2008.958,
+    "Average": 386.27,
+    "Trend": 0.06,
+    "__parsed_extra": [
+      385.74,
+      0.05
+    ]
+  },
+  {
+    "Date": "2009-01",
+    "Decimal Date": 2009.042,
+    "Average": 387.03,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      385.98,
+      0.05
+    ]
+  },
+  {
+    "Date": "2009-02",
+    "Decimal Date": 2009.125,
+    "Average": 387.48,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      386.06,
+      0.04
+    ]
+  },
+  {
+    "Date": "2009-03",
+    "Decimal Date": 2009.208,
+    "Average": 387.71,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      386.05,
+      0.04
+    ]
+  },
+  {
+    "Date": "2009-04",
+    "Decimal Date": 2009.292,
+    "Average": 387.99,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      386.18,
+      0.04
+    ]
+  },
+  {
+    "Date": "2009-05",
+    "Decimal Date": 2009.375,
+    "Average": 387.95,
+    "Trend": 0.06,
+    "__parsed_extra": [
+      386.35,
+      0.04
+    ]
+  },
+  {
+    "Date": "2009-06",
+    "Decimal Date": 2009.458,
+    "Average": 386.96,
+    "Trend": 0.05,
+    "__parsed_extra": [
+      386.46,
+      0.04
+    ]
+  },
+  {
+    "Date": "2009-07",
+    "Decimal Date": 2009.542,
+    "Average": 385.01,
+    "Trend": 0.15,
+    "__parsed_extra": [
+      386.42,
+      0.04
+    ]
+  },
+  {
+    "Date": "2009-08",
+    "Decimal Date": 2009.625,
+    "Average": 383.63,
+    "Trend": 0.14,
+    "__parsed_extra": [
+      386.5,
+      0.03
+    ]
+  },
+  {
+    "Date": "2009-09",
+    "Decimal Date": 2009.708,
+    "Average": 383.93,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      386.66,
+      0.03
+    ]
+  },
+  {
+    "Date": "2009-10",
+    "Decimal Date": 2009.792,
+    "Average": 385.5,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      386.92,
+      0.03
+    ]
+  },
+  {
+    "Date": "2009-11",
+    "Decimal Date": 2009.875,
+    "Average": 386.94,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      387.12,
+      0.03
+    ]
+  },
+  {
+    "Date": "2009-12",
+    "Decimal Date": 2009.958,
+    "Average": 387.84,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      387.28,
+      0.03
+    ]
+  },
+  {
+    "Date": "2010-01",
+    "Decimal Date": 2010.042,
+    "Average": 388.62,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      387.6,
+      0.04
+    ]
+  },
+  {
+    "Date": "2010-02",
+    "Decimal Date": 2010.125,
+    "Average": 389.33,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      387.94,
+      0.05
+    ]
+  },
+  {
+    "Date": "2010-03",
+    "Decimal Date": 2010.208,
+    "Average": 389.68,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      388.03,
+      0.05
+    ]
+  },
+  {
+    "Date": "2010-04",
+    "Decimal Date": 2010.292,
+    "Average": 389.98,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      388.17,
+      0.05
+    ]
+  },
+  {
+    "Date": "2010-05",
+    "Decimal Date": 2010.375,
+    "Average": 389.95,
+    "Trend": 0.16,
+    "__parsed_extra": [
+      388.35,
+      0.06
+    ]
+  },
+  {
+    "Date": "2010-06",
+    "Decimal Date": 2010.458,
+    "Average": 389.01,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      388.52,
+      0.06
+    ]
+  },
+  {
+    "Date": "2010-07",
+    "Decimal Date": 2010.542,
+    "Average": 387.35,
+    "Trend": 0.16,
+    "__parsed_extra": [
+      388.74,
+      0.06
+    ]
+  },
+  {
+    "Date": "2010-08",
+    "Decimal Date": 2010.625,
+    "Average": 386.23,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      389.04,
+      0.06
+    ]
+  },
+  {
+    "Date": "2010-09",
+    "Decimal Date": 2010.708,
+    "Average": 386.7,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      389.4,
+      0.06
+    ]
+  },
+  {
+    "Date": "2010-10",
+    "Decimal Date": 2010.792,
+    "Average": 388.25,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      389.68,
+      0.06
+    ]
+  },
+  {
+    "Date": "2010-11",
+    "Decimal Date": 2010.875,
+    "Average": 389.62,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      389.8,
+      0.06
+    ]
+  },
+  {
+    "Date": "2010-12",
+    "Decimal Date": 2010.958,
+    "Average": 390.36,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      389.82,
+      0.05
+    ]
+  },
+  {
+    "Date": "2011-01",
+    "Decimal Date": 2011.042,
+    "Average": 390.93,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      389.89,
+      0.05
+    ]
+  },
+  {
+    "Date": "2011-02",
+    "Decimal Date": 2011.125,
+    "Average": 391.36,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      389.93,
+      0.05
+    ]
+  },
+  {
+    "Date": "2011-03",
+    "Decimal Date": 2011.208,
+    "Average": 391.67,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      390.03,
+      0.05
+    ]
+  },
+  {
+    "Date": "2011-04",
+    "Decimal Date": 2011.292,
+    "Average": 392.05,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      390.24,
+      0.05
+    ]
+  },
+  {
+    "Date": "2011-05",
+    "Decimal Date": 2011.375,
+    "Average": 392.08,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      390.45,
+      0.05
+    ]
+  },
+  {
+    "Date": "2011-06",
+    "Decimal Date": 2011.458,
+    "Average": 391.14,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      390.64,
+      0.05
+    ]
+  },
+  {
+    "Date": "2011-07",
+    "Decimal Date": 2011.542,
+    "Average": 389.2,
+    "Trend": 0.18,
+    "__parsed_extra": [
+      390.57,
+      0.05
+    ]
+  },
+  {
+    "Date": "2011-08",
+    "Decimal Date": 2011.625,
+    "Average": 387.88,
+    "Trend": 0.19,
+    "__parsed_extra": [
+      390.66,
+      0.05
+    ]
+  },
+  {
+    "Date": "2011-09",
+    "Decimal Date": 2011.708,
+    "Average": 388.27,
+    "Trend": 0.14,
+    "__parsed_extra": [
+      390.99,
+      0.05
+    ]
+  },
+  {
+    "Date": "2011-10",
+    "Decimal Date": 2011.792,
+    "Average": 389.83,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      391.3,
+      0.05
+    ]
+  },
+  {
+    "Date": "2011-11",
+    "Decimal Date": 2011.875,
+    "Average": 391.19,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      391.42,
+      0.05
+    ]
+  },
+  {
+    "Date": "2011-12",
+    "Decimal Date": 2011.958,
+    "Average": 392.02,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      391.51,
+      0.05
+    ]
+  },
+  {
+    "Date": "2012-01",
+    "Decimal Date": 2012.042,
+    "Average": 392.61,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      391.55,
+      0.05
+    ]
+  },
+  {
+    "Date": "2012-02",
+    "Decimal Date": 2012.125,
+    "Average": 393.2,
+    "Trend": 0.16,
+    "__parsed_extra": [
+      391.78,
+      0.05
+    ]
+  },
+  {
+    "Date": "2012-03",
+    "Decimal Date": 2012.208,
+    "Average": 393.73,
+    "Trend": 0.14,
+    "__parsed_extra": [
+      392.08,
+      0.06
+    ]
+  },
+  {
+    "Date": "2012-04",
+    "Decimal Date": 2012.292,
+    "Average": 393.99,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      392.2,
+      0.06
+    ]
+  },
+  {
+    "Date": "2012-05",
+    "Decimal Date": 2012.375,
+    "Average": 393.88,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      392.27,
+      0.06
+    ]
+  },
+  {
+    "Date": "2012-06",
+    "Decimal Date": 2012.458,
+    "Average": 392.84,
+    "Trend": 0.06,
+    "__parsed_extra": [
+      392.36,
+      0.06
+    ]
+  },
+  {
+    "Date": "2012-07",
+    "Decimal Date": 2012.542,
+    "Average": 391,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      392.42,
+      0.06
+    ]
+  },
+  {
+    "Date": "2012-08",
+    "Decimal Date": 2012.625,
+    "Average": 389.89,
+    "Trend": 0.15,
+    "__parsed_extra": [
+      392.73,
+      0.06
+    ]
+  },
+  {
+    "Date": "2012-09",
+    "Decimal Date": 2012.708,
+    "Average": 390.55,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      393.27,
+      0.06
+    ]
+  },
+  {
+    "Date": "2012-10",
+    "Decimal Date": 2012.792,
+    "Average": 392.16,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      393.59,
+      0.06
+    ]
+  },
+  {
+    "Date": "2012-11",
+    "Decimal Date": 2012.875,
+    "Average": 393.56,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      393.73,
+      0.05
+    ]
+  },
+  {
+    "Date": "2012-12",
+    "Decimal Date": 2012.958,
+    "Average": 394.39,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      393.82,
+      0.05
+    ]
+  },
+  {
+    "Date": "2013-01",
+    "Decimal Date": 2013.042,
+    "Average": 395.07,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      394.08,
+      0.05
+    ]
+  },
+  {
+    "Date": "2013-02",
+    "Decimal Date": 2013.125,
+    "Average": 395.7,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      394.34,
+      0.05
+    ]
+  },
+  {
+    "Date": "2013-03",
+    "Decimal Date": 2013.208,
+    "Average": 396.29,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      394.66,
+      0.05
+    ]
+  },
+  {
+    "Date": "2013-04",
+    "Decimal Date": 2013.292,
+    "Average": 396.74,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      394.94,
+      0.05
+    ]
+  },
+  {
+    "Date": "2013-05",
+    "Decimal Date": 2013.375,
+    "Average": 396.75,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      395.14,
+      0.06
+    ]
+  },
+  {
+    "Date": "2013-06",
+    "Decimal Date": 2013.458,
+    "Average": 395.96,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      395.45,
+      0.06
+    ]
+  },
+  {
+    "Date": "2013-07",
+    "Decimal Date": 2013.542,
+    "Average": 394.47,
+    "Trend": 0.2,
+    "__parsed_extra": [
+      395.83,
+      0.06
+    ]
+  },
+  {
+    "Date": "2013-08",
+    "Decimal Date": 2013.625,
+    "Average": 393.23,
+    "Trend": 0.16,
+    "__parsed_extra": [
+      396.01,
+      0.06
+    ]
+  },
+  {
+    "Date": "2013-09",
+    "Decimal Date": 2013.708,
+    "Average": 393.21,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      395.88,
+      0.06
+    ]
+  },
+  {
+    "Date": "2013-10",
+    "Decimal Date": 2013.792,
+    "Average": 394.51,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      395.93,
+      0.06
+    ]
+  },
+  {
+    "Date": "2013-11",
+    "Decimal Date": 2013.875,
+    "Average": 395.96,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      396.16,
+      0.06
+    ]
+  },
+  {
+    "Date": "2013-12",
+    "Decimal Date": 2013.958,
+    "Average": 396.88,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      396.35,
+      0.06
+    ]
+  },
+  {
+    "Date": "2014-01",
+    "Decimal Date": 2014.042,
+    "Average": 397.51,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      396.45,
+      0.06
+    ]
+  },
+  {
+    "Date": "2014-02",
+    "Decimal Date": 2014.125,
+    "Average": 397.97,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      396.53,
+      0.06
+    ]
+  },
+  {
+    "Date": "2014-03",
+    "Decimal Date": 2014.208,
+    "Average": 398.27,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      396.6,
+      0.06
+    ]
+  },
+  {
+    "Date": "2014-04",
+    "Decimal Date": 2014.292,
+    "Average": 398.63,
+    "Trend": 0.06,
+    "__parsed_extra": [
+      396.78,
+      0.06
+    ]
+  },
+  {
+    "Date": "2014-05",
+    "Decimal Date": 2014.375,
+    "Average": 398.69,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      397.03,
+      0.06
+    ]
+  },
+  {
+    "Date": "2014-06",
+    "Decimal Date": 2014.458,
+    "Average": 397.72,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      397.16,
+      0.06
+    ]
+  },
+  {
+    "Date": "2014-07",
+    "Decimal Date": 2014.542,
+    "Average": 396.13,
+    "Trend": 0.15,
+    "__parsed_extra": [
+      397.45,
+      0.06
+    ]
+  },
+  {
+    "Date": "2014-08",
+    "Decimal Date": 2014.625,
+    "Average": 395.02,
+    "Trend": 0.14,
+    "__parsed_extra": [
+      397.83,
+      0.06
+    ]
+  },
+  {
+    "Date": "2014-09",
+    "Decimal Date": 2014.708,
+    "Average": 395.12,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      397.89,
+      0.06
+    ]
+  },
+  {
+    "Date": "2014-10",
+    "Decimal Date": 2014.792,
+    "Average": 396.38,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      397.91,
+      0.06
+    ]
+  },
+  {
+    "Date": "2014-11",
+    "Decimal Date": 2014.875,
+    "Average": 397.86,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      398.16,
+      0.05
+    ]
+  },
+  {
+    "Date": "2014-12",
+    "Decimal Date": 2014.958,
+    "Average": 398.84,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      398.35,
+      0.05
+    ]
+  },
+  {
+    "Date": "2015-01",
+    "Decimal Date": 2015.042,
+    "Average": 399.56,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      398.52,
+      0.05
+    ]
+  },
+  {
+    "Date": "2015-02",
+    "Decimal Date": 2015.125,
+    "Average": 400.12,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      398.69,
+      0.05
+    ]
+  },
+  {
+    "Date": "2015-03",
+    "Decimal Date": 2015.208,
+    "Average": 400.57,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      398.86,
+      0.05
+    ]
+  },
+  {
+    "Date": "2015-04",
+    "Decimal Date": 2015.292,
+    "Average": 400.96,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      399.09,
+      0.05
+    ]
+  },
+  {
+    "Date": "2015-05",
+    "Decimal Date": 2015.375,
+    "Average": 400.91,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      399.27,
+      0.05
+    ]
+  },
+  {
+    "Date": "2015-06",
+    "Decimal Date": 2015.458,
+    "Average": 400.06,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      399.5,
+      0.05
+    ]
+  },
+  {
+    "Date": "2015-07",
+    "Decimal Date": 2015.542,
+    "Average": 398.38,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      399.66,
+      0.05
+    ]
+  },
+  {
+    "Date": "2015-08",
+    "Decimal Date": 2015.625,
+    "Average": 397.07,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      399.85,
+      0.06
+    ]
+  },
+  {
+    "Date": "2015-09",
+    "Decimal Date": 2015.708,
+    "Average": 397.34,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      400.14,
+      0.06
+    ]
+  },
+  {
+    "Date": "2015-10",
+    "Decimal Date": 2015.792,
+    "Average": 398.8,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      400.37,
+      0.06
+    ]
+  },
+  {
+    "Date": "2015-11",
+    "Decimal Date": 2015.875,
+    "Average": 400.37,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      400.68,
+      0.06
+    ]
+  },
+  {
+    "Date": "2015-12",
+    "Decimal Date": 2015.958,
+    "Average": 401.66,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      401.17,
+      0.06
+    ]
+  },
+  {
+    "Date": "2016-01",
+    "Decimal Date": 2016.042,
+    "Average": 402.62,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      401.59,
+      0.06
+    ]
+  },
+  {
+    "Date": "2016-02",
+    "Decimal Date": 2016.125,
+    "Average": 403.26,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      401.86,
+      0.06
+    ]
+  },
+  {
+    "Date": "2016-03",
+    "Decimal Date": 2016.208,
+    "Average": 403.85,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      402.18,
+      0.06
+    ]
+  },
+  {
+    "Date": "2016-04",
+    "Decimal Date": 2016.292,
+    "Average": 404.36,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      402.5,
+      0.06
+    ]
+  },
+  {
+    "Date": "2016-05",
+    "Decimal Date": 2016.375,
+    "Average": 404.41,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      402.76,
+      0.06
+    ]
+  },
+  {
+    "Date": "2016-06",
+    "Decimal Date": 2016.458,
+    "Average": 403.62,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      403.03,
+      0.07
+    ]
+  },
+  {
+    "Date": "2016-07",
+    "Decimal Date": 2016.542,
+    "Average": 402.1,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      403.31,
+      0.07
+    ]
+  },
+  {
+    "Date": "2016-08",
+    "Decimal Date": 2016.625,
+    "Average": 400.78,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      403.52,
+      0.07
+    ]
+  },
+  {
+    "Date": "2016-09",
+    "Decimal Date": 2016.708,
+    "Average": 400.96,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      403.76,
+      0.07
+    ]
+  },
+  {
+    "Date": "2016-10",
+    "Decimal Date": 2016.792,
+    "Average": 402.41,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      404,
+      0.07
+    ]
+  },
+  {
+    "Date": "2016-11",
+    "Decimal Date": 2016.875,
+    "Average": 403.76,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      404.09,
+      0.07
+    ]
+  },
+  {
+    "Date": "2016-12",
+    "Decimal Date": 2016.958,
+    "Average": 404.67,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      404.19,
+      0.07
+    ]
+  },
+  {
+    "Date": "2017-01",
+    "Decimal Date": 2017.042,
+    "Average": 405.32,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      404.25,
+      0.07
+    ]
+  },
+  {
+    "Date": "2017-02",
+    "Decimal Date": 2017.125,
+    "Average": 405.91,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      404.47,
+      0.07
+    ]
+  },
+  {
+    "Date": "2017-03",
+    "Decimal Date": 2017.208,
+    "Average": 406.32,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      404.63,
+      0.07
+    ]
+  },
+  {
+    "Date": "2017-04",
+    "Decimal Date": 2017.292,
+    "Average": 406.6,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      404.73,
+      0.07
+    ]
+  },
+  {
+    "Date": "2017-05",
+    "Decimal Date": 2017.375,
+    "Average": 406.64,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      405,
+      0.07
+    ]
+  },
+  {
+    "Date": "2017-06",
+    "Decimal Date": 2017.458,
+    "Average": 405.85,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      405.28,
+      0.07
+    ]
+  },
+  {
+    "Date": "2017-07",
+    "Decimal Date": 2017.542,
+    "Average": 404.1,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      405.37,
+      0.07
+    ]
+  },
+  {
+    "Date": "2017-08",
+    "Decimal Date": 2017.625,
+    "Average": 402.57,
+    "Trend": 0.16,
+    "__parsed_extra": [
+      405.39,
+      0.07
+    ]
+  },
+  {
+    "Date": "2017-09",
+    "Decimal Date": 2017.708,
+    "Average": 402.66,
+    "Trend": 0.16,
+    "__parsed_extra": [
+      405.5,
+      0.07
+    ]
+  },
+  {
+    "Date": "2017-10",
+    "Decimal Date": 2017.792,
+    "Average": 404.16,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      405.74,
+      0.07
+    ]
+  },
+  {
+    "Date": "2017-11",
+    "Decimal Date": 2017.875,
+    "Average": 405.7,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      406,
+      0.07
+    ]
+  },
+  {
+    "Date": "2017-12",
+    "Decimal Date": 2017.958,
+    "Average": 406.75,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      406.23,
+      0.07
+    ]
+  },
+  {
+    "Date": "2018-01",
+    "Decimal Date": 2018.042,
+    "Average": 407.53,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      406.48,
+      0.07
+    ]
+  },
+  {
+    "Date": "2018-02",
+    "Decimal Date": 2018.125,
+    "Average": 408.23,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      406.85,
+      0.07
+    ]
+  },
+  {
+    "Date": "2018-03",
+    "Decimal Date": 2018.208,
+    "Average": 408.77,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      407.12,
+      0.07
+    ]
+  },
+  {
+    "Date": "2018-04",
+    "Decimal Date": 2018.292,
+    "Average": 409.07,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      407.24,
+      0.07
+    ]
+  },
+  {
+    "Date": "2018-05",
+    "Decimal Date": 2018.375,
+    "Average": 408.93,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      407.3,
+      0.07
+    ]
+  },
+  {
+    "Date": "2018-06",
+    "Decimal Date": 2018.458,
+    "Average": 408.06,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      407.47,
+      0.07
+    ]
+  },
+  {
+    "Date": "2018-07",
+    "Decimal Date": 2018.542,
+    "Average": 406.48,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      407.76,
+      0.07
+    ]
+  },
+  {
+    "Date": "2018-08",
+    "Decimal Date": 2018.625,
+    "Average": 405.11,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      407.95,
+      0.07
+    ]
+  },
+  {
+    "Date": "2018-09",
+    "Decimal Date": 2018.708,
+    "Average": 405.18,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      408.03,
+      0.07
+    ]
+  },
+  {
+    "Date": "2018-10",
+    "Decimal Date": 2018.792,
+    "Average": 406.65,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      408.2,
+      0.07
+    ]
+  },
+  {
+    "Date": "2018-11",
+    "Decimal Date": 2018.875,
+    "Average": 408.12,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      408.34,
+      0.07
+    ]
+  },
+  {
+    "Date": "2018-12",
+    "Decimal Date": 2018.958,
+    "Average": 409.19,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      408.6,
+      0.08
+    ]
+  },
+  {
+    "Date": "2019-01",
+    "Decimal Date": 2019.042,
+    "Average": 409.92,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      408.9,
+      0.08
+    ]
+  },
+  {
+    "Date": "2019-02",
+    "Decimal Date": 2019.125,
+    "Average": 410.34,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      408.99,
+      0.08
+    ]
+  },
+  {
+    "Date": "2019-03",
+    "Decimal Date": 2019.208,
+    "Average": 410.89,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      409.24,
+      0.08
+    ]
+  },
+  {
+    "Date": "2019-04",
+    "Decimal Date": 2019.292,
+    "Average": 411.33,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      409.5,
+      0.08
+    ]
+  },
+  {
+    "Date": "2019-05",
+    "Decimal Date": 2019.375,
+    "Average": 411.34,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      409.7,
+      0.08
+    ]
+  },
+  {
+    "Date": "2019-06",
+    "Decimal Date": 2019.458,
+    "Average": 410.53,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      409.95,
+      0.08
+    ]
+  },
+  {
+    "Date": "2019-07",
+    "Decimal Date": 2019.542,
+    "Average": 408.88,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      410.17,
+      0.07
+    ]
+  },
+  {
+    "Date": "2019-08",
+    "Decimal Date": 2019.625,
+    "Average": 407.64,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      410.48,
+      0.07
+    ]
+  },
+  {
+    "Date": "2019-09",
+    "Decimal Date": 2019.708,
+    "Average": 407.92,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      410.75,
+      0.07
+    ]
+  },
+  {
+    "Date": "2019-10",
+    "Decimal Date": 2019.792,
+    "Average": 409.44,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      410.97,
+      0.07
+    ]
+  },
+  {
+    "Date": "2019-11",
+    "Decimal Date": 2019.875,
+    "Average": 410.87,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      411.05,
+      0.07
+    ]
+  },
+  {
+    "Date": "2019-12",
+    "Decimal Date": 2019.958,
+    "Average": 411.76,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      411.17,
+      0.07
+    ]
+  },
+  {
+    "Date": "2020-01",
+    "Decimal Date": 2020.042,
+    "Average": 412.43,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      411.38,
+      0.06
+    ]
+  },
+  {
+    "Date": "2020-02",
+    "Decimal Date": 2020.125,
+    "Average": 412.95,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      411.58,
+      0.06
+    ]
+  },
+  {
+    "Date": "2020-03",
+    "Decimal Date": 2020.208,
+    "Average": 413.44,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      411.81,
+      0.06
+    ]
+  },
+  {
+    "Date": "2020-04",
+    "Decimal Date": 2020.292,
+    "Average": 413.86,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      412.02,
+      0.06
+    ]
+  },
+  {
+    "Date": "2020-05",
+    "Decimal Date": 2020.375,
+    "Average": 413.81,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      412.17,
+      0.06
+    ]
+  },
+  {
+    "Date": "2020-06",
+    "Decimal Date": 2020.458,
+    "Average": 412.88,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      412.31,
+      0.06
+    ]
+  },
+  {
+    "Date": "2020-07",
+    "Decimal Date": 2020.542,
+    "Average": 411.17,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      412.46,
+      0.07
+    ]
+  },
+  {
+    "Date": "2020-08",
+    "Decimal Date": 2020.625,
+    "Average": 409.73,
+    "Trend": 0.14,
+    "__parsed_extra": [
+      412.57,
+      0.07
+    ]
+  },
+  {
+    "Date": "2020-09",
+    "Decimal Date": 2020.708,
+    "Average": 410,
+    "Trend": 0.15,
+    "__parsed_extra": [
+      412.8,
+      0.07
+    ]
+  },
+  {
+    "Date": "2020-10",
+    "Decimal Date": 2020.792,
+    "Average": 411.66,
+    "Trend": 0.15,
+    "__parsed_extra": [
+      413.15,
+      0.07
+    ]
+  },
+  {
+    "Date": "2020-11",
+    "Decimal Date": 2020.875,
+    "Average": 413.25,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      413.48,
+      0.07
+    ]
+  },
+  {
+    "Date": "2020-12",
+    "Decimal Date": 2020.958,
+    "Average": 414.14,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      413.59,
+      0.07
+    ]
+  },
+  {
+    "Date": "2021-01",
+    "Decimal Date": 2021.042,
+    "Average": 414.73,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      413.69,
+      0.07
+    ]
+  },
+  {
+    "Date": "2021-02",
+    "Decimal Date": 2021.125,
+    "Average": 415.2,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      413.83,
+      0.07
+    ]
+  },
+  {
+    "Date": "2021-03",
+    "Decimal Date": 2021.208,
+    "Average": 415.49,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      413.86,
+      0.06
+    ]
+  },
+  {
+    "Date": "2021-04",
+    "Decimal Date": 2021.292,
+    "Average": 415.81,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      413.96,
+      0.06
+    ]
+  },
+  {
+    "Date": "2021-05",
+    "Decimal Date": 2021.375,
+    "Average": 416.01,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      414.37,
+      0.06
+    ]
+  },
+  {
+    "Date": "2021-06",
+    "Decimal Date": 2021.458,
+    "Average": 415.2,
+    "Trend": 0.07,
+    "__parsed_extra": [
+      414.63,
+      0.06
+    ]
+  },
+  {
+    "Date": "2021-07",
+    "Decimal Date": 2021.542,
+    "Average": 413.45,
+    "Trend": 0.09,
+    "__parsed_extra": [
+      414.74,
+      0.06
+    ]
+  },
+  {
+    "Date": "2021-08",
+    "Decimal Date": 2021.625,
+    "Average": 412.15,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      414.99,
+      0.06
+    ]
+  },
+  {
+    "Date": "2021-09",
+    "Decimal Date": 2021.708,
+    "Average": 412.38,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      415.18,
+      0.06
+    ]
+  },
+  {
+    "Date": "2021-10",
+    "Decimal Date": 2021.792,
+    "Average": 413.83,
+    "Trend": 0.08,
+    "__parsed_extra": [
+      415.33,
+      0.06
+    ]
+  },
+  {
+    "Date": "2021-11",
+    "Decimal Date": 2021.875,
+    "Average": 415.58,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      415.8,
+      0.06
+    ]
+  },
+  {
+    "Date": "2021-12",
+    "Decimal Date": 2021.958,
+    "Average": 416.61,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      416.06,
+      0.06
+    ]
+  },
+  {
+    "Date": "2022-01",
+    "Decimal Date": 2022.042,
+    "Average": 417.18,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      416.13,
+      0.06
+    ]
+  },
+  {
+    "Date": "2022-02",
+    "Decimal Date": 2022.125,
+    "Average": 417.64,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      416.28,
+      0.06
+    ]
+  },
+  {
+    "Date": "2022-03",
+    "Decimal Date": 2022.208,
+    "Average": 418.16,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      416.53,
+      0.06
+    ]
+  },
+  {
+    "Date": "2022-04",
+    "Decimal Date": 2022.292,
+    "Average": 418.58,
+    "Trend": 0.13,
+    "__parsed_extra": [
+      416.74,
+      0.07
+    ]
+  },
+  {
+    "Date": "2022-05",
+    "Decimal Date": 2022.375,
+    "Average": 418.45,
+    "Trend": 0.16,
+    "__parsed_extra": [
+      416.81,
+      0.07
+    ]
+  },
+  {
+    "Date": "2022-06",
+    "Decimal Date": 2022.458,
+    "Average": 417.43,
+    "Trend": 0.11,
+    "__parsed_extra": [
+      416.86,
+      0.07
+    ]
+  },
+  {
+    "Date": "2022-07",
+    "Decimal Date": 2022.542,
+    "Average": 415.68,
+    "Trend": 0.15,
+    "__parsed_extra": [
+      416.97,
+      0.07
+    ]
+  },
+  {
+    "Date": "2022-08",
+    "Decimal Date": 2022.625,
+    "Average": 414.41,
+    "Trend": 0.14,
+    "__parsed_extra": [
+      417.25,
+      0.08
+    ]
+  },
+  {
+    "Date": "2022-09",
+    "Decimal Date": 2022.708,
+    "Average": 414.63,
+    "Trend": 0.14,
+    "__parsed_extra": [
+      417.43,
+      0.08
+    ]
+  },
+  {
+    "Date": "2022-10",
+    "Decimal Date": 2022.792,
+    "Average": 416.14,
+    "Trend": 0.18,
+    "__parsed_extra": [
+      417.63,
+      0.09
+    ]
+  },
+  {
+    "Date": "2022-11",
+    "Decimal Date": 2022.875,
+    "Average": 417.77,
+    "Trend": 0.15,
+    "__parsed_extra": [
+      417.99,
+      0.09
+    ]
+  },
+  {
+    "Date": "2022-12",
+    "Decimal Date": 2022.958,
+    "Average": 418.8,
+    "Trend": 0.12,
+    "__parsed_extra": [
+      418.25,
+      0.09
+    ]
+  },
+  {
+    "Date": "2023-01",
+    "Decimal Date": 2023.042,
+    "Average": 419.3,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      418.26,
+      0.1
+    ]
+  },
+  {
+    "Date": "2023-02",
+    "Decimal Date": 2023.125,
+    "Average": 419.65,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      418.28,
+      0.06
+    ]
+  },
+  {
+    "Date": "2023-03",
+    "Decimal Date": 2023.208,
+    "Average": 420.01,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      418.38,
+      0.06
+    ]
+  },
+  {
+    "Date": "2023-04",
+    "Decimal Date": 2023.292,
+    "Average": 420.5,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      418.65,
+      0.06
+    ]
+  },
+  {
+    "Date": "2023-05",
+    "Decimal Date": 2023.375,
+    "Average": 420.52,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      418.88,
+      0.06
+    ]
+  },
+  {
+    "Date": "2023-06",
+    "Decimal Date": 2023.458,
+    "Average": 419.54,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      418.97,
+      0.06
+    ]
+  },
+  {
+    "Date": "2023-07",
+    "Decimal Date": 2023.542,
+    "Average": 417.86,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      419.15,
+      0.06
+    ]
+  },
+  {
+    "Date": "2023-08",
+    "Decimal Date": 2023.625,
+    "Average": 416.6,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      419.44,
+      0.06
+    ]
+  },
+  {
+    "Date": "2023-09",
+    "Decimal Date": 2023.708,
+    "Average": 416.98,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      419.78,
+      0.06
+    ]
+  },
+  {
+    "Date": "2023-10",
+    "Decimal Date": 2023.792,
+    "Average": 418.64,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      420.13,
+      0.06
+    ]
+  },
+  {
+    "Date": "2023-11",
+    "Decimal Date": 2023.875,
+    "Average": 420.15,
+    "Trend": 0.1,
+    "__parsed_extra": [
+      420.38,
+      0.06
+    ]
+  }
+]
