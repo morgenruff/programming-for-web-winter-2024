@@ -1,0 +1,8703 @@
+[
+  {
+    "date": "1958-03",
+    "decimaldate": 1958.2027,
+    "average": 315.7,
+    "interpolated": 314.43,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1958-04",
+    "decimaldate": 1958.2877,
+    "average": 317.45,
+    "interpolated": 315.16,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1958-05",
+    "decimaldate": 1958.3699,
+    "average": 317.51,
+    "interpolated": 314.71,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1958-06",
+    "decimaldate": 1958.4548,
+    "average": 317.24,
+    "interpolated": 315.14,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1958-07",
+    "decimaldate": 1958.537,
+    "average": 315.86,
+    "interpolated": 315.18,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1958-08",
+    "decimaldate": 1958.6219,
+    "average": 314.93,
+    "interpolated": 316.18,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1958-09",
+    "decimaldate": 1958.7068,
+    "average": 313.2,
+    "interpolated": 316.08,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1958-10",
+    "decimaldate": 1958.789,
+    "average": 312.43,
+    "interpolated": 315.41,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1958-11",
+    "decimaldate": 1958.874,
+    "average": 313.33,
+    "interpolated": 315.2,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1958-12",
+    "decimaldate": 1958.9562,
+    "average": 314.67,
+    "interpolated": 315.43,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1959-01",
+    "decimaldate": 1959.0411,
+    "average": 315.58,
+    "interpolated": 315.55,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1959-02",
+    "decimaldate": 1959.126,
+    "average": 316.48,
+    "interpolated": 315.86,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1959-03",
+    "decimaldate": 1959.2027,
+    "average": 316.65,
+    "interpolated": 315.38,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1959-04",
+    "decimaldate": 1959.2877,
+    "average": 317.72,
+    "interpolated": 315.41,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1959-05",
+    "decimaldate": 1959.3699,
+    "average": 318.29,
+    "interpolated": 315.49,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1959-06",
+    "decimaldate": 1959.4548,
+    "average": 318.15,
+    "interpolated": 316.03,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1959-07",
+    "decimaldate": 1959.537,
+    "average": 316.54,
+    "interpolated": 315.86,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1959-08",
+    "decimaldate": 1959.6219,
+    "average": 314.8,
+    "interpolated": 316.06,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1959-09",
+    "decimaldate": 1959.7068,
+    "average": 313.84,
+    "interpolated": 316.73,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1959-10",
+    "decimaldate": 1959.789,
+    "average": 313.33,
+    "interpolated": 316.33,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1959-11",
+    "decimaldate": 1959.874,
+    "average": 314.81,
+    "interpolated": 316.68,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1959-12",
+    "decimaldate": 1959.9562,
+    "average": 315.58,
+    "interpolated": 316.35,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1960-01",
+    "decimaldate": 1960.041,
+    "average": 316.43,
+    "interpolated": 316.4,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1960-02",
+    "decimaldate": 1960.1257,
+    "average": 316.98,
+    "interpolated": 316.36,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1960-03",
+    "decimaldate": 1960.2049,
+    "average": 317.58,
+    "interpolated": 316.28,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1960-04",
+    "decimaldate": 1960.2896,
+    "average": 319.03,
+    "interpolated": 316.7,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1960-05",
+    "decimaldate": 1960.3716,
+    "average": 320.04,
+    "interpolated": 317.22,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1960-06",
+    "decimaldate": 1960.4563,
+    "average": 319.59,
+    "interpolated": 317.47,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1960-07",
+    "decimaldate": 1960.5383,
+    "average": 318.18,
+    "interpolated": 317.52,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1960-08",
+    "decimaldate": 1960.623,
+    "average": 315.9,
+    "interpolated": 317.19,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1960-09",
+    "decimaldate": 1960.7077,
+    "average": 314.17,
+    "interpolated": 317.08,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1960-10",
+    "decimaldate": 1960.7896,
+    "average": 313.83,
+    "interpolated": 316.83,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1960-11",
+    "decimaldate": 1960.8743,
+    "average": 315,
+    "interpolated": 316.88,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1960-12",
+    "decimaldate": 1960.9563,
+    "average": 316.19,
+    "interpolated": 316.96,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1961-01",
+    "decimaldate": 1961.0411,
+    "average": 316.89,
+    "interpolated": 316.86,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1961-02",
+    "decimaldate": 1961.126,
+    "average": 317.7,
+    "interpolated": 317.08,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1961-03",
+    "decimaldate": 1961.2027,
+    "average": 318.54,
+    "interpolated": 317.26,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1961-04",
+    "decimaldate": 1961.2877,
+    "average": 319.48,
+    "interpolated": 317.16,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1961-05",
+    "decimaldate": 1961.3699,
+    "average": 320.58,
+    "interpolated": 317.76,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1961-06",
+    "decimaldate": 1961.4548,
+    "average": 319.77,
+    "interpolated": 317.63,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1961-07",
+    "decimaldate": 1961.537,
+    "average": 318.57,
+    "interpolated": 317.88,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1961-08",
+    "decimaldate": 1961.6219,
+    "average": 316.79,
+    "interpolated": 318.06,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1961-09",
+    "decimaldate": 1961.7068,
+    "average": 314.99,
+    "interpolated": 317.9,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1961-10",
+    "decimaldate": 1961.789,
+    "average": 315.31,
+    "interpolated": 318.32,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1961-11",
+    "decimaldate": 1961.874,
+    "average": 316.1,
+    "interpolated": 317.99,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1961-12",
+    "decimaldate": 1961.9562,
+    "average": 317.01,
+    "interpolated": 317.79,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1962-01",
+    "decimaldate": 1962.0411,
+    "average": 317.94,
+    "interpolated": 317.91,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1962-02",
+    "decimaldate": 1962.126,
+    "average": 318.55,
+    "interpolated": 317.92,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1962-03",
+    "decimaldate": 1962.2027,
+    "average": 319.68,
+    "interpolated": 318.39,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1962-04",
+    "decimaldate": 1962.2877,
+    "average": 320.57,
+    "interpolated": 318.24,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1962-05",
+    "decimaldate": 1962.3699,
+    "average": 321.02,
+    "interpolated": 318.18,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1962-06",
+    "decimaldate": 1962.4548,
+    "average": 320.62,
+    "interpolated": 318.47,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1962-07",
+    "decimaldate": 1962.537,
+    "average": 319.61,
+    "interpolated": 318.92,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1962-08",
+    "decimaldate": 1962.6219,
+    "average": 317.4,
+    "interpolated": 318.68,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1962-09",
+    "decimaldate": 1962.7068,
+    "average": 316.25,
+    "interpolated": 319.17,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1962-10",
+    "decimaldate": 1962.789,
+    "average": 315.42,
+    "interpolated": 318.45,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1962-11",
+    "decimaldate": 1962.874,
+    "average": 316.69,
+    "interpolated": 318.58,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1962-12",
+    "decimaldate": 1962.9562,
+    "average": 317.7,
+    "interpolated": 318.47,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1963-01",
+    "decimaldate": 1963.0411,
+    "average": 318.74,
+    "interpolated": 318.7,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1963-02",
+    "decimaldate": 1963.126,
+    "average": 319.07,
+    "interpolated": 318.44,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1963-03",
+    "decimaldate": 1963.2027,
+    "average": 319.86,
+    "interpolated": 318.57,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1963-04",
+    "decimaldate": 1963.2877,
+    "average": 321.38,
+    "interpolated": 319.05,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1963-05",
+    "decimaldate": 1963.3699,
+    "average": 322.25,
+    "interpolated": 319.4,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1963-06",
+    "decimaldate": 1963.4548,
+    "average": 321.48,
+    "interpolated": 319.32,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1963-07",
+    "decimaldate": 1963.537,
+    "average": 319.74,
+    "interpolated": 319.05,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1963-08",
+    "decimaldate": 1963.6219,
+    "average": 317.77,
+    "interpolated": 319.05,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1963-09",
+    "decimaldate": 1963.7068,
+    "average": 316.21,
+    "interpolated": 319.14,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1963-10",
+    "decimaldate": 1963.789,
+    "average": 315.99,
+    "interpolated": 319.02,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1963-11",
+    "decimaldate": 1963.874,
+    "average": 317.07,
+    "interpolated": 318.97,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1963-12",
+    "decimaldate": 1963.9562,
+    "average": 318.35,
+    "interpolated": 319.13,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1964-01",
+    "decimaldate": 1964.041,
+    "average": 319.57,
+    "interpolated": 319.54,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1964-02",
+    "decimaldate": 1964.1257,
+    "average": 320.01,
+    "interpolated": 319.37,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1964-03",
+    "decimaldate": 1964.2049,
+    "average": 320.74,
+    "interpolated": 319.41,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1964-04",
+    "decimaldate": 1964.2896,
+    "average": 321.84,
+    "interpolated": 319.45,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1964-05",
+    "decimaldate": 1964.3716,
+    "average": 322.26,
+    "interpolated": 319.4,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1964-06",
+    "decimaldate": 1964.4563,
+    "average": 321.89,
+    "interpolated": 319.75,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1964-07",
+    "decimaldate": 1964.5383,
+    "average": 320.44,
+    "interpolated": 319.77,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1964-08",
+    "decimaldate": 1964.623,
+    "average": 318.69,
+    "interpolated": 320,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1964-09",
+    "decimaldate": 1964.7077,
+    "average": 316.7,
+    "interpolated": 319.66,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1964-10",
+    "decimaldate": 1964.7896,
+    "average": 316.87,
+    "interpolated": 319.91,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1964-11",
+    "decimaldate": 1964.8743,
+    "average": 317.68,
+    "interpolated": 319.58,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1964-12",
+    "decimaldate": 1964.9563,
+    "average": 318.71,
+    "interpolated": 319.49,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1965-01",
+    "decimaldate": 1965.0411,
+    "average": 319.44,
+    "interpolated": 319.4,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1965-02",
+    "decimaldate": 1965.126,
+    "average": 320.44,
+    "interpolated": 319.81,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1965-03",
+    "decimaldate": 1965.2027,
+    "average": 320.89,
+    "interpolated": 319.59,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1965-04",
+    "decimaldate": 1965.2877,
+    "average": 322.14,
+    "interpolated": 319.78,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1965-05",
+    "decimaldate": 1965.3699,
+    "average": 322.17,
+    "interpolated": 319.3,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1965-06",
+    "decimaldate": 1965.4548,
+    "average": 321.87,
+    "interpolated": 319.7,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1965-07",
+    "decimaldate": 1965.537,
+    "average": 321.21,
+    "interpolated": 320.51,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1965-08",
+    "decimaldate": 1965.6219,
+    "average": 318.87,
+    "interpolated": 320.15,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1965-09",
+    "decimaldate": 1965.7068,
+    "average": 317.81,
+    "interpolated": 320.77,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1965-10",
+    "decimaldate": 1965.789,
+    "average": 317.3,
+    "interpolated": 320.36,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1965-11",
+    "decimaldate": 1965.874,
+    "average": 318.87,
+    "interpolated": 320.78,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1965-12",
+    "decimaldate": 1965.9562,
+    "average": 319.42,
+    "interpolated": 320.2,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1966-01",
+    "decimaldate": 1966.0411,
+    "average": 320.62,
+    "interpolated": 320.59,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1966-02",
+    "decimaldate": 1966.126,
+    "average": 321.6,
+    "interpolated": 320.96,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1966-03",
+    "decimaldate": 1966.2027,
+    "average": 322.39,
+    "interpolated": 321.08,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1966-04",
+    "decimaldate": 1966.2877,
+    "average": 323.7,
+    "interpolated": 321.34,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1966-05",
+    "decimaldate": 1966.3699,
+    "average": 324.08,
+    "interpolated": 321.2,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1966-06",
+    "decimaldate": 1966.4548,
+    "average": 323.75,
+    "interpolated": 321.57,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1966-07",
+    "decimaldate": 1966.537,
+    "average": 322.38,
+    "interpolated": 321.68,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1966-08",
+    "decimaldate": 1966.6219,
+    "average": 320.36,
+    "interpolated": 321.65,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1966-09",
+    "decimaldate": 1966.7068,
+    "average": 318.64,
+    "interpolated": 321.6,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1966-10",
+    "decimaldate": 1966.789,
+    "average": 318.1,
+    "interpolated": 321.17,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1966-11",
+    "decimaldate": 1966.874,
+    "average": 319.78,
+    "interpolated": 321.7,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1966-12",
+    "decimaldate": 1966.9562,
+    "average": 321.03,
+    "interpolated": 321.81,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1967-01",
+    "decimaldate": 1967.0411,
+    "average": 322.33,
+    "interpolated": 322.29,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1967-02",
+    "decimaldate": 1967.126,
+    "average": 322.5,
+    "interpolated": 321.86,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1967-03",
+    "decimaldate": 1967.2027,
+    "average": 323.04,
+    "interpolated": 321.73,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1967-04",
+    "decimaldate": 1967.2877,
+    "average": 324.42,
+    "interpolated": 322.04,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1967-05",
+    "decimaldate": 1967.3699,
+    "average": 325,
+    "interpolated": 322.12,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1967-06",
+    "decimaldate": 1967.4548,
+    "average": 324.09,
+    "interpolated": 321.91,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1967-07",
+    "decimaldate": 1967.537,
+    "average": 322.54,
+    "interpolated": 321.84,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1967-08",
+    "decimaldate": 1967.6219,
+    "average": 320.92,
+    "interpolated": 322.21,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1967-09",
+    "decimaldate": 1967.7068,
+    "average": 319.25,
+    "interpolated": 322.23,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1967-10",
+    "decimaldate": 1967.789,
+    "average": 319.39,
+    "interpolated": 322.47,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1967-11",
+    "decimaldate": 1967.874,
+    "average": 320.73,
+    "interpolated": 322.65,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1967-12",
+    "decimaldate": 1967.9562,
+    "average": 321.96,
+    "interpolated": 322.75,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1968-01",
+    "decimaldate": 1968.041,
+    "average": 322.57,
+    "interpolated": 322.54,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1968-02",
+    "decimaldate": 1968.1257,
+    "average": 323.15,
+    "interpolated": 322.51,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1968-03",
+    "decimaldate": 1968.2049,
+    "average": 323.89,
+    "interpolated": 322.55,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1968-04",
+    "decimaldate": 1968.2896,
+    "average": 325.02,
+    "interpolated": 322.62,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1968-05",
+    "decimaldate": 1968.3716,
+    "average": 325.57,
+    "interpolated": 322.68,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1968-06",
+    "decimaldate": 1968.4563,
+    "average": 325.36,
+    "interpolated": 323.19,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1968-07",
+    "decimaldate": 1968.5383,
+    "average": 324.14,
+    "interpolated": 323.46,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1968-08",
+    "decimaldate": 1968.623,
+    "average": 322.11,
+    "interpolated": 323.43,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1968-09",
+    "decimaldate": 1968.7077,
+    "average": 320.33,
+    "interpolated": 323.32,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1968-10",
+    "decimaldate": 1968.7896,
+    "average": 320.25,
+    "interpolated": 323.33,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1968-11",
+    "decimaldate": 1968.8743,
+    "average": 321.32,
+    "interpolated": 323.25,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1968-12",
+    "decimaldate": 1968.9563,
+    "average": 322.89,
+    "interpolated": 323.69,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1969-01",
+    "decimaldate": 1969.0411,
+    "average": 324,
+    "interpolated": 323.97,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1969-02",
+    "decimaldate": 1969.126,
+    "average": 324.42,
+    "interpolated": 323.77,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1969-03",
+    "decimaldate": 1969.2027,
+    "average": 325.63,
+    "interpolated": 324.31,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1969-04",
+    "decimaldate": 1969.2877,
+    "average": 326.66,
+    "interpolated": 324.27,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1969-05",
+    "decimaldate": 1969.3699,
+    "average": 327.38,
+    "interpolated": 324.48,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1969-06",
+    "decimaldate": 1969.4548,
+    "average": 326.71,
+    "interpolated": 324.51,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1969-07",
+    "decimaldate": 1969.537,
+    "average": 325.88,
+    "interpolated": 325.17,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1969-08",
+    "decimaldate": 1969.6219,
+    "average": 323.66,
+    "interpolated": 324.97,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1969-09",
+    "decimaldate": 1969.7068,
+    "average": 322.38,
+    "interpolated": 325.37,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1969-10",
+    "decimaldate": 1969.789,
+    "average": 321.78,
+    "interpolated": 324.88,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1969-11",
+    "decimaldate": 1969.874,
+    "average": 322.86,
+    "interpolated": 324.79,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1969-12",
+    "decimaldate": 1969.9562,
+    "average": 324.12,
+    "interpolated": 324.91,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1970-01",
+    "decimaldate": 1970.0411,
+    "average": 325.06,
+    "interpolated": 325.03,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1970-02",
+    "decimaldate": 1970.126,
+    "average": 325.98,
+    "interpolated": 325.34,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1970-03",
+    "decimaldate": 1970.2027,
+    "average": 326.93,
+    "interpolated": 325.61,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1970-04",
+    "decimaldate": 1970.2877,
+    "average": 328.13,
+    "interpolated": 325.74,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1970-05",
+    "decimaldate": 1970.3699,
+    "average": 328.08,
+    "interpolated": 325.16,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1970-06",
+    "decimaldate": 1970.4548,
+    "average": 327.67,
+    "interpolated": 325.46,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1970-07",
+    "decimaldate": 1970.537,
+    "average": 326.34,
+    "interpolated": 325.63,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1970-08",
+    "decimaldate": 1970.6219,
+    "average": 324.69,
+    "interpolated": 325.99,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1970-09",
+    "decimaldate": 1970.7068,
+    "average": 323.1,
+    "interpolated": 326.1,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1970-10",
+    "decimaldate": 1970.789,
+    "average": 323.06,
+    "interpolated": 326.18,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1970-11",
+    "decimaldate": 1970.874,
+    "average": 324.01,
+    "interpolated": 325.95,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1970-12",
+    "decimaldate": 1970.9562,
+    "average": 325.13,
+    "interpolated": 325.93,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1971-01",
+    "decimaldate": 1971.0411,
+    "average": 326.17,
+    "interpolated": 326.14,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1971-02",
+    "decimaldate": 1971.126,
+    "average": 326.68,
+    "interpolated": 326.03,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1971-03",
+    "decimaldate": 1971.2027,
+    "average": 327.17,
+    "interpolated": 325.85,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1971-04",
+    "decimaldate": 1971.2877,
+    "average": 327.79,
+    "interpolated": 325.38,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1971-05",
+    "decimaldate": 1971.3699,
+    "average": 328.93,
+    "interpolated": 326,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1971-06",
+    "decimaldate": 1971.4548,
+    "average": 328.57,
+    "interpolated": 326.36,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1971-07",
+    "decimaldate": 1971.537,
+    "average": 327.36,
+    "interpolated": 326.65,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1971-08",
+    "decimaldate": 1971.6219,
+    "average": 325.43,
+    "interpolated": 326.74,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1971-09",
+    "decimaldate": 1971.7068,
+    "average": 323.36,
+    "interpolated": 326.37,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1971-10",
+    "decimaldate": 1971.789,
+    "average": 323.56,
+    "interpolated": 326.69,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1971-11",
+    "decimaldate": 1971.874,
+    "average": 324.8,
+    "interpolated": 326.75,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1971-12",
+    "decimaldate": 1971.9562,
+    "average": 326.01,
+    "interpolated": 326.82,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1972-01",
+    "decimaldate": 1972.041,
+    "average": 326.77,
+    "interpolated": 326.73,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1972-02",
+    "decimaldate": 1972.1257,
+    "average": 327.63,
+    "interpolated": 326.98,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1972-03",
+    "decimaldate": 1972.2049,
+    "average": 327.75,
+    "interpolated": 326.39,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1972-04",
+    "decimaldate": 1972.2896,
+    "average": 329.72,
+    "interpolated": 327.29,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1972-05",
+    "decimaldate": 1972.3716,
+    "average": 330.07,
+    "interpolated": 327.14,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1972-06",
+    "decimaldate": 1972.4563,
+    "average": 329.09,
+    "interpolated": 326.88,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1972-07",
+    "decimaldate": 1972.5383,
+    "average": 328.04,
+    "interpolated": 327.36,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1972-08",
+    "decimaldate": 1972.623,
+    "average": 326.32,
+    "interpolated": 327.67,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1972-09",
+    "decimaldate": 1972.7077,
+    "average": 324.84,
+    "interpolated": 327.87,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1972-10",
+    "decimaldate": 1972.7896,
+    "average": 325.2,
+    "interpolated": 328.33,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1972-11",
+    "decimaldate": 1972.8743,
+    "average": 326.5,
+    "interpolated": 328.45,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1972-12",
+    "decimaldate": 1972.9563,
+    "average": 327.55,
+    "interpolated": 328.36,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1973-01",
+    "decimaldate": 1973.0411,
+    "average": 328.55,
+    "interpolated": 328.51,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1973-02",
+    "decimaldate": 1973.126,
+    "average": 329.56,
+    "interpolated": 328.91,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1973-03",
+    "decimaldate": 1973.2027,
+    "average": 330.3,
+    "interpolated": 328.96,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1973-04",
+    "decimaldate": 1973.2877,
+    "average": 331.5,
+    "interpolated": 329.08,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1973-05",
+    "decimaldate": 1973.3699,
+    "average": 332.48,
+    "interpolated": 329.54,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1973-06",
+    "decimaldate": 1973.4548,
+    "average": 332.07,
+    "interpolated": 329.84,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1973-07",
+    "decimaldate": 1973.537,
+    "average": 330.87,
+    "interpolated": 330.15,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1973-08",
+    "decimaldate": 1973.6219,
+    "average": 329.31,
+    "interpolated": 330.63,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1973-09",
+    "decimaldate": 1973.7068,
+    "average": 327.51,
+    "interpolated": 330.55,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1973-10",
+    "decimaldate": 1973.789,
+    "average": 327.18,
+    "interpolated": 330.32,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1973-11",
+    "decimaldate": 1973.874,
+    "average": 328.16,
+    "interpolated": 330.13,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1973-12",
+    "decimaldate": 1973.9562,
+    "average": 328.64,
+    "interpolated": 329.45,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1974-01",
+    "decimaldate": 1974.0411,
+    "average": 329.35,
+    "interpolated": 329.32,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1974-02",
+    "decimaldate": 1974.126,
+    "average": 330.71,
+    "interpolated": 330.05,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1974-03",
+    "decimaldate": 1974.2027,
+    "average": 331.48,
+    "interpolated": 330.14,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1974-04",
+    "decimaldate": 1974.2877,
+    "average": 332.65,
+    "interpolated": 330.22,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      -0.99
+    ]
+  },
+  {
+    "date": "1974-05",
+    "decimaldate": 1974.375,
+    "average": 333.18,
+    "interpolated": 330.21,
+    "trend": 13,
+    "numdays": 0.31,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "1974-06",
+    "decimaldate": 1974.4583,
+    "average": 332.2,
+    "interpolated": 329.79,
+    "trend": 25,
+    "numdays": 0.37,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "1974-07",
+    "decimaldate": 1974.5417,
+    "average": 331.07,
+    "interpolated": 330.21,
+    "trend": 24,
+    "numdays": 0.24,
+    "__parsed_extra": [
+      0.09
+    ]
+  },
+  {
+    "date": "1974-08",
+    "decimaldate": 1974.625,
+    "average": 329.15,
+    "interpolated": 330.54,
+    "trend": 26,
+    "numdays": 0.31,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "1974-09",
+    "decimaldate": 1974.7083,
+    "average": 327.33,
+    "interpolated": 330.44,
+    "trend": 22,
+    "numdays": 0.47,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "1974-10",
+    "decimaldate": 1974.7917,
+    "average": 327.28,
+    "interpolated": 330.53,
+    "trend": 24,
+    "numdays": 0.22,
+    "__parsed_extra": [
+      0.09
+    ]
+  },
+  {
+    "date": "1974-11",
+    "decimaldate": 1974.875,
+    "average": 328.31,
+    "interpolated": 330.5,
+    "trend": 26,
+    "numdays": 0.43,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "1974-12",
+    "decimaldate": 1974.9583,
+    "average": 329.58,
+    "interpolated": 330.54,
+    "trend": 29,
+    "numdays": 0.29,
+    "__parsed_extra": [
+      0.1
+    ]
+  },
+  {
+    "date": "1975-01",
+    "decimaldate": 1975.0417,
+    "average": 330.73,
+    "interpolated": 330.84,
+    "trend": 29,
+    "numdays": 0.43,
+    "__parsed_extra": [
+      0.15
+    ]
+  },
+  {
+    "date": "1975-02",
+    "decimaldate": 1975.125,
+    "average": 331.46,
+    "interpolated": 330.85,
+    "trend": 26,
+    "numdays": 0.46,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "1975-03",
+    "decimaldate": 1975.2083,
+    "average": 331.94,
+    "interpolated": 330.37,
+    "trend": 17,
+    "numdays": 0.33,
+    "__parsed_extra": [
+      0.15
+    ]
+  },
+  {
+    "date": "1975-04",
+    "decimaldate": 1975.2917,
+    "average": 333.11,
+    "interpolated": 330.53,
+    "trend": 23,
+    "numdays": 0.59,
+    "__parsed_extra": [
+      0.24
+    ]
+  },
+  {
+    "date": "1975-05",
+    "decimaldate": 1975.375,
+    "average": 333.95,
+    "interpolated": 330.98,
+    "trend": 28,
+    "numdays": 0.35,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "1975-06",
+    "decimaldate": 1975.4583,
+    "average": 333.42,
+    "interpolated": 331.01,
+    "trend": 27,
+    "numdays": 0.48,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "1975-07",
+    "decimaldate": 1975.5417,
+    "average": 331.97,
+    "interpolated": 331.12,
+    "trend": 24,
+    "numdays": 0.45,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "1975-08",
+    "decimaldate": 1975.625,
+    "average": 329.95,
+    "interpolated": 331.33,
+    "trend": 24,
+    "numdays": 0.47,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "1975-09",
+    "decimaldate": 1975.7083,
+    "average": 328.5,
+    "interpolated": 331.6,
+    "trend": 22,
+    "numdays": 0.53,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "1975-10",
+    "decimaldate": 1975.7917,
+    "average": 328.36,
+    "interpolated": 331.62,
+    "trend": 11,
+    "numdays": 0.21,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "1975-11",
+    "decimaldate": 1975.875,
+    "average": 329.38,
+    "interpolated": 331.57,
+    "trend": 18,
+    "numdays": 0.31,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "1975-12",
+    "decimaldate": 1975.9583,
+    "average": 330.78,
+    "interpolated": 331.75,
+    "trend": -1,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      0
+    ]
+  },
+  {
+    "date": "1976-01",
+    "decimaldate": 1976.0417,
+    "average": 331.56,
+    "interpolated": 331.67,
+    "trend": 19,
+    "numdays": 0.23,
+    "__parsed_extra": [
+      0.1
+    ]
+  },
+  {
+    "date": "1976-02",
+    "decimaldate": 1976.125,
+    "average": 332.74,
+    "interpolated": 332.14,
+    "trend": 22,
+    "numdays": 0.49,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "1976-03",
+    "decimaldate": 1976.2083,
+    "average": 333.36,
+    "interpolated": 331.78,
+    "trend": 18,
+    "numdays": 0.52,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "1976-04",
+    "decimaldate": 1976.2917,
+    "average": 334.74,
+    "interpolated": 332.16,
+    "trend": 18,
+    "numdays": 0.77,
+    "__parsed_extra": [
+      0.35
+    ]
+  },
+  {
+    "date": "1976-05",
+    "decimaldate": 1976.375,
+    "average": 334.72,
+    "interpolated": 331.75,
+    "trend": 21,
+    "numdays": 0.56,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "1976-06",
+    "decimaldate": 1976.4583,
+    "average": 333.98,
+    "interpolated": 331.56,
+    "trend": 15,
+    "numdays": 0.21,
+    "__parsed_extra": [
+      0.1
+    ]
+  },
+  {
+    "date": "1976-07",
+    "decimaldate": 1976.5417,
+    "average": 333.08,
+    "interpolated": 332.23,
+    "trend": 15,
+    "numdays": 0.24,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "1976-08",
+    "decimaldate": 1976.625,
+    "average": 330.68,
+    "interpolated": 332.07,
+    "trend": 23,
+    "numdays": 0.51,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "1976-09",
+    "decimaldate": 1976.7083,
+    "average": 328.96,
+    "interpolated": 332.07,
+    "trend": 13,
+    "numdays": 0.69,
+    "__parsed_extra": [
+      0.37
+    ]
+  },
+  {
+    "date": "1976-10",
+    "decimaldate": 1976.7917,
+    "average": 328.72,
+    "interpolated": 331.98,
+    "trend": 19,
+    "numdays": 0.57,
+    "__parsed_extra": [
+      0.25
+    ]
+  },
+  {
+    "date": "1976-11",
+    "decimaldate": 1976.875,
+    "average": 330.16,
+    "interpolated": 332.35,
+    "trend": 25,
+    "numdays": 0.36,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "1976-12",
+    "decimaldate": 1976.9583,
+    "average": 331.62,
+    "interpolated": 332.59,
+    "trend": 20,
+    "numdays": 0.38,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "1977-01",
+    "decimaldate": 1977.0417,
+    "average": 332.68,
+    "interpolated": 332.77,
+    "trend": 23,
+    "numdays": 0.4,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "1977-02",
+    "decimaldate": 1977.125,
+    "average": 333.17,
+    "interpolated": 332.58,
+    "trend": 20,
+    "numdays": 0.34,
+    "__parsed_extra": [
+      0.15
+    ]
+  },
+  {
+    "date": "1977-03",
+    "decimaldate": 1977.2083,
+    "average": 334.96,
+    "interpolated": 333.4,
+    "trend": 23,
+    "numdays": 0.51,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "1977-04",
+    "decimaldate": 1977.2917,
+    "average": 336.14,
+    "interpolated": 333.54,
+    "trend": 20,
+    "numdays": 0.5,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "1977-05",
+    "decimaldate": 1977.375,
+    "average": 336.93,
+    "interpolated": 333.99,
+    "trend": 20,
+    "numdays": 0.31,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "1977-06",
+    "decimaldate": 1977.4583,
+    "average": 336.17,
+    "interpolated": 333.79,
+    "trend": 22,
+    "numdays": 0.4,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "1977-07",
+    "decimaldate": 1977.5417,
+    "average": 334.89,
+    "interpolated": 334.01,
+    "trend": 20,
+    "numdays": 0.23,
+    "__parsed_extra": [
+      0.1
+    ]
+  },
+  {
+    "date": "1977-08",
+    "decimaldate": 1977.625,
+    "average": 332.56,
+    "interpolated": 333.91,
+    "trend": 18,
+    "numdays": 0.46,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "1977-09",
+    "decimaldate": 1977.7083,
+    "average": 331.29,
+    "interpolated": 334.36,
+    "trend": 19,
+    "numdays": 0.46,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "1977-10",
+    "decimaldate": 1977.7917,
+    "average": 331.28,
+    "interpolated": 334.51,
+    "trend": 23,
+    "numdays": 0.29,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "1977-11",
+    "decimaldate": 1977.875,
+    "average": 332.46,
+    "interpolated": 334.68,
+    "trend": 21,
+    "numdays": 0.43,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "1977-12",
+    "decimaldate": 1977.9583,
+    "average": 333.6,
+    "interpolated": 334.58,
+    "trend": 25,
+    "numdays": 0.36,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "1978-01",
+    "decimaldate": 1978.0417,
+    "average": 334.94,
+    "interpolated": 335.01,
+    "trend": 22,
+    "numdays": 0.52,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "1978-02",
+    "decimaldate": 1978.125,
+    "average": 335.26,
+    "interpolated": 334.6,
+    "trend": 25,
+    "numdays": 0.5,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "1978-03",
+    "decimaldate": 1978.2083,
+    "average": 336.66,
+    "interpolated": 335,
+    "trend": 28,
+    "numdays": 0.59,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "1978-04",
+    "decimaldate": 1978.2917,
+    "average": 337.69,
+    "interpolated": 335.07,
+    "trend": 18,
+    "numdays": 0.44,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "1978-05",
+    "decimaldate": 1978.375,
+    "average": 338.02,
+    "interpolated": 335.08,
+    "trend": 26,
+    "numdays": 0.46,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "1978-06",
+    "decimaldate": 1978.4583,
+    "average": 338.01,
+    "interpolated": 335.6,
+    "trend": 17,
+    "numdays": 0.31,
+    "__parsed_extra": [
+      0.15
+    ]
+  },
+  {
+    "date": "1978-07",
+    "decimaldate": 1978.5417,
+    "average": 336.5,
+    "interpolated": 335.65,
+    "trend": 20,
+    "numdays": 0.32,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "1978-08",
+    "decimaldate": 1978.625,
+    "average": 334.42,
+    "interpolated": 335.87,
+    "trend": 19,
+    "numdays": 0.32,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "1978-09",
+    "decimaldate": 1978.7083,
+    "average": 332.36,
+    "interpolated": 335.51,
+    "trend": 17,
+    "numdays": 0.75,
+    "__parsed_extra": [
+      0.35
+    ]
+  },
+  {
+    "date": "1978-10",
+    "decimaldate": 1978.7917,
+    "average": 332.45,
+    "interpolated": 335.72,
+    "trend": 21,
+    "numdays": 0.34,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "1978-11",
+    "decimaldate": 1978.875,
+    "average": 333.76,
+    "interpolated": 335.99,
+    "trend": 24,
+    "numdays": 0.25,
+    "__parsed_extra": [
+      0.1
+    ]
+  },
+  {
+    "date": "1978-12",
+    "decimaldate": 1978.9583,
+    "average": 334.91,
+    "interpolated": 335.87,
+    "trend": 26,
+    "numdays": 0.33,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "1979-01",
+    "decimaldate": 1979.0417,
+    "average": 336.14,
+    "interpolated": 336.22,
+    "trend": 27,
+    "numdays": 0.55,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "1979-02",
+    "decimaldate": 1979.125,
+    "average": 336.69,
+    "interpolated": 336,
+    "trend": 25,
+    "numdays": 0.3,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "1979-03",
+    "decimaldate": 1979.2083,
+    "average": 338.27,
+    "interpolated": 336.56,
+    "trend": 21,
+    "numdays": 0.63,
+    "__parsed_extra": [
+      0.26
+    ]
+  },
+  {
+    "date": "1979-04",
+    "decimaldate": 1979.2917,
+    "average": 338.82,
+    "interpolated": 336.11,
+    "trend": 24,
+    "numdays": 0.67,
+    "__parsed_extra": [
+      0.26
+    ]
+  },
+  {
+    "date": "1979-05",
+    "decimaldate": 1979.375,
+    "average": 339.24,
+    "interpolated": 336.24,
+    "trend": 20,
+    "numdays": 0.5,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "1979-06",
+    "decimaldate": 1979.4583,
+    "average": 339.26,
+    "interpolated": 336.83,
+    "trend": 19,
+    "numdays": 0.35,
+    "__parsed_extra": [
+      0.15
+    ]
+  },
+  {
+    "date": "1979-07",
+    "decimaldate": 1979.5417,
+    "average": 337.54,
+    "interpolated": 336.69,
+    "trend": 26,
+    "numdays": 0.59,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "1979-08",
+    "decimaldate": 1979.625,
+    "average": 335.72,
+    "interpolated": 337.2,
+    "trend": 24,
+    "numdays": 0.6,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "1979-09",
+    "decimaldate": 1979.7083,
+    "average": 333.97,
+    "interpolated": 337.19,
+    "trend": 19,
+    "numdays": 0.65,
+    "__parsed_extra": [
+      0.29
+    ]
+  },
+  {
+    "date": "1979-10",
+    "decimaldate": 1979.7917,
+    "average": 334.24,
+    "interpolated": 337.57,
+    "trend": 25,
+    "numdays": 0.42,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "1979-11",
+    "decimaldate": 1979.875,
+    "average": 335.32,
+    "interpolated": 337.59,
+    "trend": 27,
+    "numdays": 0.3,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "1979-12",
+    "decimaldate": 1979.9583,
+    "average": 336.81,
+    "interpolated": 337.83,
+    "trend": 22,
+    "numdays": 0.23,
+    "__parsed_extra": [
+      0.09
+    ]
+  },
+  {
+    "date": "1980-01",
+    "decimaldate": 1980.0417,
+    "average": 337.9,
+    "interpolated": 338.13,
+    "trend": 29,
+    "numdays": 0.57,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "1980-02",
+    "decimaldate": 1980.125,
+    "average": 338.34,
+    "interpolated": 337.85,
+    "trend": 26,
+    "numdays": 0.49,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "1980-03",
+    "decimaldate": 1980.2083,
+    "average": 340.07,
+    "interpolated": 338.51,
+    "trend": 23,
+    "numdays": 0.54,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "1980-04",
+    "decimaldate": 1980.2917,
+    "average": 340.93,
+    "interpolated": 338.31,
+    "trend": 24,
+    "numdays": 0.29,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "1980-05",
+    "decimaldate": 1980.375,
+    "average": 341.45,
+    "interpolated": 338.4,
+    "trend": 24,
+    "numdays": 0.54,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "1980-06",
+    "decimaldate": 1980.4583,
+    "average": 341.36,
+    "interpolated": 338.85,
+    "trend": 20,
+    "numdays": 0.39,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "1980-07",
+    "decimaldate": 1980.5417,
+    "average": 339.45,
+    "interpolated": 338.56,
+    "trend": 26,
+    "numdays": 0.6,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "1980-08",
+    "decimaldate": 1980.625,
+    "average": 337.67,
+    "interpolated": 339.07,
+    "trend": 16,
+    "numdays": 1.05,
+    "__parsed_extra": [
+      0.5
+    ]
+  },
+  {
+    "date": "1980-09",
+    "decimaldate": 1980.7083,
+    "average": 336.25,
+    "interpolated": 339.38,
+    "trend": 15,
+    "numdays": 0.69,
+    "__parsed_extra": [
+      0.34
+    ]
+  },
+  {
+    "date": "1980-10",
+    "decimaldate": 1980.7917,
+    "average": 336.14,
+    "interpolated": 339.4,
+    "trend": 26,
+    "numdays": 0.26,
+    "__parsed_extra": [
+      0.1
+    ]
+  },
+  {
+    "date": "1980-11",
+    "decimaldate": 1980.875,
+    "average": 337.3,
+    "interpolated": 339.46,
+    "trend": 27,
+    "numdays": 0.26,
+    "__parsed_extra": [
+      0.1
+    ]
+  },
+  {
+    "date": "1980-12",
+    "decimaldate": 1980.9583,
+    "average": 338.29,
+    "interpolated": 339.26,
+    "trend": 24,
+    "numdays": 0.25,
+    "__parsed_extra": [
+      0.1
+    ]
+  },
+  {
+    "date": "1981-01",
+    "decimaldate": 1981.0417,
+    "average": 339.29,
+    "interpolated": 339.42,
+    "trend": 28,
+    "numdays": 0.39,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "1981-02",
+    "decimaldate": 1981.125,
+    "average": 340.55,
+    "interpolated": 339.98,
+    "trend": 25,
+    "numdays": 0.65,
+    "__parsed_extra": [
+      0.25
+    ]
+  },
+  {
+    "date": "1981-03",
+    "decimaldate": 1981.2083,
+    "average": 341.63,
+    "interpolated": 340.08,
+    "trend": 25,
+    "numdays": 0.48,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "1981-04",
+    "decimaldate": 1981.2917,
+    "average": 342.6,
+    "interpolated": 339.98,
+    "trend": 26,
+    "numdays": 0.46,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "1981-05",
+    "decimaldate": 1981.375,
+    "average": 343.04,
+    "interpolated": 339.97,
+    "trend": 30,
+    "numdays": 0.19,
+    "__parsed_extra": [
+      0.07
+    ]
+  },
+  {
+    "date": "1981-06",
+    "decimaldate": 1981.4583,
+    "average": 342.54,
+    "interpolated": 340.06,
+    "trend": 25,
+    "numdays": 0.29,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "1981-07",
+    "decimaldate": 1981.5417,
+    "average": 340.82,
+    "interpolated": 339.92,
+    "trend": 24,
+    "numdays": 0.46,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "1981-08",
+    "decimaldate": 1981.625,
+    "average": 338.48,
+    "interpolated": 339.87,
+    "trend": 25,
+    "numdays": 0.48,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "1981-09",
+    "decimaldate": 1981.7083,
+    "average": 336.95,
+    "interpolated": 340.17,
+    "trend": 27,
+    "numdays": 0.55,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "1981-10",
+    "decimaldate": 1981.7917,
+    "average": 337.05,
+    "interpolated": 340.39,
+    "trend": 25,
+    "numdays": 0.39,
+    "__parsed_extra": [
+      0.15
+    ]
+  },
+  {
+    "date": "1981-11",
+    "decimaldate": 1981.875,
+    "average": 338.58,
+    "interpolated": 340.75,
+    "trend": 26,
+    "numdays": 0.31,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "1981-12",
+    "decimaldate": 1981.9583,
+    "average": 339.91,
+    "interpolated": 340.85,
+    "trend": 20,
+    "numdays": 0.28,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "1982-01",
+    "decimaldate": 1982.0417,
+    "average": 340.93,
+    "interpolated": 341.09,
+    "trend": 28,
+    "numdays": 0.3,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "1982-02",
+    "decimaldate": 1982.125,
+    "average": 341.76,
+    "interpolated": 341.16,
+    "trend": 24,
+    "numdays": 0.49,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "1982-03",
+    "decimaldate": 1982.2083,
+    "average": 342.78,
+    "interpolated": 341.18,
+    "trend": 17,
+    "numdays": 0.41,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "1982-04",
+    "decimaldate": 1982.2917,
+    "average": 343.96,
+    "interpolated": 341.32,
+    "trend": 7,
+    "numdays": 0.42,
+    "__parsed_extra": [
+      0.31
+    ]
+  },
+  {
+    "date": "1982-05",
+    "decimaldate": 1982.375,
+    "average": 344.77,
+    "interpolated": 341.67,
+    "trend": 27,
+    "numdays": 0.37,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "1982-06",
+    "decimaldate": 1982.4583,
+    "average": 343.88,
+    "interpolated": 341.43,
+    "trend": 27,
+    "numdays": 0.37,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "1982-07",
+    "decimaldate": 1982.5417,
+    "average": 342.42,
+    "interpolated": 341.61,
+    "trend": 28,
+    "numdays": 0.35,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "1982-08",
+    "decimaldate": 1982.625,
+    "average": 340.24,
+    "interpolated": 341.64,
+    "trend": 25,
+    "numdays": 0.61,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "1982-09",
+    "decimaldate": 1982.7083,
+    "average": 338.38,
+    "interpolated": 341.56,
+    "trend": 21,
+    "numdays": 0.59,
+    "__parsed_extra": [
+      0.25
+    ]
+  },
+  {
+    "date": "1982-10",
+    "decimaldate": 1982.7917,
+    "average": 338.41,
+    "interpolated": 341.77,
+    "trend": 26,
+    "numdays": 0.5,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "1982-11",
+    "decimaldate": 1982.875,
+    "average": 339.44,
+    "interpolated": 341.59,
+    "trend": 24,
+    "numdays": 0.39,
+    "__parsed_extra": [
+      0.15
+    ]
+  },
+  {
+    "date": "1982-12",
+    "decimaldate": 1982.9583,
+    "average": 340.78,
+    "interpolated": 341.71,
+    "trend": 26,
+    "numdays": 0.3,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "1983-01",
+    "decimaldate": 1983.0417,
+    "average": 341.57,
+    "interpolated": 341.75,
+    "trend": 28,
+    "numdays": 0.47,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "1983-02",
+    "decimaldate": 1983.125,
+    "average": 342.79,
+    "interpolated": 342.25,
+    "trend": 24,
+    "numdays": 0.37,
+    "__parsed_extra": [
+      0.15
+    ]
+  },
+  {
+    "date": "1983-03",
+    "decimaldate": 1983.2083,
+    "average": 343.37,
+    "interpolated": 341.85,
+    "trend": 27,
+    "numdays": 0.88,
+    "__parsed_extra": [
+      0.32
+    ]
+  },
+  {
+    "date": "1983-04",
+    "decimaldate": 1983.2917,
+    "average": 345.39,
+    "interpolated": 342.76,
+    "trend": 23,
+    "numdays": 0.29,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "1983-05",
+    "decimaldate": 1983.375,
+    "average": 346.14,
+    "interpolated": 342.97,
+    "trend": 28,
+    "numdays": 0.51,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "1983-06",
+    "decimaldate": 1983.4583,
+    "average": 345.76,
+    "interpolated": 343.3,
+    "trend": 20,
+    "numdays": 0.3,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "1983-07",
+    "decimaldate": 1983.5417,
+    "average": 344.32,
+    "interpolated": 343.56,
+    "trend": 22,
+    "numdays": 0.57,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "1983-08",
+    "decimaldate": 1983.625,
+    "average": 342.51,
+    "interpolated": 343.89,
+    "trend": 16,
+    "numdays": 0.73,
+    "__parsed_extra": [
+      0.35
+    ]
+  },
+  {
+    "date": "1983-09",
+    "decimaldate": 1983.7083,
+    "average": 340.46,
+    "interpolated": 343.59,
+    "trend": 15,
+    "numdays": 0.5,
+    "__parsed_extra": [
+      0.25
+    ]
+  },
+  {
+    "date": "1983-10",
+    "decimaldate": 1983.7917,
+    "average": 340.53,
+    "interpolated": 343.86,
+    "trend": 20,
+    "numdays": 0.31,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "1983-11",
+    "decimaldate": 1983.875,
+    "average": 341.79,
+    "interpolated": 343.92,
+    "trend": 27,
+    "numdays": 0.33,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "1983-12",
+    "decimaldate": 1983.9583,
+    "average": 343.2,
+    "interpolated": 344.12,
+    "trend": 21,
+    "numdays": 0.25,
+    "__parsed_extra": [
+      0.1
+    ]
+  },
+  {
+    "date": "1984-01",
+    "decimaldate": 1984.0417,
+    "average": 344.21,
+    "interpolated": 344.32,
+    "trend": 23,
+    "numdays": 0.4,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "1984-02",
+    "decimaldate": 1984.125,
+    "average": 344.92,
+    "interpolated": 344.39,
+    "trend": 23,
+    "numdays": 0.32,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "1984-03",
+    "decimaldate": 1984.2083,
+    "average": 345.68,
+    "interpolated": 344.26,
+    "trend": 19,
+    "numdays": 0.3,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "1984-04",
+    "decimaldate": 1984.2917,
+    "average": 347.38,
+    "interpolated": 344.75,
+    "trend": 2,
+    "numdays": -9.99,
+    "__parsed_extra": [
+      0
+    ]
+  },
+  {
+    "date": "1984-05",
+    "decimaldate": 1984.375,
+    "average": 347.78,
+    "interpolated": 344.59,
+    "trend": 20,
+    "numdays": 0.42,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "1984-06",
+    "decimaldate": 1984.4583,
+    "average": 347.16,
+    "interpolated": 344.73,
+    "trend": 20,
+    "numdays": 0.31,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "1984-07",
+    "decimaldate": 1984.5417,
+    "average": 345.79,
+    "interpolated": 345.02,
+    "trend": 18,
+    "numdays": 0.33,
+    "__parsed_extra": [
+      0.15
+    ]
+  },
+  {
+    "date": "1984-08",
+    "decimaldate": 1984.625,
+    "average": 343.74,
+    "interpolated": 345.12,
+    "trend": 12,
+    "numdays": 0.45,
+    "__parsed_extra": [
+      0.25
+    ]
+  },
+  {
+    "date": "1984-09",
+    "decimaldate": 1984.7083,
+    "average": 341.59,
+    "interpolated": 344.76,
+    "trend": 14,
+    "numdays": 0.72,
+    "__parsed_extra": [
+      0.37
+    ]
+  },
+  {
+    "date": "1984-10",
+    "decimaldate": 1984.7917,
+    "average": 341.86,
+    "interpolated": 345.19,
+    "trend": 12,
+    "numdays": 0.36,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "1984-11",
+    "decimaldate": 1984.875,
+    "average": 343.31,
+    "interpolated": 345.41,
+    "trend": 18,
+    "numdays": 0.41,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "1984-12",
+    "decimaldate": 1984.9583,
+    "average": 345,
+    "interpolated": 345.88,
+    "trend": 14,
+    "numdays": 0.53,
+    "__parsed_extra": [
+      0.27
+    ]
+  },
+  {
+    "date": "1985-01",
+    "decimaldate": 1985.0417,
+    "average": 345.48,
+    "interpolated": 345.59,
+    "trend": 25,
+    "numdays": 0.38,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "1985-02",
+    "decimaldate": 1985.125,
+    "average": 346.42,
+    "interpolated": 345.92,
+    "trend": 15,
+    "numdays": 0.37,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "1985-03",
+    "decimaldate": 1985.2083,
+    "average": 347.91,
+    "interpolated": 346.56,
+    "trend": 17,
+    "numdays": 0.34,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "1985-04",
+    "decimaldate": 1985.2917,
+    "average": 348.66,
+    "interpolated": 346.08,
+    "trend": 21,
+    "numdays": 0.61,
+    "__parsed_extra": [
+      0.25
+    ]
+  },
+  {
+    "date": "1985-05",
+    "decimaldate": 1985.375,
+    "average": 349.28,
+    "interpolated": 346.12,
+    "trend": 20,
+    "numdays": 0.51,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "1985-06",
+    "decimaldate": 1985.4583,
+    "average": 348.65,
+    "interpolated": 346.23,
+    "trend": 21,
+    "numdays": 0.34,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "1985-07",
+    "decimaldate": 1985.5417,
+    "average": 346.9,
+    "interpolated": 346.08,
+    "trend": 17,
+    "numdays": 0.36,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "1985-08",
+    "decimaldate": 1985.625,
+    "average": 345.26,
+    "interpolated": 346.57,
+    "trend": 16,
+    "numdays": 0.57,
+    "__parsed_extra": [
+      0.27
+    ]
+  },
+  {
+    "date": "1985-09",
+    "decimaldate": 1985.7083,
+    "average": 343.47,
+    "interpolated": 346.59,
+    "trend": 24,
+    "numdays": 0.57,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "1985-10",
+    "decimaldate": 1985.7917,
+    "average": 343.35,
+    "interpolated": 346.6,
+    "trend": 20,
+    "numdays": 0.29,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "1985-11",
+    "decimaldate": 1985.875,
+    "average": 344.73,
+    "interpolated": 346.82,
+    "trend": 21,
+    "numdays": 0.4,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "1985-12",
+    "decimaldate": 1985.9583,
+    "average": 346.12,
+    "interpolated": 347.04,
+    "trend": 26,
+    "numdays": 0.62,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "1986-01",
+    "decimaldate": 1986.0417,
+    "average": 346.78,
+    "interpolated": 346.82,
+    "trend": 25,
+    "numdays": 0.31,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "1986-02",
+    "decimaldate": 1986.125,
+    "average": 347.48,
+    "interpolated": 346.98,
+    "trend": 25,
+    "numdays": 0.45,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "1986-03",
+    "decimaldate": 1986.2083,
+    "average": 348.25,
+    "interpolated": 346.93,
+    "trend": 16,
+    "numdays": 0.7,
+    "__parsed_extra": [
+      0.34
+    ]
+  },
+  {
+    "date": "1986-04",
+    "decimaldate": 1986.2917,
+    "average": 349.86,
+    "interpolated": 347.29,
+    "trend": 19,
+    "numdays": 0.38,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "1986-05",
+    "decimaldate": 1986.375,
+    "average": 350.52,
+    "interpolated": 347.41,
+    "trend": 18,
+    "numdays": 0.31,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "1986-06",
+    "decimaldate": 1986.4583,
+    "average": 349.98,
+    "interpolated": 347.61,
+    "trend": 17,
+    "numdays": 0.25,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "1986-07",
+    "decimaldate": 1986.5417,
+    "average": 348.25,
+    "interpolated": 347.43,
+    "trend": 20,
+    "numdays": 0.47,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "1986-08",
+    "decimaldate": 1986.625,
+    "average": 346.17,
+    "interpolated": 347.51,
+    "trend": 18,
+    "numdays": 0.48,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "1986-09",
+    "decimaldate": 1986.7083,
+    "average": 345.48,
+    "interpolated": 348.62,
+    "trend": 17,
+    "numdays": 0.63,
+    "__parsed_extra": [
+      0.29
+    ]
+  },
+  {
+    "date": "1986-10",
+    "decimaldate": 1986.7917,
+    "average": 344.82,
+    "interpolated": 348.04,
+    "trend": 25,
+    "numdays": 0.32,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "1986-11",
+    "decimaldate": 1986.875,
+    "average": 346.22,
+    "interpolated": 348.28,
+    "trend": 21,
+    "numdays": 0.3,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "1986-12",
+    "decimaldate": 1986.9583,
+    "average": 347.49,
+    "interpolated": 348.36,
+    "trend": 24,
+    "numdays": 0.35,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "1987-01",
+    "decimaldate": 1987.0417,
+    "average": 348.73,
+    "interpolated": 348.66,
+    "trend": 25,
+    "numdays": 0.46,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "1987-02",
+    "decimaldate": 1987.125,
+    "average": 348.92,
+    "interpolated": 348.24,
+    "trend": 25,
+    "numdays": 0.58,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "1987-03",
+    "decimaldate": 1987.2083,
+    "average": 349.81,
+    "interpolated": 348.39,
+    "trend": 21,
+    "numdays": 0.35,
+    "__parsed_extra": [
+      0.15
+    ]
+  },
+  {
+    "date": "1987-04",
+    "decimaldate": 1987.2917,
+    "average": 351.4,
+    "interpolated": 348.84,
+    "trend": 26,
+    "numdays": 0.68,
+    "__parsed_extra": [
+      0.25
+    ]
+  },
+  {
+    "date": "1987-05",
+    "decimaldate": 1987.375,
+    "average": 352.15,
+    "interpolated": 349.09,
+    "trend": 28,
+    "numdays": 0.37,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "1987-06",
+    "decimaldate": 1987.4583,
+    "average": 351.58,
+    "interpolated": 349.29,
+    "trend": 22,
+    "numdays": 0.21,
+    "__parsed_extra": [
+      0.09
+    ]
+  },
+  {
+    "date": "1987-07",
+    "decimaldate": 1987.5417,
+    "average": 350.21,
+    "interpolated": 349.51,
+    "trend": 17,
+    "numdays": 0.73,
+    "__parsed_extra": [
+      0.34
+    ]
+  },
+  {
+    "date": "1987-08",
+    "decimaldate": 1987.625,
+    "average": 348.2,
+    "interpolated": 349.65,
+    "trend": 15,
+    "numdays": 0.85,
+    "__parsed_extra": [
+      0.42
+    ]
+  },
+  {
+    "date": "1987-09",
+    "decimaldate": 1987.7083,
+    "average": 346.66,
+    "interpolated": 349.85,
+    "trend": 23,
+    "numdays": 0.61,
+    "__parsed_extra": [
+      0.24
+    ]
+  },
+  {
+    "date": "1987-10",
+    "decimaldate": 1987.7917,
+    "average": 346.72,
+    "interpolated": 349.96,
+    "trend": 22,
+    "numdays": 0.41,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "1987-11",
+    "decimaldate": 1987.875,
+    "average": 348.08,
+    "interpolated": 350.15,
+    "trend": 23,
+    "numdays": 0.33,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "1987-12",
+    "decimaldate": 1987.9583,
+    "average": 349.28,
+    "interpolated": 350.14,
+    "trend": 27,
+    "numdays": 0.2,
+    "__parsed_extra": [
+      0.08
+    ]
+  },
+  {
+    "date": "1988-01",
+    "decimaldate": 1988.0417,
+    "average": 350.51,
+    "interpolated": 350.49,
+    "trend": 24,
+    "numdays": 0.21,
+    "__parsed_extra": [
+      0.08
+    ]
+  },
+  {
+    "date": "1988-02",
+    "decimaldate": 1988.125,
+    "average": 351.7,
+    "interpolated": 351,
+    "trend": 23,
+    "numdays": 0.57,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "1988-03",
+    "decimaldate": 1988.2083,
+    "average": 352.5,
+    "interpolated": 350.99,
+    "trend": 25,
+    "numdays": 0.78,
+    "__parsed_extra": [
+      0.3
+    ]
+  },
+  {
+    "date": "1988-04",
+    "decimaldate": 1988.2917,
+    "average": 353.67,
+    "interpolated": 351.03,
+    "trend": 27,
+    "numdays": 0.48,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "1988-05",
+    "decimaldate": 1988.375,
+    "average": 354.35,
+    "interpolated": 351.22,
+    "trend": 28,
+    "numdays": 0.37,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "1988-06",
+    "decimaldate": 1988.4583,
+    "average": 353.88,
+    "interpolated": 351.55,
+    "trend": 26,
+    "numdays": 0.3,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "1988-07",
+    "decimaldate": 1988.5417,
+    "average": 352.8,
+    "interpolated": 352.15,
+    "trend": 27,
+    "numdays": 0.49,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "1988-08",
+    "decimaldate": 1988.625,
+    "average": 350.49,
+    "interpolated": 352.01,
+    "trend": 26,
+    "numdays": 0.62,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "1988-09",
+    "decimaldate": 1988.7083,
+    "average": 348.97,
+    "interpolated": 352.18,
+    "trend": 26,
+    "numdays": 0.47,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "1988-10",
+    "decimaldate": 1988.7917,
+    "average": 349.37,
+    "interpolated": 352.62,
+    "trend": 26,
+    "numdays": 0.31,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "1988-11",
+    "decimaldate": 1988.875,
+    "average": 350.42,
+    "interpolated": 352.53,
+    "trend": 25,
+    "numdays": 0.2,
+    "__parsed_extra": [
+      0.08
+    ]
+  },
+  {
+    "date": "1988-12",
+    "decimaldate": 1988.9583,
+    "average": 351.62,
+    "interpolated": 352.52,
+    "trend": 28,
+    "numdays": 0.36,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "1989-01",
+    "decimaldate": 1989.0417,
+    "average": 353.07,
+    "interpolated": 352.99,
+    "trend": 28,
+    "numdays": 0.45,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "1989-02",
+    "decimaldate": 1989.125,
+    "average": 353.43,
+    "interpolated": 352.69,
+    "trend": 25,
+    "numdays": 0.38,
+    "__parsed_extra": [
+      0.15
+    ]
+  },
+  {
+    "date": "1989-03",
+    "decimaldate": 1989.2083,
+    "average": 354.08,
+    "interpolated": 352.6,
+    "trend": 29,
+    "numdays": 0.53,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "1989-04",
+    "decimaldate": 1989.2917,
+    "average": 355.72,
+    "interpolated": 353.07,
+    "trend": 28,
+    "numdays": 0.47,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "1989-05",
+    "decimaldate": 1989.375,
+    "average": 355.95,
+    "interpolated": 352.78,
+    "trend": 27,
+    "numdays": 0.49,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "1989-06",
+    "decimaldate": 1989.4583,
+    "average": 355.44,
+    "interpolated": 353.06,
+    "trend": 26,
+    "numdays": 0.42,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "1989-07",
+    "decimaldate": 1989.5417,
+    "average": 354.05,
+    "interpolated": 353.38,
+    "trend": 26,
+    "numdays": 0.41,
+    "__parsed_extra": [
+      0.15
+    ]
+  },
+  {
+    "date": "1989-08",
+    "decimaldate": 1989.625,
+    "average": 351.84,
+    "interpolated": 353.43,
+    "trend": 25,
+    "numdays": 0.48,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "1989-09",
+    "decimaldate": 1989.7083,
+    "average": 350.09,
+    "interpolated": 353.37,
+    "trend": 24,
+    "numdays": 0.69,
+    "__parsed_extra": [
+      0.27
+    ]
+  },
+  {
+    "date": "1989-10",
+    "decimaldate": 1989.7917,
+    "average": 350.33,
+    "interpolated": 353.57,
+    "trend": 25,
+    "numdays": 0.34,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "1989-11",
+    "decimaldate": 1989.875,
+    "average": 351.55,
+    "interpolated": 353.68,
+    "trend": 27,
+    "numdays": 0.36,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "1989-12",
+    "decimaldate": 1989.9583,
+    "average": 352.91,
+    "interpolated": 353.84,
+    "trend": 27,
+    "numdays": 0.48,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "1990-01",
+    "decimaldate": 1990.0417,
+    "average": 353.86,
+    "interpolated": 353.78,
+    "trend": 25,
+    "numdays": 0.34,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "1990-02",
+    "decimaldate": 1990.125,
+    "average": 355.1,
+    "interpolated": 354.37,
+    "trend": 28,
+    "numdays": 0.66,
+    "__parsed_extra": [
+      0.24
+    ]
+  },
+  {
+    "date": "1990-03",
+    "decimaldate": 1990.2083,
+    "average": 355.75,
+    "interpolated": 354.27,
+    "trend": 27,
+    "numdays": 0.57,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "1990-04",
+    "decimaldate": 1990.2917,
+    "average": 356.38,
+    "interpolated": 353.76,
+    "trend": 28,
+    "numdays": 0.55,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "1990-05",
+    "decimaldate": 1990.375,
+    "average": 357.38,
+    "interpolated": 354.23,
+    "trend": 28,
+    "numdays": 0.3,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "1990-06",
+    "decimaldate": 1990.4583,
+    "average": 356.39,
+    "interpolated": 354.02,
+    "trend": 29,
+    "numdays": 0.4,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "1990-07",
+    "decimaldate": 1990.5417,
+    "average": 354.89,
+    "interpolated": 354.24,
+    "trend": 30,
+    "numdays": 0.89,
+    "__parsed_extra": [
+      0.31
+    ]
+  },
+  {
+    "date": "1990-08",
+    "decimaldate": 1990.625,
+    "average": 353.06,
+    "interpolated": 354.68,
+    "trend": 22,
+    "numdays": 0.62,
+    "__parsed_extra": [
+      0.25
+    ]
+  },
+  {
+    "date": "1990-09",
+    "decimaldate": 1990.7083,
+    "average": 351.38,
+    "interpolated": 354.69,
+    "trend": 27,
+    "numdays": 0.72,
+    "__parsed_extra": [
+      0.26
+    ]
+  },
+  {
+    "date": "1990-10",
+    "decimaldate": 1990.7917,
+    "average": 351.69,
+    "interpolated": 354.94,
+    "trend": 28,
+    "numdays": 0.3,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "1990-11",
+    "decimaldate": 1990.875,
+    "average": 353.14,
+    "interpolated": 355.18,
+    "trend": 24,
+    "numdays": 0.2,
+    "__parsed_extra": [
+      0.08
+    ]
+  },
+  {
+    "date": "1990-12",
+    "decimaldate": 1990.9583,
+    "average": 354.41,
+    "interpolated": 355.26,
+    "trend": 28,
+    "numdays": 0.51,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "1991-01",
+    "decimaldate": 1991.0417,
+    "average": 354.93,
+    "interpolated": 354.91,
+    "trend": 28,
+    "numdays": 0.51,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "1991-02",
+    "decimaldate": 1991.125,
+    "average": 355.82,
+    "interpolated": 355.11,
+    "trend": 26,
+    "numdays": 0.54,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "1991-03",
+    "decimaldate": 1991.2083,
+    "average": 357.33,
+    "interpolated": 355.79,
+    "trend": 30,
+    "numdays": 0.73,
+    "__parsed_extra": [
+      0.25
+    ]
+  },
+  {
+    "date": "1991-04",
+    "decimaldate": 1991.2917,
+    "average": 358.77,
+    "interpolated": 356.13,
+    "trend": 30,
+    "numdays": 0.66,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "1991-05",
+    "decimaldate": 1991.375,
+    "average": 359.23,
+    "interpolated": 356.1,
+    "trend": 29,
+    "numdays": 0.52,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "1991-06",
+    "decimaldate": 1991.4583,
+    "average": 358.23,
+    "interpolated": 355.88,
+    "trend": 29,
+    "numdays": 0.3,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "1991-07",
+    "decimaldate": 1991.5417,
+    "average": 356.3,
+    "interpolated": 355.69,
+    "trend": 24,
+    "numdays": 0.46,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "1991-08",
+    "decimaldate": 1991.625,
+    "average": 353.97,
+    "interpolated": 355.59,
+    "trend": 23,
+    "numdays": 0.39,
+    "__parsed_extra": [
+      0.15
+    ]
+  },
+  {
+    "date": "1991-09",
+    "decimaldate": 1991.7083,
+    "average": 352.34,
+    "interpolated": 355.66,
+    "trend": 27,
+    "numdays": 0.37,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "1991-10",
+    "decimaldate": 1991.7917,
+    "average": 352.43,
+    "interpolated": 355.69,
+    "trend": 27,
+    "numdays": 0.25,
+    "__parsed_extra": [
+      0.09
+    ]
+  },
+  {
+    "date": "1991-11",
+    "decimaldate": 1991.875,
+    "average": 353.89,
+    "interpolated": 355.87,
+    "trend": 28,
+    "numdays": 0.25,
+    "__parsed_extra": [
+      0.09
+    ]
+  },
+  {
+    "date": "1991-12",
+    "decimaldate": 1991.9583,
+    "average": 355.21,
+    "interpolated": 356.02,
+    "trend": 30,
+    "numdays": 0.34,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "1992-01",
+    "decimaldate": 1992.0417,
+    "average": 356.34,
+    "interpolated": 356.29,
+    "trend": 31,
+    "numdays": 0.6,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "1992-02",
+    "decimaldate": 1992.125,
+    "average": 357.21,
+    "interpolated": 356.47,
+    "trend": 27,
+    "numdays": 0.56,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "1992-03",
+    "decimaldate": 1992.2083,
+    "average": 357.97,
+    "interpolated": 356.38,
+    "trend": 24,
+    "numdays": 0.72,
+    "__parsed_extra": [
+      0.28
+    ]
+  },
+  {
+    "date": "1992-04",
+    "decimaldate": 1992.2917,
+    "average": 359.22,
+    "interpolated": 356.51,
+    "trend": 27,
+    "numdays": 0.53,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "1992-05",
+    "decimaldate": 1992.375,
+    "average": 359.71,
+    "interpolated": 356.52,
+    "trend": 26,
+    "numdays": 0.74,
+    "__parsed_extra": [
+      0.28
+    ]
+  },
+  {
+    "date": "1992-06",
+    "decimaldate": 1992.4583,
+    "average": 359.44,
+    "interpolated": 357.07,
+    "trend": 30,
+    "numdays": 0.49,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "1992-07",
+    "decimaldate": 1992.5417,
+    "average": 357.15,
+    "interpolated": 356.58,
+    "trend": 25,
+    "numdays": 0.63,
+    "__parsed_extra": [
+      0.24
+    ]
+  },
+  {
+    "date": "1992-08",
+    "decimaldate": 1992.625,
+    "average": 354.99,
+    "interpolated": 356.67,
+    "trend": 24,
+    "numdays": 0.62,
+    "__parsed_extra": [
+      0.24
+    ]
+  },
+  {
+    "date": "1992-09",
+    "decimaldate": 1992.7083,
+    "average": 353.01,
+    "interpolated": 356.36,
+    "trend": 25,
+    "numdays": 0.98,
+    "__parsed_extra": [
+      0.38
+    ]
+  },
+  {
+    "date": "1992-10",
+    "decimaldate": 1992.7917,
+    "average": 353.41,
+    "interpolated": 356.72,
+    "trend": 29,
+    "numdays": 0.56,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "1992-11",
+    "decimaldate": 1992.875,
+    "average": 354.42,
+    "interpolated": 356.48,
+    "trend": 29,
+    "numdays": 0.34,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "1992-12",
+    "decimaldate": 1992.9583,
+    "average": 355.68,
+    "interpolated": 356.5,
+    "trend": 31,
+    "numdays": 0.32,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "1993-01",
+    "decimaldate": 1993.0417,
+    "average": 357.1,
+    "interpolated": 357.06,
+    "trend": 28,
+    "numdays": 0.58,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "1993-02",
+    "decimaldate": 1993.125,
+    "average": 357.42,
+    "interpolated": 356.54,
+    "trend": 28,
+    "numdays": 0.49,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "1993-03",
+    "decimaldate": 1993.2083,
+    "average": 358.59,
+    "interpolated": 356.88,
+    "trend": 30,
+    "numdays": 0.72,
+    "__parsed_extra": [
+      0.25
+    ]
+  },
+  {
+    "date": "1993-04",
+    "decimaldate": 1993.2917,
+    "average": 359.39,
+    "interpolated": 356.71,
+    "trend": 25,
+    "numdays": 0.53,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "1993-05",
+    "decimaldate": 1993.375,
+    "average": 360.3,
+    "interpolated": 357.14,
+    "trend": 30,
+    "numdays": 0.45,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "1993-06",
+    "decimaldate": 1993.4583,
+    "average": 359.64,
+    "interpolated": 357.24,
+    "trend": 28,
+    "numdays": 0.35,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "1993-07",
+    "decimaldate": 1993.5417,
+    "average": 357.45,
+    "interpolated": 356.87,
+    "trend": 25,
+    "numdays": 0.78,
+    "__parsed_extra": [
+      0.3
+    ]
+  },
+  {
+    "date": "1993-08",
+    "decimaldate": 1993.625,
+    "average": 355.76,
+    "interpolated": 357.44,
+    "trend": 27,
+    "numdays": 0.62,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "1993-09",
+    "decimaldate": 1993.7083,
+    "average": 354.14,
+    "interpolated": 357.51,
+    "trend": 23,
+    "numdays": 0.73,
+    "__parsed_extra": [
+      0.29
+    ]
+  },
+  {
+    "date": "1993-10",
+    "decimaldate": 1993.7917,
+    "average": 354.23,
+    "interpolated": 357.61,
+    "trend": 28,
+    "numdays": 0.29,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "1993-11",
+    "decimaldate": 1993.875,
+    "average": 355.53,
+    "interpolated": 357.65,
+    "trend": 29,
+    "numdays": 0.26,
+    "__parsed_extra": [
+      0.09
+    ]
+  },
+  {
+    "date": "1993-12",
+    "decimaldate": 1993.9583,
+    "average": 357.03,
+    "interpolated": 357.92,
+    "trend": 29,
+    "numdays": 0.28,
+    "__parsed_extra": [
+      0.1
+    ]
+  },
+  {
+    "date": "1994-01",
+    "decimaldate": 1994.0417,
+    "average": 358.36,
+    "interpolated": 358.25,
+    "trend": 27,
+    "numdays": 0.33,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "1994-02",
+    "decimaldate": 1994.125,
+    "average": 359.04,
+    "interpolated": 358.21,
+    "trend": 25,
+    "numdays": 0.5,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "1994-03",
+    "decimaldate": 1994.2083,
+    "average": 360.11,
+    "interpolated": 358.41,
+    "trend": 29,
+    "numdays": 0.82,
+    "__parsed_extra": [
+      0.29
+    ]
+  },
+  {
+    "date": "1994-04",
+    "decimaldate": 1994.2917,
+    "average": 361.36,
+    "interpolated": 358.59,
+    "trend": 28,
+    "numdays": 0.5,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "1994-05",
+    "decimaldate": 1994.375,
+    "average": 361.78,
+    "interpolated": 358.59,
+    "trend": 30,
+    "numdays": 0.45,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "1994-06",
+    "decimaldate": 1994.4583,
+    "average": 360.94,
+    "interpolated": 358.57,
+    "trend": 27,
+    "numdays": 0.3,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "1994-07",
+    "decimaldate": 1994.5417,
+    "average": 359.51,
+    "interpolated": 358.91,
+    "trend": 31,
+    "numdays": 0.41,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "1994-08",
+    "decimaldate": 1994.625,
+    "average": 357.59,
+    "interpolated": 359.29,
+    "trend": 24,
+    "numdays": 0.43,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "1994-09",
+    "decimaldate": 1994.7083,
+    "average": 355.86,
+    "interpolated": 359.31,
+    "trend": 24,
+    "numdays": 0.58,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "1994-10",
+    "decimaldate": 1994.7917,
+    "average": 356.21,
+    "interpolated": 359.63,
+    "trend": 28,
+    "numdays": 0.28,
+    "__parsed_extra": [
+      0.1
+    ]
+  },
+  {
+    "date": "1994-11",
+    "decimaldate": 1994.875,
+    "average": 357.65,
+    "interpolated": 359.8,
+    "trend": 28,
+    "numdays": 0.51,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "1994-12",
+    "decimaldate": 1994.9583,
+    "average": 359.1,
+    "interpolated": 359.96,
+    "trend": 28,
+    "numdays": 0.46,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "1995-01",
+    "decimaldate": 1995.0417,
+    "average": 360.04,
+    "interpolated": 359.91,
+    "trend": 30,
+    "numdays": 0.47,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "1995-02",
+    "decimaldate": 1995.125,
+    "average": 361,
+    "interpolated": 360.18,
+    "trend": 28,
+    "numdays": 0.52,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "1995-03",
+    "decimaldate": 1995.2083,
+    "average": 361.98,
+    "interpolated": 360.37,
+    "trend": 29,
+    "numdays": 0.78,
+    "__parsed_extra": [
+      0.28
+    ]
+  },
+  {
+    "date": "1995-04",
+    "decimaldate": 1995.2917,
+    "average": 363.44,
+    "interpolated": 360.76,
+    "trend": 29,
+    "numdays": 0.65,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "1995-05",
+    "decimaldate": 1995.375,
+    "average": 363.83,
+    "interpolated": 360.72,
+    "trend": 29,
+    "numdays": 0.66,
+    "__parsed_extra": [
+      0.24
+    ]
+  },
+  {
+    "date": "1995-06",
+    "decimaldate": 1995.4583,
+    "average": 363.33,
+    "interpolated": 360.98,
+    "trend": 27,
+    "numdays": 0.37,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "1995-07",
+    "decimaldate": 1995.5417,
+    "average": 361.78,
+    "interpolated": 361.1,
+    "trend": 28,
+    "numdays": 0.36,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "1995-08",
+    "decimaldate": 1995.625,
+    "average": 359.33,
+    "interpolated": 360.93,
+    "trend": 24,
+    "numdays": 0.7,
+    "__parsed_extra": [
+      0.28
+    ]
+  },
+  {
+    "date": "1995-09",
+    "decimaldate": 1995.7083,
+    "average": 358.32,
+    "interpolated": 361.7,
+    "trend": 24,
+    "numdays": 0.68,
+    "__parsed_extra": [
+      0.26
+    ]
+  },
+  {
+    "date": "1995-10",
+    "decimaldate": 1995.7917,
+    "average": 358.14,
+    "interpolated": 361.52,
+    "trend": 29,
+    "numdays": 0.26,
+    "__parsed_extra": [
+      0.09
+    ]
+  },
+  {
+    "date": "1995-11",
+    "decimaldate": 1995.875,
+    "average": 359.61,
+    "interpolated": 361.75,
+    "trend": 26,
+    "numdays": 0.24,
+    "__parsed_extra": [
+      0.09
+    ]
+  },
+  {
+    "date": "1995-12",
+    "decimaldate": 1995.9583,
+    "average": 360.82,
+    "interpolated": 361.67,
+    "trend": 30,
+    "numdays": 0.36,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "1996-01",
+    "decimaldate": 1996.0417,
+    "average": 362.2,
+    "interpolated": 361.98,
+    "trend": 29,
+    "numdays": 0.38,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "1996-02",
+    "decimaldate": 1996.125,
+    "average": 363.36,
+    "interpolated": 362.47,
+    "trend": 28,
+    "numdays": 0.55,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "1996-03",
+    "decimaldate": 1996.2083,
+    "average": 364.28,
+    "interpolated": 362.64,
+    "trend": 28,
+    "numdays": 0.67,
+    "__parsed_extra": [
+      0.24
+    ]
+  },
+  {
+    "date": "1996-04",
+    "decimaldate": 1996.2917,
+    "average": 364.69,
+    "interpolated": 361.99,
+    "trend": 29,
+    "numdays": 0.59,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "1996-05",
+    "decimaldate": 1996.375,
+    "average": 365.25,
+    "interpolated": 362.23,
+    "trend": 30,
+    "numdays": 0.57,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "1996-06",
+    "decimaldate": 1996.4583,
+    "average": 365.06,
+    "interpolated": 362.82,
+    "trend": 30,
+    "numdays": 0.38,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "1996-07",
+    "decimaldate": 1996.5417,
+    "average": 363.69,
+    "interpolated": 362.98,
+    "trend": 31,
+    "numdays": 0.32,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "1996-08",
+    "decimaldate": 1996.625,
+    "average": 361.55,
+    "interpolated": 363.13,
+    "trend": 27,
+    "numdays": 0.49,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "1996-09",
+    "decimaldate": 1996.7083,
+    "average": 359.69,
+    "interpolated": 363.14,
+    "trend": 25,
+    "numdays": 0.75,
+    "__parsed_extra": [
+      0.29
+    ]
+  },
+  {
+    "date": "1996-10",
+    "decimaldate": 1996.7917,
+    "average": 359.72,
+    "interpolated": 363.12,
+    "trend": 29,
+    "numdays": 0.32,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "1996-11",
+    "decimaldate": 1996.875,
+    "average": 361.04,
+    "interpolated": 363.18,
+    "trend": 29,
+    "numdays": 0.29,
+    "__parsed_extra": [
+      0.1
+    ]
+  },
+  {
+    "date": "1996-12",
+    "decimaldate": 1996.9583,
+    "average": 362.39,
+    "interpolated": 363.23,
+    "trend": 29,
+    "numdays": 0.36,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "1997-01",
+    "decimaldate": 1997.0417,
+    "average": 363.24,
+    "interpolated": 363.03,
+    "trend": 31,
+    "numdays": 0.4,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "1997-02",
+    "decimaldate": 1997.125,
+    "average": 364.21,
+    "interpolated": 363.4,
+    "trend": 28,
+    "numdays": 0.62,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "1997-03",
+    "decimaldate": 1997.2083,
+    "average": 364.65,
+    "interpolated": 363.02,
+    "trend": 31,
+    "numdays": 0.4,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "1997-04",
+    "decimaldate": 1997.2917,
+    "average": 366.48,
+    "interpolated": 363.82,
+    "trend": 21,
+    "numdays": 0.46,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "1997-05",
+    "decimaldate": 1997.375,
+    "average": 366.77,
+    "interpolated": 363.87,
+    "trend": 29,
+    "numdays": 0.53,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "1997-06",
+    "decimaldate": 1997.4583,
+    "average": 365.73,
+    "interpolated": 363.56,
+    "trend": 27,
+    "numdays": 0.23,
+    "__parsed_extra": [
+      0.09
+    ]
+  },
+  {
+    "date": "1997-07",
+    "decimaldate": 1997.5417,
+    "average": 364.46,
+    "interpolated": 363.74,
+    "trend": 24,
+    "numdays": 0.47,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "1997-08",
+    "decimaldate": 1997.625,
+    "average": 362.4,
+    "interpolated": 363.98,
+    "trend": 25,
+    "numdays": 0.57,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "1997-09",
+    "decimaldate": 1997.7083,
+    "average": 360.44,
+    "interpolated": 363.83,
+    "trend": 26,
+    "numdays": 0.63,
+    "__parsed_extra": [
+      0.24
+    ]
+  },
+  {
+    "date": "1997-10",
+    "decimaldate": 1997.7917,
+    "average": 360.98,
+    "interpolated": 364.28,
+    "trend": 27,
+    "numdays": 0.32,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "1997-11",
+    "decimaldate": 1997.875,
+    "average": 362.65,
+    "interpolated": 364.71,
+    "trend": 30,
+    "numdays": 0.31,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "1997-12",
+    "decimaldate": 1997.9583,
+    "average": 364.51,
+    "interpolated": 365.28,
+    "trend": 30,
+    "numdays": 0.41,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "1998-01",
+    "decimaldate": 1998.0417,
+    "average": 365.39,
+    "interpolated": 365.19,
+    "trend": 30,
+    "numdays": 0.43,
+    "__parsed_extra": [
+      0.15
+    ]
+  },
+  {
+    "date": "1998-02",
+    "decimaldate": 1998.125,
+    "average": 366.1,
+    "interpolated": 365.29,
+    "trend": 28,
+    "numdays": 0.62,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "1998-03",
+    "decimaldate": 1998.2083,
+    "average": 367.36,
+    "interpolated": 365.73,
+    "trend": 31,
+    "numdays": 0.82,
+    "__parsed_extra": [
+      0.28
+    ]
+  },
+  {
+    "date": "1998-04",
+    "decimaldate": 1998.2917,
+    "average": 368.79,
+    "interpolated": 366.17,
+    "trend": 29,
+    "numdays": 0.63,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "1998-05",
+    "decimaldate": 1998.375,
+    "average": 369.56,
+    "interpolated": 366.68,
+    "trend": 30,
+    "numdays": 0.77,
+    "__parsed_extra": [
+      0.27
+    ]
+  },
+  {
+    "date": "1998-06",
+    "decimaldate": 1998.4583,
+    "average": 369.13,
+    "interpolated": 366.95,
+    "trend": 28,
+    "numdays": 0.24,
+    "__parsed_extra": [
+      0.09
+    ]
+  },
+  {
+    "date": "1998-07",
+    "decimaldate": 1998.5417,
+    "average": 367.98,
+    "interpolated": 367.29,
+    "trend": 23,
+    "numdays": 0.65,
+    "__parsed_extra": [
+      0.26
+    ]
+  },
+  {
+    "date": "1998-08",
+    "decimaldate": 1998.625,
+    "average": 366.1,
+    "interpolated": 367.69,
+    "trend": 30,
+    "numdays": 0.3,
+    "__parsed_extra": [
+      0.1
+    ]
+  },
+  {
+    "date": "1998-09",
+    "decimaldate": 1998.7083,
+    "average": 364.16,
+    "interpolated": 367.51,
+    "trend": 28,
+    "numdays": 0.4,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "1998-10",
+    "decimaldate": 1998.7917,
+    "average": 364.54,
+    "interpolated": 367.82,
+    "trend": 30,
+    "numdays": 0.26,
+    "__parsed_extra": [
+      0.09
+    ]
+  },
+  {
+    "date": "1998-11",
+    "decimaldate": 1998.875,
+    "average": 365.67,
+    "interpolated": 367.7,
+    "trend": 23,
+    "numdays": 0.25,
+    "__parsed_extra": [
+      0.1
+    ]
+  },
+  {
+    "date": "1998-12",
+    "decimaldate": 1998.9583,
+    "average": 367.3,
+    "interpolated": 368.05,
+    "trend": 26,
+    "numdays": 0.36,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "1999-01",
+    "decimaldate": 1999.0417,
+    "average": 368.35,
+    "interpolated": 368.13,
+    "trend": 27,
+    "numdays": 0.47,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "1999-02",
+    "decimaldate": 1999.125,
+    "average": 369.28,
+    "interpolated": 368.46,
+    "trend": 21,
+    "numdays": 0.47,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "1999-03",
+    "decimaldate": 1999.2083,
+    "average": 369.84,
+    "interpolated": 368.24,
+    "trend": 25,
+    "numdays": 0.81,
+    "__parsed_extra": [
+      0.31
+    ]
+  },
+  {
+    "date": "1999-04",
+    "decimaldate": 1999.2917,
+    "average": 371.15,
+    "interpolated": 368.62,
+    "trend": 29,
+    "numdays": 0.67,
+    "__parsed_extra": [
+      0.24
+    ]
+  },
+  {
+    "date": "1999-05",
+    "decimaldate": 1999.375,
+    "average": 371.12,
+    "interpolated": 368.31,
+    "trend": 26,
+    "numdays": 0.59,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "1999-06",
+    "decimaldate": 1999.4583,
+    "average": 370.46,
+    "interpolated": 368.3,
+    "trend": 26,
+    "numdays": 0.44,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "1999-07",
+    "decimaldate": 1999.5417,
+    "average": 369.61,
+    "interpolated": 368.93,
+    "trend": 27,
+    "numdays": 0.63,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "1999-08",
+    "decimaldate": 1999.625,
+    "average": 367.06,
+    "interpolated": 368.63,
+    "trend": 25,
+    "numdays": 0.38,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "1999-09",
+    "decimaldate": 1999.7083,
+    "average": 364.95,
+    "interpolated": 368.28,
+    "trend": 28,
+    "numdays": 0.74,
+    "__parsed_extra": [
+      0.27
+    ]
+  },
+  {
+    "date": "1999-10",
+    "decimaldate": 1999.7917,
+    "average": 365.52,
+    "interpolated": 368.8,
+    "trend": 31,
+    "numdays": 0.28,
+    "__parsed_extra": [
+      0.1
+    ]
+  },
+  {
+    "date": "1999-11",
+    "decimaldate": 1999.875,
+    "average": 366.88,
+    "interpolated": 368.86,
+    "trend": 28,
+    "numdays": 0.25,
+    "__parsed_extra": [
+      0.09
+    ]
+  },
+  {
+    "date": "1999-12",
+    "decimaldate": 1999.9583,
+    "average": 368.26,
+    "interpolated": 368.93,
+    "trend": 26,
+    "numdays": 0.29,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "2000-01",
+    "decimaldate": 2000.0417,
+    "average": 369.45,
+    "interpolated": 369.24,
+    "trend": 26,
+    "numdays": 0.48,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "2000-02",
+    "decimaldate": 2000.125,
+    "average": 369.71,
+    "interpolated": 368.99,
+    "trend": 19,
+    "numdays": 0.48,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "2000-03",
+    "decimaldate": 2000.2083,
+    "average": 370.75,
+    "interpolated": 369.24,
+    "trend": 30,
+    "numdays": 0.47,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "2000-04",
+    "decimaldate": 2000.2917,
+    "average": 371.98,
+    "interpolated": 369.44,
+    "trend": 27,
+    "numdays": 0.58,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "2000-05",
+    "decimaldate": 2000.375,
+    "average": 371.75,
+    "interpolated": 368.87,
+    "trend": 28,
+    "numdays": 0.53,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "2000-06",
+    "decimaldate": 2000.4583,
+    "average": 371.87,
+    "interpolated": 369.66,
+    "trend": 28,
+    "numdays": 0.24,
+    "__parsed_extra": [
+      0.09
+    ]
+  },
+  {
+    "date": "2000-07",
+    "decimaldate": 2000.5417,
+    "average": 370.02,
+    "interpolated": 369.36,
+    "trend": 25,
+    "numdays": 0.31,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "2000-08",
+    "decimaldate": 2000.625,
+    "average": 368.27,
+    "interpolated": 369.87,
+    "trend": 27,
+    "numdays": 0.42,
+    "__parsed_extra": [
+      0.15
+    ]
+  },
+  {
+    "date": "2000-09",
+    "decimaldate": 2000.7083,
+    "average": 367.15,
+    "interpolated": 370.46,
+    "trend": 25,
+    "numdays": 0.36,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "2000-10",
+    "decimaldate": 2000.7917,
+    "average": 367.18,
+    "interpolated": 370.42,
+    "trend": 30,
+    "numdays": 0.27,
+    "__parsed_extra": [
+      0.09
+    ]
+  },
+  {
+    "date": "2000-11",
+    "decimaldate": 2000.875,
+    "average": 368.53,
+    "interpolated": 370.48,
+    "trend": 25,
+    "numdays": 0.3,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "2000-12",
+    "decimaldate": 2000.9583,
+    "average": 369.83,
+    "interpolated": 370.46,
+    "trend": 30,
+    "numdays": 0.38,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "2001-01",
+    "decimaldate": 2001.0417,
+    "average": 370.76,
+    "interpolated": 370.6,
+    "trend": 30,
+    "numdays": 0.56,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "2001-02",
+    "decimaldate": 2001.125,
+    "average": 371.69,
+    "interpolated": 370.95,
+    "trend": 26,
+    "numdays": 0.61,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "2001-03",
+    "decimaldate": 2001.2083,
+    "average": 372.63,
+    "interpolated": 371.06,
+    "trend": 26,
+    "numdays": 0.46,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "2001-04",
+    "decimaldate": 2001.2917,
+    "average": 373.55,
+    "interpolated": 370.99,
+    "trend": 29,
+    "numdays": 0.56,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "2001-05",
+    "decimaldate": 2001.375,
+    "average": 374.03,
+    "interpolated": 371.11,
+    "trend": 24,
+    "numdays": 0.41,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "2001-06",
+    "decimaldate": 2001.4583,
+    "average": 373.4,
+    "interpolated": 371.17,
+    "trend": 26,
+    "numdays": 0.37,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "2001-07",
+    "decimaldate": 2001.5417,
+    "average": 371.68,
+    "interpolated": 371.08,
+    "trend": 25,
+    "numdays": 0.62,
+    "__parsed_extra": [
+      0.24
+    ]
+  },
+  {
+    "date": "2001-08",
+    "decimaldate": 2001.625,
+    "average": 369.78,
+    "interpolated": 371.39,
+    "trend": 27,
+    "numdays": 0.6,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "2001-09",
+    "decimaldate": 2001.7083,
+    "average": 368.34,
+    "interpolated": 371.61,
+    "trend": 28,
+    "numdays": 0.49,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "2001-10",
+    "decimaldate": 2001.7917,
+    "average": 368.61,
+    "interpolated": 371.85,
+    "trend": 31,
+    "numdays": 0.33,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "2001-11",
+    "decimaldate": 2001.875,
+    "average": 369.94,
+    "interpolated": 371.92,
+    "trend": 24,
+    "numdays": 0.24,
+    "__parsed_extra": [
+      0.09
+    ]
+  },
+  {
+    "date": "2001-12",
+    "decimaldate": 2001.9583,
+    "average": 371.42,
+    "interpolated": 372.09,
+    "trend": 29,
+    "numdays": 0.4,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "2002-01",
+    "decimaldate": 2002.0417,
+    "average": 372.7,
+    "interpolated": 372.48,
+    "trend": 28,
+    "numdays": 0.52,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "2002-02",
+    "decimaldate": 2002.125,
+    "average": 373.37,
+    "interpolated": 372.49,
+    "trend": 28,
+    "numdays": 0.66,
+    "__parsed_extra": [
+      0.24
+    ]
+  },
+  {
+    "date": "2002-03",
+    "decimaldate": 2002.2083,
+    "average": 374.3,
+    "interpolated": 372.61,
+    "trend": 24,
+    "numdays": 0.62,
+    "__parsed_extra": [
+      0.24
+    ]
+  },
+  {
+    "date": "2002-04",
+    "decimaldate": 2002.2917,
+    "average": 375.19,
+    "interpolated": 372.54,
+    "trend": 29,
+    "numdays": 0.55,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "2002-05",
+    "decimaldate": 2002.375,
+    "average": 375.93,
+    "interpolated": 372.98,
+    "trend": 29,
+    "numdays": 0.57,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "2002-06",
+    "decimaldate": 2002.4583,
+    "average": 375.69,
+    "interpolated": 373.46,
+    "trend": 28,
+    "numdays": 0.46,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "2002-07",
+    "decimaldate": 2002.5417,
+    "average": 374.16,
+    "interpolated": 373.58,
+    "trend": 25,
+    "numdays": 0.47,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "2002-08",
+    "decimaldate": 2002.625,
+    "average": 372.03,
+    "interpolated": 373.7,
+    "trend": 28,
+    "numdays": 0.65,
+    "__parsed_extra": [
+      0.24
+    ]
+  },
+  {
+    "date": "2002-09",
+    "decimaldate": 2002.7083,
+    "average": 370.92,
+    "interpolated": 374.29,
+    "trend": 23,
+    "numdays": 0.74,
+    "__parsed_extra": [
+      0.3
+    ]
+  },
+  {
+    "date": "2002-10",
+    "decimaldate": 2002.7917,
+    "average": 370.73,
+    "interpolated": 374.06,
+    "trend": 31,
+    "numdays": 0.62,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "2002-11",
+    "decimaldate": 2002.875,
+    "average": 372.43,
+    "interpolated": 374.52,
+    "trend": 29,
+    "numdays": 0.43,
+    "__parsed_extra": [
+      0.15
+    ]
+  },
+  {
+    "date": "2002-12",
+    "decimaldate": 2002.9583,
+    "average": 373.98,
+    "interpolated": 374.72,
+    "trend": 31,
+    "numdays": 0.46,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "2003-01",
+    "decimaldate": 2003.0417,
+    "average": 375.07,
+    "interpolated": 374.82,
+    "trend": 30,
+    "numdays": 0.51,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "2003-02",
+    "decimaldate": 2003.125,
+    "average": 375.82,
+    "interpolated": 374.95,
+    "trend": 27,
+    "numdays": 0.58,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "2003-03",
+    "decimaldate": 2003.2083,
+    "average": 376.64,
+    "interpolated": 374.99,
+    "trend": 28,
+    "numdays": 0.63,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "2003-04",
+    "decimaldate": 2003.2917,
+    "average": 377.92,
+    "interpolated": 375.24,
+    "trend": 27,
+    "numdays": 0.37,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "2003-05",
+    "decimaldate": 2003.375,
+    "average": 378.78,
+    "interpolated": 375.73,
+    "trend": 30,
+    "numdays": 0.78,
+    "__parsed_extra": [
+      0.27
+    ]
+  },
+  {
+    "date": "2003-06",
+    "decimaldate": 2003.4583,
+    "average": 378.46,
+    "interpolated": 376.21,
+    "trend": 25,
+    "numdays": 0.39,
+    "__parsed_extra": [
+      0.15
+    ]
+  },
+  {
+    "date": "2003-07",
+    "decimaldate": 2003.5417,
+    "average": 376.88,
+    "interpolated": 376.37,
+    "trend": 29,
+    "numdays": 0.7,
+    "__parsed_extra": [
+      0.25
+    ]
+  },
+  {
+    "date": "2003-08",
+    "decimaldate": 2003.625,
+    "average": 374.57,
+    "interpolated": 376.27,
+    "trend": 23,
+    "numdays": 0.57,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "2003-09",
+    "decimaldate": 2003.7083,
+    "average": 373.34,
+    "interpolated": 376.65,
+    "trend": 25,
+    "numdays": 0.37,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "2003-10",
+    "decimaldate": 2003.7917,
+    "average": 373.31,
+    "interpolated": 376.65,
+    "trend": 30,
+    "numdays": 0.33,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "2003-11",
+    "decimaldate": 2003.875,
+    "average": 374.84,
+    "interpolated": 376.99,
+    "trend": 26,
+    "numdays": 0.45,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "2003-12",
+    "decimaldate": 2003.9583,
+    "average": 376.17,
+    "interpolated": 376.93,
+    "trend": 27,
+    "numdays": 0.4,
+    "__parsed_extra": [
+      0.15
+    ]
+  },
+  {
+    "date": "2004-01",
+    "decimaldate": 2004.0417,
+    "average": 377.17,
+    "interpolated": 376.96,
+    "trend": 30,
+    "numdays": 0.45,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "2004-02",
+    "decimaldate": 2004.125,
+    "average": 378.05,
+    "interpolated": 377.19,
+    "trend": 29,
+    "numdays": 0.74,
+    "__parsed_extra": [
+      0.26
+    ]
+  },
+  {
+    "date": "2004-03",
+    "decimaldate": 2004.2083,
+    "average": 379.06,
+    "interpolated": 377.4,
+    "trend": 27,
+    "numdays": 0.84,
+    "__parsed_extra": [
+      0.31
+    ]
+  },
+  {
+    "date": "2004-04",
+    "decimaldate": 2004.2917,
+    "average": 380.54,
+    "interpolated": 377.8,
+    "trend": 26,
+    "numdays": 0.52,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "2004-05",
+    "decimaldate": 2004.375,
+    "average": 380.8,
+    "interpolated": 377.66,
+    "trend": 28,
+    "numdays": 0.61,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "2004-06",
+    "decimaldate": 2004.4583,
+    "average": 379.87,
+    "interpolated": 377.57,
+    "trend": 21,
+    "numdays": 0.47,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "2004-07",
+    "decimaldate": 2004.5417,
+    "average": 377.65,
+    "interpolated": 377.12,
+    "trend": 25,
+    "numdays": 0.5,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "2004-08",
+    "decimaldate": 2004.625,
+    "average": 376.17,
+    "interpolated": 377.9,
+    "trend": 16,
+    "numdays": 0.45,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "2004-09",
+    "decimaldate": 2004.7083,
+    "average": 374.43,
+    "interpolated": 377.8,
+    "trend": 15,
+    "numdays": 0.56,
+    "__parsed_extra": [
+      0.28
+    ]
+  },
+  {
+    "date": "2004-10",
+    "decimaldate": 2004.7917,
+    "average": 374.63,
+    "interpolated": 378,
+    "trend": 29,
+    "numdays": 0.19,
+    "__parsed_extra": [
+      0.07
+    ]
+  },
+  {
+    "date": "2004-11",
+    "decimaldate": 2004.875,
+    "average": 376.33,
+    "interpolated": 378.49,
+    "trend": 29,
+    "numdays": 0.62,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "2004-12",
+    "decimaldate": 2004.9583,
+    "average": 377.68,
+    "interpolated": 378.48,
+    "trend": 30,
+    "numdays": 0.29,
+    "__parsed_extra": [
+      0.1
+    ]
+  },
+  {
+    "date": "2005-01",
+    "decimaldate": 2005.0417,
+    "average": 378.63,
+    "interpolated": 378.37,
+    "trend": 31,
+    "numdays": 0.32,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "2005-02",
+    "decimaldate": 2005.125,
+    "average": 379.91,
+    "interpolated": 379.1,
+    "trend": 24,
+    "numdays": 0.6,
+    "__parsed_extra": [
+      0.24
+    ]
+  },
+  {
+    "date": "2005-03",
+    "decimaldate": 2005.2083,
+    "average": 380.95,
+    "interpolated": 379.45,
+    "trend": 26,
+    "numdays": 1.16,
+    "__parsed_extra": [
+      0.44
+    ]
+  },
+  {
+    "date": "2005-04",
+    "decimaldate": 2005.2917,
+    "average": 382.48,
+    "interpolated": 379.84,
+    "trend": 26,
+    "numdays": 0.53,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "2005-05",
+    "decimaldate": 2005.375,
+    "average": 382.64,
+    "interpolated": 379.49,
+    "trend": 31,
+    "numdays": 0.61,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "2005-06",
+    "decimaldate": 2005.4583,
+    "average": 382.4,
+    "interpolated": 380.07,
+    "trend": 28,
+    "numdays": 0.21,
+    "__parsed_extra": [
+      0.08
+    ]
+  },
+  {
+    "date": "2005-07",
+    "decimaldate": 2005.5417,
+    "average": 380.93,
+    "interpolated": 380.38,
+    "trend": 29,
+    "numdays": 0.38,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "2005-08",
+    "decimaldate": 2005.625,
+    "average": 378.93,
+    "interpolated": 380.61,
+    "trend": 26,
+    "numdays": 0.53,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "2005-09",
+    "decimaldate": 2005.7083,
+    "average": 376.89,
+    "interpolated": 380.2,
+    "trend": 27,
+    "numdays": 0.51,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "2005-10",
+    "decimaldate": 2005.7917,
+    "average": 377.19,
+    "interpolated": 380.5,
+    "trend": 14,
+    "numdays": 0.15,
+    "__parsed_extra": [
+      0.08
+    ]
+  },
+  {
+    "date": "2005-11",
+    "decimaldate": 2005.875,
+    "average": 378.54,
+    "interpolated": 380.69,
+    "trend": 23,
+    "numdays": 0.45,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "2005-12",
+    "decimaldate": 2005.9583,
+    "average": 380.31,
+    "interpolated": 381.09,
+    "trend": 26,
+    "numdays": 0.39,
+    "__parsed_extra": [
+      0.15
+    ]
+  },
+  {
+    "date": "2006-01",
+    "decimaldate": 2006.0417,
+    "average": 381.58,
+    "interpolated": 381.33,
+    "trend": 24,
+    "numdays": 0.31,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "2006-02",
+    "decimaldate": 2006.125,
+    "average": 382.4,
+    "interpolated": 381.58,
+    "trend": 25,
+    "numdays": 0.51,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "2006-03",
+    "decimaldate": 2006.2083,
+    "average": 382.86,
+    "interpolated": 381.32,
+    "trend": 29,
+    "numdays": 0.55,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "2006-04",
+    "decimaldate": 2006.2917,
+    "average": 384.8,
+    "interpolated": 382.11,
+    "trend": 25,
+    "numdays": 0.49,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "2006-05",
+    "decimaldate": 2006.375,
+    "average": 385.22,
+    "interpolated": 382.06,
+    "trend": 24,
+    "numdays": 0.45,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "2006-06",
+    "decimaldate": 2006.4583,
+    "average": 384.24,
+    "interpolated": 381.93,
+    "trend": 28,
+    "numdays": 0.43,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "2006-07",
+    "decimaldate": 2006.5417,
+    "average": 382.65,
+    "interpolated": 382.1,
+    "trend": 24,
+    "numdays": 0.32,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "2006-08",
+    "decimaldate": 2006.625,
+    "average": 380.6,
+    "interpolated": 382.27,
+    "trend": 27,
+    "numdays": 0.47,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "2006-09",
+    "decimaldate": 2006.7083,
+    "average": 379.04,
+    "interpolated": 382.35,
+    "trend": 25,
+    "numdays": 0.42,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "2006-10",
+    "decimaldate": 2006.7917,
+    "average": 379.33,
+    "interpolated": 382.66,
+    "trend": 23,
+    "numdays": 0.4,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "2006-11",
+    "decimaldate": 2006.875,
+    "average": 380.35,
+    "interpolated": 382.52,
+    "trend": 29,
+    "numdays": 0.39,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "2006-12",
+    "decimaldate": 2006.9583,
+    "average": 382.02,
+    "interpolated": 382.84,
+    "trend": 27,
+    "numdays": 0.38,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "2007-01",
+    "decimaldate": 2007.0417,
+    "average": 383.1,
+    "interpolated": 382.88,
+    "trend": 24,
+    "numdays": 0.76,
+    "__parsed_extra": [
+      0.3
+    ]
+  },
+  {
+    "date": "2007-02",
+    "decimaldate": 2007.125,
+    "average": 384.12,
+    "interpolated": 383.22,
+    "trend": 21,
+    "numdays": 0.81,
+    "__parsed_extra": [
+      0.34
+    ]
+  },
+  {
+    "date": "2007-03",
+    "decimaldate": 2007.2083,
+    "average": 384.81,
+    "interpolated": 383.17,
+    "trend": 27,
+    "numdays": 0.63,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "2007-04",
+    "decimaldate": 2007.2917,
+    "average": 386.73,
+    "interpolated": 383.95,
+    "trend": 25,
+    "numdays": 0.76,
+    "__parsed_extra": [
+      0.29
+    ]
+  },
+  {
+    "date": "2007-05",
+    "decimaldate": 2007.375,
+    "average": 386.78,
+    "interpolated": 383.56,
+    "trend": 29,
+    "numdays": 0.64,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "2007-06",
+    "decimaldate": 2007.4583,
+    "average": 386.33,
+    "interpolated": 384.06,
+    "trend": 26,
+    "numdays": 0.42,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "2007-07",
+    "decimaldate": 2007.5417,
+    "average": 384.73,
+    "interpolated": 384.25,
+    "trend": 27,
+    "numdays": 0.44,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "2007-08",
+    "decimaldate": 2007.625,
+    "average": 382.24,
+    "interpolated": 383.95,
+    "trend": 22,
+    "numdays": 0.64,
+    "__parsed_extra": [
+      0.26
+    ]
+  },
+  {
+    "date": "2007-09",
+    "decimaldate": 2007.7083,
+    "average": 381.2,
+    "interpolated": 384.56,
+    "trend": 21,
+    "numdays": 0.45,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "2007-10",
+    "decimaldate": 2007.7917,
+    "average": 381.37,
+    "interpolated": 384.72,
+    "trend": 29,
+    "numdays": 0.19,
+    "__parsed_extra": [
+      0.07
+    ]
+  },
+  {
+    "date": "2007-11",
+    "decimaldate": 2007.875,
+    "average": 382.7,
+    "interpolated": 384.9,
+    "trend": 30,
+    "numdays": 0.31,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "2007-12",
+    "decimaldate": 2007.9583,
+    "average": 384.19,
+    "interpolated": 385.07,
+    "trend": 22,
+    "numdays": 0.34,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "2008-01",
+    "decimaldate": 2008.0417,
+    "average": 385.78,
+    "interpolated": 385.54,
+    "trend": 31,
+    "numdays": 0.56,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "2008-02",
+    "decimaldate": 2008.125,
+    "average": 386.06,
+    "interpolated": 385.2,
+    "trend": 26,
+    "numdays": 0.58,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "2008-03",
+    "decimaldate": 2008.2083,
+    "average": 386.28,
+    "interpolated": 384.72,
+    "trend": 30,
+    "numdays": 0.6,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "2008-04",
+    "decimaldate": 2008.2917,
+    "average": 387.34,
+    "interpolated": 384.71,
+    "trend": 22,
+    "numdays": 1.19,
+    "__parsed_extra": [
+      0.49
+    ]
+  },
+  {
+    "date": "2008-05",
+    "decimaldate": 2008.375,
+    "average": 388.78,
+    "interpolated": 385.69,
+    "trend": 25,
+    "numdays": 0.57,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "2008-06",
+    "decimaldate": 2008.4583,
+    "average": 387.99,
+    "interpolated": 385.68,
+    "trend": 23,
+    "numdays": 0.49,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "2008-07",
+    "decimaldate": 2008.5417,
+    "average": 386.61,
+    "interpolated": 386.05,
+    "trend": 10,
+    "numdays": 0.96,
+    "__parsed_extra": [
+      0.58
+    ]
+  },
+  {
+    "date": "2008-08",
+    "decimaldate": 2008.625,
+    "average": 384.32,
+    "interpolated": 385.98,
+    "trend": 25,
+    "numdays": 0.66,
+    "__parsed_extra": [
+      0.25
+    ]
+  },
+  {
+    "date": "2008-09",
+    "decimaldate": 2008.7083,
+    "average": 383.41,
+    "interpolated": 386.69,
+    "trend": 27,
+    "numdays": 0.34,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "2008-10",
+    "decimaldate": 2008.7917,
+    "average": 383.21,
+    "interpolated": 386.49,
+    "trend": 23,
+    "numdays": 0.27,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "2008-11",
+    "decimaldate": 2008.875,
+    "average": 384.41,
+    "interpolated": 386.59,
+    "trend": 28,
+    "numdays": 0.29,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "2008-12",
+    "decimaldate": 2008.9583,
+    "average": 385.79,
+    "interpolated": 386.64,
+    "trend": 29,
+    "numdays": 0.27,
+    "__parsed_extra": [
+      0.1
+    ]
+  },
+  {
+    "date": "2009-01",
+    "decimaldate": 2009.0417,
+    "average": 387.17,
+    "interpolated": 386.86,
+    "trend": 30,
+    "numdays": 0.38,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "2009-02",
+    "decimaldate": 2009.125,
+    "average": 387.7,
+    "interpolated": 386.81,
+    "trend": 26,
+    "numdays": 0.49,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "2009-03",
+    "decimaldate": 2009.2083,
+    "average": 389.04,
+    "interpolated": 387.54,
+    "trend": 28,
+    "numdays": 0.68,
+    "__parsed_extra": [
+      0.25
+    ]
+  },
+  {
+    "date": "2009-04",
+    "decimaldate": 2009.2917,
+    "average": 389.76,
+    "interpolated": 387.15,
+    "trend": 29,
+    "numdays": 0.85,
+    "__parsed_extra": [
+      0.3
+    ]
+  },
+  {
+    "date": "2009-05",
+    "decimaldate": 2009.375,
+    "average": 390.36,
+    "interpolated": 387.24,
+    "trend": 30,
+    "numdays": 0.51,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "2009-06",
+    "decimaldate": 2009.4583,
+    "average": 389.7,
+    "interpolated": 387.46,
+    "trend": 29,
+    "numdays": 0.6,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "2009-07",
+    "decimaldate": 2009.5417,
+    "average": 388.24,
+    "interpolated": 387.77,
+    "trend": 22,
+    "numdays": 0.31,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "2009-08",
+    "decimaldate": 2009.625,
+    "average": 386.29,
+    "interpolated": 387.99,
+    "trend": 28,
+    "numdays": 0.62,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "2009-09",
+    "decimaldate": 2009.7083,
+    "average": 384.95,
+    "interpolated": 388.22,
+    "trend": 28,
+    "numdays": 0.56,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "2009-10",
+    "decimaldate": 2009.7917,
+    "average": 384.64,
+    "interpolated": 387.88,
+    "trend": 30,
+    "numdays": 0.31,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "2009-11",
+    "decimaldate": 2009.875,
+    "average": 386.23,
+    "interpolated": 388.36,
+    "trend": 30,
+    "numdays": 0.29,
+    "__parsed_extra": [
+      0.1
+    ]
+  },
+  {
+    "date": "2009-12",
+    "decimaldate": 2009.9583,
+    "average": 387.63,
+    "interpolated": 388.43,
+    "trend": 20,
+    "numdays": 0.47,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "2010-01",
+    "decimaldate": 2010.0417,
+    "average": 388.91,
+    "interpolated": 388.62,
+    "trend": 30,
+    "numdays": 0.92,
+    "__parsed_extra": [
+      0.32
+    ]
+  },
+  {
+    "date": "2010-02",
+    "decimaldate": 2010.125,
+    "average": 390.41,
+    "interpolated": 389.47,
+    "trend": 20,
+    "numdays": 1.31,
+    "__parsed_extra": [
+      0.56
+    ]
+  },
+  {
+    "date": "2010-03",
+    "decimaldate": 2010.2083,
+    "average": 391.37,
+    "interpolated": 389.85,
+    "trend": 25,
+    "numdays": 1.05,
+    "__parsed_extra": [
+      0.4
+    ]
+  },
+  {
+    "date": "2010-04",
+    "decimaldate": 2010.2917,
+    "average": 392.67,
+    "interpolated": 390.12,
+    "trend": 26,
+    "numdays": 0.65,
+    "__parsed_extra": [
+      0.24
+    ]
+  },
+  {
+    "date": "2010-05",
+    "decimaldate": 2010.375,
+    "average": 393.21,
+    "interpolated": 390.09,
+    "trend": 29,
+    "numdays": 0.65,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "2010-06",
+    "decimaldate": 2010.4583,
+    "average": 392.38,
+    "interpolated": 390.1,
+    "trend": 28,
+    "numdays": 0.42,
+    "__parsed_extra": [
+      0.15
+    ]
+  },
+  {
+    "date": "2010-07",
+    "decimaldate": 2010.5417,
+    "average": 390.41,
+    "interpolated": 389.93,
+    "trend": 29,
+    "numdays": 0.47,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "2010-08",
+    "decimaldate": 2010.625,
+    "average": 388.54,
+    "interpolated": 390.21,
+    "trend": 26,
+    "numdays": 0.41,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "2010-09",
+    "decimaldate": 2010.7083,
+    "average": 387.03,
+    "interpolated": 390.32,
+    "trend": 29,
+    "numdays": 0.55,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "2010-10",
+    "decimaldate": 2010.7917,
+    "average": 387.43,
+    "interpolated": 390.72,
+    "trend": 31,
+    "numdays": 0.27,
+    "__parsed_extra": [
+      0.09
+    ]
+  },
+  {
+    "date": "2010-11",
+    "decimaldate": 2010.875,
+    "average": 388.87,
+    "interpolated": 390.99,
+    "trend": 29,
+    "numdays": 0.42,
+    "__parsed_extra": [
+      0.15
+    ]
+  },
+  {
+    "date": "2010-12",
+    "decimaldate": 2010.9583,
+    "average": 389.99,
+    "interpolated": 390.8,
+    "trend": 29,
+    "numdays": 0.47,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "2011-01",
+    "decimaldate": 2011.0417,
+    "average": 391.5,
+    "interpolated": 391.19,
+    "trend": 29,
+    "numdays": 0.88,
+    "__parsed_extra": [
+      0.31
+    ]
+  },
+  {
+    "date": "2011-02",
+    "decimaldate": 2011.125,
+    "average": 392.05,
+    "interpolated": 391.12,
+    "trend": 28,
+    "numdays": 0.47,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "2011-03",
+    "decimaldate": 2011.2083,
+    "average": 392.8,
+    "interpolated": 391.27,
+    "trend": 29,
+    "numdays": 0.97,
+    "__parsed_extra": [
+      0.35
+    ]
+  },
+  {
+    "date": "2011-04",
+    "decimaldate": 2011.2917,
+    "average": 393.44,
+    "interpolated": 390.83,
+    "trend": 28,
+    "numdays": 0.73,
+    "__parsed_extra": [
+      0.26
+    ]
+  },
+  {
+    "date": "2011-05",
+    "decimaldate": 2011.375,
+    "average": 394.41,
+    "interpolated": 391.24,
+    "trend": 29,
+    "numdays": 0.93,
+    "__parsed_extra": [
+      0.33
+    ]
+  },
+  {
+    "date": "2011-06",
+    "decimaldate": 2011.4583,
+    "average": 393.95,
+    "interpolated": 391.64,
+    "trend": 28,
+    "numdays": 0.45,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "2011-07",
+    "decimaldate": 2011.5417,
+    "average": 392.72,
+    "interpolated": 392.25,
+    "trend": 26,
+    "numdays": 0.71,
+    "__parsed_extra": [
+      0.26
+    ]
+  },
+  {
+    "date": "2011-08",
+    "decimaldate": 2011.625,
+    "average": 390.33,
+    "interpolated": 392.04,
+    "trend": 27,
+    "numdays": 0.42,
+    "__parsed_extra": [
+      0.15
+    ]
+  },
+  {
+    "date": "2011-09",
+    "decimaldate": 2011.7083,
+    "average": 389.28,
+    "interpolated": 392.6,
+    "trend": 26,
+    "numdays": 0.31,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "2011-10",
+    "decimaldate": 2011.7917,
+    "average": 389.19,
+    "interpolated": 392.53,
+    "trend": 30,
+    "numdays": 0.17,
+    "__parsed_extra": [
+      0.06
+    ]
+  },
+  {
+    "date": "2011-11",
+    "decimaldate": 2011.875,
+    "average": 390.48,
+    "interpolated": 392.64,
+    "trend": 28,
+    "numdays": 0.26,
+    "__parsed_extra": [
+      0.1
+    ]
+  },
+  {
+    "date": "2011-12",
+    "decimaldate": 2011.9583,
+    "average": 392.06,
+    "interpolated": 392.86,
+    "trend": 26,
+    "numdays": 0.37,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "2012-01",
+    "decimaldate": 2012.0417,
+    "average": 393.31,
+    "interpolated": 393.07,
+    "trend": 30,
+    "numdays": 0.77,
+    "__parsed_extra": [
+      0.27
+    ]
+  },
+  {
+    "date": "2012-02",
+    "decimaldate": 2012.125,
+    "average": 394.04,
+    "interpolated": 393.2,
+    "trend": 26,
+    "numdays": 1.19,
+    "__parsed_extra": [
+      0.45
+    ]
+  },
+  {
+    "date": "2012-03",
+    "decimaldate": 2012.2083,
+    "average": 394.59,
+    "interpolated": 392.99,
+    "trend": 30,
+    "numdays": 0.63,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "2012-04",
+    "decimaldate": 2012.2917,
+    "average": 396.38,
+    "interpolated": 393.65,
+    "trend": 29,
+    "numdays": 0.59,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "2012-05",
+    "decimaldate": 2012.375,
+    "average": 396.93,
+    "interpolated": 393.73,
+    "trend": 30,
+    "numdays": 0.5,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "2012-06",
+    "decimaldate": 2012.4583,
+    "average": 395.91,
+    "interpolated": 393.63,
+    "trend": 28,
+    "numdays": 0.59,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "2012-07",
+    "decimaldate": 2012.5417,
+    "average": 394.56,
+    "interpolated": 394.12,
+    "trend": 26,
+    "numdays": 0.3,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "2012-08",
+    "decimaldate": 2012.625,
+    "average": 392.59,
+    "interpolated": 394.37,
+    "trend": 30,
+    "numdays": 0.52,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "2012-09",
+    "decimaldate": 2012.7083,
+    "average": 391.32,
+    "interpolated": 394.74,
+    "trend": 26,
+    "numdays": 0.42,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "2012-10",
+    "decimaldate": 2012.7917,
+    "average": 391.27,
+    "interpolated": 394.64,
+    "trend": 28,
+    "numdays": 0.23,
+    "__parsed_extra": [
+      0.08
+    ]
+  },
+  {
+    "date": "2012-11",
+    "decimaldate": 2012.875,
+    "average": 393.2,
+    "interpolated": 395.25,
+    "trend": 29,
+    "numdays": 0.53,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "2012-12",
+    "decimaldate": 2012.9583,
+    "average": 394.57,
+    "interpolated": 395.27,
+    "trend": 29,
+    "numdays": 0.44,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "2013-01",
+    "decimaldate": 2013.0417,
+    "average": 395.78,
+    "interpolated": 395.62,
+    "trend": 28,
+    "numdays": 0.6,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "2013-02",
+    "decimaldate": 2013.125,
+    "average": 397.03,
+    "interpolated": 396.23,
+    "trend": 25,
+    "numdays": 0.57,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "2013-03",
+    "decimaldate": 2013.2083,
+    "average": 397.66,
+    "interpolated": 396.07,
+    "trend": 30,
+    "numdays": 0.71,
+    "__parsed_extra": [
+      0.25
+    ]
+  },
+  {
+    "date": "2013-04",
+    "decimaldate": 2013.2917,
+    "average": 398.64,
+    "interpolated": 395.79,
+    "trend": 22,
+    "numdays": 0.59,
+    "__parsed_extra": [
+      0.24
+    ]
+  },
+  {
+    "date": "2013-05",
+    "decimaldate": 2013.375,
+    "average": 400.02,
+    "interpolated": 396.64,
+    "trend": 28,
+    "numdays": 0.37,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "2013-06",
+    "decimaldate": 2013.4583,
+    "average": 398.81,
+    "interpolated": 396.48,
+    "trend": 26,
+    "numdays": 0.43,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "2013-07",
+    "decimaldate": 2013.5417,
+    "average": 397.51,
+    "interpolated": 397.12,
+    "trend": 21,
+    "numdays": 0.52,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "2013-08",
+    "decimaldate": 2013.625,
+    "average": 395.39,
+    "interpolated": 397.27,
+    "trend": 27,
+    "numdays": 0.45,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "2013-09",
+    "decimaldate": 2013.7083,
+    "average": 393.72,
+    "interpolated": 397.24,
+    "trend": 26,
+    "numdays": 0.35,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "2013-10",
+    "decimaldate": 2013.7917,
+    "average": 393.9,
+    "interpolated": 397.25,
+    "trend": 28,
+    "numdays": 0.16,
+    "__parsed_extra": [
+      0.06
+    ]
+  },
+  {
+    "date": "2013-11",
+    "decimaldate": 2013.875,
+    "average": 395.36,
+    "interpolated": 397.35,
+    "trend": 30,
+    "numdays": 0.6,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "2013-12",
+    "decimaldate": 2013.9583,
+    "average": 397.03,
+    "interpolated": 397.78,
+    "trend": 30,
+    "numdays": 0.48,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "2014-01",
+    "decimaldate": 2014.0417,
+    "average": 398.04,
+    "interpolated": 397.74,
+    "trend": 31,
+    "numdays": 0.49,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "2014-02",
+    "decimaldate": 2014.125,
+    "average": 398.27,
+    "interpolated": 397.45,
+    "trend": 27,
+    "numdays": 0.51,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "2014-03",
+    "decimaldate": 2014.2083,
+    "average": 399.91,
+    "interpolated": 398.37,
+    "trend": 22,
+    "numdays": 0.84,
+    "__parsed_extra": [
+      0.34
+    ]
+  },
+  {
+    "date": "2014-04",
+    "decimaldate": 2014.2917,
+    "average": 401.51,
+    "interpolated": 398.63,
+    "trend": 26,
+    "numdays": 0.5,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "2014-05",
+    "decimaldate": 2014.375,
+    "average": 401.96,
+    "interpolated": 398.56,
+    "trend": 22,
+    "numdays": 0.51,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "2014-06",
+    "decimaldate": 2014.4583,
+    "average": 401.43,
+    "interpolated": 399.1,
+    "trend": 28,
+    "numdays": 0.36,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "2014-07",
+    "decimaldate": 2014.5417,
+    "average": 399.27,
+    "interpolated": 398.85,
+    "trend": 25,
+    "numdays": 0.55,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "2014-08",
+    "decimaldate": 2014.625,
+    "average": 397.18,
+    "interpolated": 399.07,
+    "trend": 22,
+    "numdays": 0.28,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "2014-09",
+    "decimaldate": 2014.7083,
+    "average": 395.54,
+    "interpolated": 399.11,
+    "trend": 21,
+    "numdays": 0.54,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "2014-10",
+    "decimaldate": 2014.7917,
+    "average": 396.16,
+    "interpolated": 399.58,
+    "trend": 24,
+    "numdays": 0.73,
+    "__parsed_extra": [
+      0.29
+    ]
+  },
+  {
+    "date": "2014-11",
+    "decimaldate": 2014.875,
+    "average": 397.4,
+    "interpolated": 399.49,
+    "trend": 27,
+    "numdays": 0.37,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "2014-12",
+    "decimaldate": 2014.9583,
+    "average": 399.08,
+    "interpolated": 399.81,
+    "trend": 29,
+    "numdays": 0.6,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "2015-01",
+    "decimaldate": 2015.0417,
+    "average": 400.18,
+    "interpolated": 399.92,
+    "trend": 30,
+    "numdays": 0.55,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "2015-02",
+    "decimaldate": 2015.125,
+    "average": 400.55,
+    "interpolated": 399.77,
+    "trend": 28,
+    "numdays": 0.63,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "2015-03",
+    "decimaldate": 2015.2083,
+    "average": 401.74,
+    "interpolated": 400.22,
+    "trend": 24,
+    "numdays": 1.02,
+    "__parsed_extra": [
+      0.4
+    ]
+  },
+  {
+    "date": "2015-04",
+    "decimaldate": 2015.2917,
+    "average": 403.34,
+    "interpolated": 400.46,
+    "trend": 26,
+    "numdays": 0.86,
+    "__parsed_extra": [
+      0.32
+    ]
+  },
+  {
+    "date": "2015-05",
+    "decimaldate": 2015.375,
+    "average": 404.15,
+    "interpolated": 400.7,
+    "trend": 30,
+    "numdays": 0.32,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "2015-06",
+    "decimaldate": 2015.4583,
+    "average": 402.97,
+    "interpolated": 400.65,
+    "trend": 29,
+    "numdays": 0.47,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "2015-07",
+    "decimaldate": 2015.5417,
+    "average": 401.46,
+    "interpolated": 401.11,
+    "trend": 24,
+    "numdays": 0.57,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "2015-08",
+    "decimaldate": 2015.625,
+    "average": 399.11,
+    "interpolated": 401.04,
+    "trend": 28,
+    "numdays": 0.74,
+    "__parsed_extra": [
+      0.27
+    ]
+  },
+  {
+    "date": "2015-09",
+    "decimaldate": 2015.7083,
+    "average": 397.82,
+    "interpolated": 401.43,
+    "trend": 25,
+    "numdays": 0.32,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "2015-10",
+    "decimaldate": 2015.7917,
+    "average": 398.49,
+    "interpolated": 401.89,
+    "trend": 28,
+    "numdays": 0.56,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "2015-11",
+    "decimaldate": 2015.875,
+    "average": 400.27,
+    "interpolated": 402.24,
+    "trend": 25,
+    "numdays": 0.58,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "2015-12",
+    "decimaldate": 2015.9583,
+    "average": 402.06,
+    "interpolated": 402.72,
+    "trend": 30,
+    "numdays": 0.67,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "2016-01",
+    "decimaldate": 2016.0417,
+    "average": 402.73,
+    "interpolated": 402.45,
+    "trend": 27,
+    "numdays": 0.56,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "2016-02",
+    "decimaldate": 2016.125,
+    "average": 404.25,
+    "interpolated": 403.4,
+    "trend": 25,
+    "numdays": 1.11,
+    "__parsed_extra": [
+      0.43
+    ]
+  },
+  {
+    "date": "2016-03",
+    "decimaldate": 2016.2083,
+    "average": 405.06,
+    "interpolated": 403.54,
+    "trend": 28,
+    "numdays": 0.81,
+    "__parsed_extra": [
+      0.29
+    ]
+  },
+  {
+    "date": "2016-04",
+    "decimaldate": 2016.2917,
+    "average": 407.6,
+    "interpolated": 404.77,
+    "trend": 23,
+    "numdays": 1.04,
+    "__parsed_extra": [
+      0.41
+    ]
+  },
+  {
+    "date": "2016-05",
+    "decimaldate": 2016.375,
+    "average": 407.9,
+    "interpolated": 404.41,
+    "trend": 29,
+    "numdays": 0.5,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "2016-06",
+    "decimaldate": 2016.4583,
+    "average": 406.99,
+    "interpolated": 404.59,
+    "trend": 26,
+    "numdays": 0.6,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "2016-07",
+    "decimaldate": 2016.5417,
+    "average": 404.59,
+    "interpolated": 404.24,
+    "trend": 28,
+    "numdays": 0.88,
+    "__parsed_extra": [
+      0.32
+    ]
+  },
+  {
+    "date": "2016-08",
+    "decimaldate": 2016.625,
+    "average": 402.45,
+    "interpolated": 404.41,
+    "trend": 24,
+    "numdays": 0.6,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "2016-09",
+    "decimaldate": 2016.7083,
+    "average": 401.23,
+    "interpolated": 404.85,
+    "trend": 25,
+    "numdays": 0.44,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "2016-10",
+    "decimaldate": 2016.7917,
+    "average": 401.79,
+    "interpolated": 405.23,
+    "trend": 29,
+    "numdays": 0.3,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "2016-11",
+    "decimaldate": 2016.875,
+    "average": 403.72,
+    "interpolated": 405.74,
+    "trend": 27,
+    "numdays": 0.72,
+    "__parsed_extra": [
+      0.26
+    ]
+  },
+  {
+    "date": "2016-12",
+    "decimaldate": 2016.9583,
+    "average": 404.64,
+    "interpolated": 405.33,
+    "trend": 29,
+    "numdays": 0.44,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "2017-01",
+    "decimaldate": 2017.0417,
+    "average": 406.36,
+    "interpolated": 406.04,
+    "trend": 27,
+    "numdays": 0.68,
+    "__parsed_extra": [
+      0.25
+    ]
+  },
+  {
+    "date": "2017-02",
+    "decimaldate": 2017.125,
+    "average": 406.66,
+    "interpolated": 405.8,
+    "trend": 26,
+    "numdays": 0.71,
+    "__parsed_extra": [
+      0.27
+    ]
+  },
+  {
+    "date": "2017-03",
+    "decimaldate": 2017.2083,
+    "average": 407.54,
+    "interpolated": 406.05,
+    "trend": 24,
+    "numdays": 1.03,
+    "__parsed_extra": [
+      0.4
+    ]
+  },
+  {
+    "date": "2017-04",
+    "decimaldate": 2017.2917,
+    "average": 409.22,
+    "interpolated": 406.37,
+    "trend": 26,
+    "numdays": 0.86,
+    "__parsed_extra": [
+      0.32
+    ]
+  },
+  {
+    "date": "2017-05",
+    "decimaldate": 2017.375,
+    "average": 409.89,
+    "interpolated": 406.37,
+    "trend": 27,
+    "numdays": 0.57,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "2017-06",
+    "decimaldate": 2017.4583,
+    "average": 409.08,
+    "interpolated": 406.68,
+    "trend": 26,
+    "numdays": 0.54,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "2017-07",
+    "decimaldate": 2017.5417,
+    "average": 407.33,
+    "interpolated": 407.01,
+    "trend": 28,
+    "numdays": 0.61,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "2017-08",
+    "decimaldate": 2017.625,
+    "average": 405.32,
+    "interpolated": 407.31,
+    "trend": 29,
+    "numdays": 0.32,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "2017-09",
+    "decimaldate": 2017.7083,
+    "average": 403.57,
+    "interpolated": 407.17,
+    "trend": 26,
+    "numdays": 0.37,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "2017-10",
+    "decimaldate": 2017.7917,
+    "average": 403.82,
+    "interpolated": 407.22,
+    "trend": 27,
+    "numdays": 0.3,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "2017-11",
+    "decimaldate": 2017.875,
+    "average": 405.31,
+    "interpolated": 407.36,
+    "trend": 26,
+    "numdays": 0.41,
+    "__parsed_extra": [
+      0.15
+    ]
+  },
+  {
+    "date": "2017-12",
+    "decimaldate": 2017.9583,
+    "average": 407,
+    "interpolated": 407.71,
+    "trend": 31,
+    "numdays": 0.57,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "2018-01",
+    "decimaldate": 2018.0417,
+    "average": 408.15,
+    "interpolated": 407.83,
+    "trend": 29,
+    "numdays": 0.55,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "2018-02",
+    "decimaldate": 2018.125,
+    "average": 408.52,
+    "interpolated": 407.61,
+    "trend": 28,
+    "numdays": 0.52,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "2018-03",
+    "decimaldate": 2018.2083,
+    "average": 409.59,
+    "interpolated": 408.06,
+    "trend": 29,
+    "numdays": 0.65,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "2018-04",
+    "decimaldate": 2018.2917,
+    "average": 410.45,
+    "interpolated": 407.65,
+    "trend": 21,
+    "numdays": 0.9,
+    "__parsed_extra": [
+      0.38
+    ]
+  },
+  {
+    "date": "2018-05",
+    "decimaldate": 2018.375,
+    "average": 411.44,
+    "interpolated": 407.98,
+    "trend": 24,
+    "numdays": 0.86,
+    "__parsed_extra": [
+      0.33
+    ]
+  },
+  {
+    "date": "2018-06",
+    "decimaldate": 2018.4583,
+    "average": 410.99,
+    "interpolated": 408.6,
+    "trend": 29,
+    "numdays": 0.61,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "2018-07",
+    "decimaldate": 2018.5417,
+    "average": 408.9,
+    "interpolated": 408.6,
+    "trend": 27,
+    "numdays": 0.46,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "2018-08",
+    "decimaldate": 2018.625,
+    "average": 407.16,
+    "interpolated": 409.17,
+    "trend": 31,
+    "numdays": 0.28,
+    "__parsed_extra": [
+      0.1
+    ]
+  },
+  {
+    "date": "2018-09",
+    "decimaldate": 2018.7083,
+    "average": 405.71,
+    "interpolated": 409.3,
+    "trend": 29,
+    "numdays": 0.45,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "2018-10",
+    "decimaldate": 2018.7917,
+    "average": 406.19,
+    "interpolated": 409.56,
+    "trend": 30,
+    "numdays": 0.32,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "2018-11",
+    "decimaldate": 2018.875,
+    "average": 408.21,
+    "interpolated": 410.24,
+    "trend": 24,
+    "numdays": 0.56,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "2018-12",
+    "decimaldate": 2018.9583,
+    "average": 409.27,
+    "interpolated": 409.99,
+    "trend": 30,
+    "numdays": 0.5,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "2019-01",
+    "decimaldate": 2019.0417,
+    "average": 411.03,
+    "interpolated": 410.69,
+    "trend": 26,
+    "numdays": 1.26,
+    "__parsed_extra": [
+      0.47
+    ]
+  },
+  {
+    "date": "2019-02",
+    "decimaldate": 2019.125,
+    "average": 411.96,
+    "interpolated": 410.97,
+    "trend": 27,
+    "numdays": 1.14,
+    "__parsed_extra": [
+      0.42
+    ]
+  },
+  {
+    "date": "2019-03",
+    "decimaldate": 2019.2083,
+    "average": 412.18,
+    "interpolated": 410.71,
+    "trend": 28,
+    "numdays": 1.12,
+    "__parsed_extra": [
+      0.4
+    ]
+  },
+  {
+    "date": "2019-04",
+    "decimaldate": 2019.2917,
+    "average": 413.54,
+    "interpolated": 410.92,
+    "trend": 27,
+    "numdays": 0.6,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "2019-05",
+    "decimaldate": 2019.375,
+    "average": 414.86,
+    "interpolated": 411.47,
+    "trend": 28,
+    "numdays": 0.5,
+    "__parsed_extra": [
+      0.18
+    ]
+  },
+  {
+    "date": "2019-06",
+    "decimaldate": 2019.4583,
+    "average": 414.15,
+    "interpolated": 411.74,
+    "trend": 27,
+    "numdays": 0.36,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "2019-07",
+    "decimaldate": 2019.5417,
+    "average": 411.96,
+    "interpolated": 411.64,
+    "trend": 25,
+    "numdays": 0.81,
+    "__parsed_extra": [
+      0.31
+    ]
+  },
+  {
+    "date": "2019-08",
+    "decimaldate": 2019.625,
+    "average": 410.17,
+    "interpolated": 412.1,
+    "trend": 29,
+    "numdays": 0.32,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "2019-09",
+    "decimaldate": 2019.7083,
+    "average": 408.76,
+    "interpolated": 412.26,
+    "trend": 29,
+    "numdays": 0.35,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "2019-10",
+    "decimaldate": 2019.7917,
+    "average": 408.74,
+    "interpolated": 412.09,
+    "trend": 29,
+    "numdays": 0.31,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "2019-11",
+    "decimaldate": 2019.875,
+    "average": 410.47,
+    "interpolated": 412.5,
+    "trend": 26,
+    "numdays": 0.4,
+    "__parsed_extra": [
+      0.15
+    ]
+  },
+  {
+    "date": "2019-12",
+    "decimaldate": 2019.9583,
+    "average": 411.97,
+    "interpolated": 412.71,
+    "trend": 31,
+    "numdays": 0.4,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "2020-01",
+    "decimaldate": 2020.0417,
+    "average": 413.59,
+    "interpolated": 413.22,
+    "trend": 29,
+    "numdays": 0.73,
+    "__parsed_extra": [
+      0.26
+    ]
+  },
+  {
+    "date": "2020-02",
+    "decimaldate": 2020.125,
+    "average": 414.32,
+    "interpolated": 413.41,
+    "trend": 28,
+    "numdays": 0.69,
+    "__parsed_extra": [
+      0.25
+    ]
+  },
+  {
+    "date": "2020-03",
+    "decimaldate": 2020.2083,
+    "average": 414.71,
+    "interpolated": 413.35,
+    "trend": 26,
+    "numdays": 0.33,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "2020-04",
+    "decimaldate": 2020.2917,
+    "average": 416.42,
+    "interpolated": 413.92,
+    "trend": 28,
+    "numdays": 0.66,
+    "__parsed_extra": [
+      0.24
+    ]
+  },
+  {
+    "date": "2020-05",
+    "decimaldate": 2020.375,
+    "average": 417.28,
+    "interpolated": 413.98,
+    "trend": 27,
+    "numdays": 0.61,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "2020-06",
+    "decimaldate": 2020.4583,
+    "average": 416.58,
+    "interpolated": 414.16,
+    "trend": 27,
+    "numdays": 0.44,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "2020-07",
+    "decimaldate": 2020.5417,
+    "average": 414.58,
+    "interpolated": 414.19,
+    "trend": 30,
+    "numdays": 0.57,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "2020-08",
+    "decimaldate": 2020.625,
+    "average": 412.75,
+    "interpolated": 414.6,
+    "trend": 25,
+    "numdays": 0.25,
+    "__parsed_extra": [
+      0.1
+    ]
+  },
+  {
+    "date": "2020-09",
+    "decimaldate": 2020.7083,
+    "average": 411.49,
+    "interpolated": 414.9,
+    "trend": 29,
+    "numdays": 0.31,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "2020-10",
+    "decimaldate": 2020.7917,
+    "average": 411.48,
+    "interpolated": 414.79,
+    "trend": 30,
+    "numdays": 0.22,
+    "__parsed_extra": [
+      0.08
+    ]
+  },
+  {
+    "date": "2020-11",
+    "decimaldate": 2020.875,
+    "average": 413.1,
+    "interpolated": 415.12,
+    "trend": 27,
+    "numdays": 0.81,
+    "__parsed_extra": [
+      0.3
+    ]
+  },
+  {
+    "date": "2020-12",
+    "decimaldate": 2020.9583,
+    "average": 414.23,
+    "interpolated": 414.91,
+    "trend": 30,
+    "numdays": 0.48,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "2021-01",
+    "decimaldate": 2021.0417,
+    "average": 415.49,
+    "interpolated": 415.21,
+    "trend": 29,
+    "numdays": 0.44,
+    "__parsed_extra": [
+      0.16
+    ]
+  },
+  {
+    "date": "2021-02",
+    "decimaldate": 2021.125,
+    "average": 416.72,
+    "interpolated": 415.87,
+    "trend": 28,
+    "numdays": 1.02,
+    "__parsed_extra": [
+      0.37
+    ]
+  },
+  {
+    "date": "2021-03",
+    "decimaldate": 2021.2083,
+    "average": 417.61,
+    "interpolated": 416.21,
+    "trend": 28,
+    "numdays": 0.86,
+    "__parsed_extra": [
+      0.31
+    ]
+  },
+  {
+    "date": "2021-04",
+    "decimaldate": 2021.2917,
+    "average": 419.01,
+    "interpolated": 416.4,
+    "trend": 24,
+    "numdays": 1.12,
+    "__parsed_extra": [
+      0.44
+    ]
+  },
+  {
+    "date": "2021-05",
+    "decimaldate": 2021.375,
+    "average": 419.09,
+    "interpolated": 415.69,
+    "trend": 28,
+    "numdays": 0.9,
+    "__parsed_extra": [
+      0.32
+    ]
+  },
+  {
+    "date": "2021-06",
+    "decimaldate": 2021.4583,
+    "average": 418.92,
+    "interpolated": 416.49,
+    "trend": 29,
+    "numdays": 0.64,
+    "__parsed_extra": [
+      0.23
+    ]
+  },
+  {
+    "date": "2021-07",
+    "decimaldate": 2021.5417,
+    "average": 416.9,
+    "interpolated": 416.54,
+    "trend": 31,
+    "numdays": 0.71,
+    "__parsed_extra": [
+      0.24
+    ]
+  },
+  {
+    "date": "2021-08",
+    "decimaldate": 2021.625,
+    "average": 414.42,
+    "interpolated": 416.31,
+    "trend": 25,
+    "numdays": 0.74,
+    "__parsed_extra": [
+      0.28
+    ]
+  },
+  {
+    "date": "2021-09",
+    "decimaldate": 2021.7083,
+    "average": 413.26,
+    "interpolated": 416.72,
+    "trend": 27,
+    "numdays": 0.29,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "2021-10",
+    "decimaldate": 2021.7917,
+    "average": 413.9,
+    "interpolated": 417.19,
+    "trend": 29,
+    "numdays": 0.35,
+    "__parsed_extra": [
+      0.12
+    ]
+  },
+  {
+    "date": "2021-11",
+    "decimaldate": 2021.875,
+    "average": 414.97,
+    "interpolated": 416.94,
+    "trend": 30,
+    "numdays": 0.36,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "2021-12",
+    "decimaldate": 2021.9583,
+    "average": 416.67,
+    "interpolated": 417.38,
+    "trend": 28,
+    "numdays": 0.48,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "2022-01",
+    "decimaldate": 2022.0417,
+    "average": 418.13,
+    "interpolated": 417.85,
+    "trend": 30,
+    "numdays": 0.72,
+    "__parsed_extra": [
+      0.25
+    ]
+  },
+  {
+    "date": "2022-02",
+    "decimaldate": 2022.125,
+    "average": 419.24,
+    "interpolated": 418.38,
+    "trend": 27,
+    "numdays": 0.92,
+    "__parsed_extra": [
+      0.34
+    ]
+  },
+  {
+    "date": "2022-03",
+    "decimaldate": 2022.2083,
+    "average": 418.76,
+    "interpolated": 417.37,
+    "trend": 30,
+    "numdays": 0.78,
+    "__parsed_extra": [
+      0.27
+    ]
+  },
+  {
+    "date": "2022-04",
+    "decimaldate": 2022.2917,
+    "average": 420.19,
+    "interpolated": 417.58,
+    "trend": 28,
+    "numdays": 0.86,
+    "__parsed_extra": [
+      0.31
+    ]
+  },
+  {
+    "date": "2022-05",
+    "decimaldate": 2022.375,
+    "average": 420.97,
+    "interpolated": 417.57,
+    "trend": 31,
+    "numdays": 0.75,
+    "__parsed_extra": [
+      0.26
+    ]
+  },
+  {
+    "date": "2022-06",
+    "decimaldate": 2022.4583,
+    "average": 420.94,
+    "interpolated": 418.51,
+    "trend": 28,
+    "numdays": 0.3,
+    "__parsed_extra": [
+      0.11
+    ]
+  },
+  {
+    "date": "2022-07",
+    "decimaldate": 2022.5417,
+    "average": 418.85,
+    "interpolated": 418.49,
+    "trend": 27,
+    "numdays": 0.57,
+    "__parsed_extra": [
+      0.21
+    ]
+  },
+  {
+    "date": "2022-08",
+    "decimaldate": 2022.625,
+    "average": 417.15,
+    "interpolated": 419.04,
+    "trend": 27,
+    "numdays": 0.37,
+    "__parsed_extra": [
+      0.13
+    ]
+  },
+  {
+    "date": "2022-09",
+    "decimaldate": 2022.7083,
+    "average": 415.91,
+    "interpolated": 419.36,
+    "trend": 28,
+    "numdays": 0.41,
+    "__parsed_extra": [
+      0.15
+    ]
+  },
+  {
+    "date": "2022-10",
+    "decimaldate": 2022.7917,
+    "average": 415.74,
+    "interpolated": 419.03,
+    "trend": 30,
+    "numdays": 0.27,
+    "__parsed_extra": [
+      0.1
+    ]
+  },
+  {
+    "date": "2022-11",
+    "decimaldate": 2022.875,
+    "average": 417.47,
+    "interpolated": 419.44,
+    "trend": 25,
+    "numdays": 0.52,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "2022-12",
+    "decimaldate": 2022.9583,
+    "average": 418.99,
+    "interpolated": 419.7,
+    "trend": 24,
+    "numdays": 0.57,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "2023-01",
+    "decimaldate": 2023.0417,
+    "average": 419.48,
+    "interpolated": 419.21,
+    "trend": 31,
+    "numdays": 0.42,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "2023-02",
+    "decimaldate": 2023.125,
+    "average": 420.3,
+    "interpolated": 419.45,
+    "trend": 23,
+    "numdays": 0.71,
+    "__parsed_extra": [
+      0.28
+    ]
+  },
+  {
+    "date": "2023-03",
+    "decimaldate": 2023.2083,
+    "average": 420.98,
+    "interpolated": 419.59,
+    "trend": 30,
+    "numdays": 0.74,
+    "__parsed_extra": [
+      0.26
+    ]
+  },
+  {
+    "date": "2023-04",
+    "decimaldate": 2023.2917,
+    "average": 423.35,
+    "interpolated": 420.74,
+    "trend": 28,
+    "numdays": 0.61,
+    "__parsed_extra": [
+      0.22
+    ]
+  },
+  {
+    "date": "2023-05",
+    "decimaldate": 2023.375,
+    "average": 424,
+    "interpolated": 420.6,
+    "trend": 31,
+    "numdays": 0.69,
+    "__parsed_extra": [
+      0.24
+    ]
+  },
+  {
+    "date": "2023-06",
+    "decimaldate": 2023.4583,
+    "average": 423.68,
+    "interpolated": 421.25,
+    "trend": 29,
+    "numdays": 0.57,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "2023-07",
+    "decimaldate": 2023.5417,
+    "average": 421.83,
+    "interpolated": 421.47,
+    "trend": 21,
+    "numdays": 0.48,
+    "__parsed_extra": [
+      0.2
+    ]
+  },
+  {
+    "date": "2023-08",
+    "decimaldate": 2023.625,
+    "average": 419.68,
+    "interpolated": 421.58,
+    "trend": 21,
+    "numdays": 0.45,
+    "__parsed_extra": [
+      0.19
+    ]
+  },
+  {
+    "date": "2023-09",
+    "decimaldate": 2023.7083,
+    "average": 418.51,
+    "interpolated": 421.96,
+    "trend": 18,
+    "numdays": 0.3,
+    "__parsed_extra": [
+      0.14
+    ]
+  },
+  {
+    "date": "2023-10",
+    "decimaldate": 2023.7917,
+    "average": 418.82,
+    "interpolated": 422.12,
+    "trend": 27,
+    "numdays": 0.47,
+    "__parsed_extra": [
+      0.17
+    ]
+  },
+  {
+    "date": "2023-11",
+    "decimaldate": 2023.875,
+    "average": 420.46,
+    "interpolated": 422.43,
+    "trend": 21,
+    "numdays": 0.91,
+    "__parsed_extra": [
+      0.38
+    ]
+  },
+  {
+    "date": "2023-12",
+    "decimaldate": 2023.9583,
+    "average": 421.86,
+    "interpolated": 422.56,
+    "trend": 20,
+    "numdays": 0.7,
+    "__parsed_extra": [
+      0.3
+    ]
+  },
+  {
+    "date": "2024-01",
+    "decimaldate": 2024.0417,
+    "average": 422.8,
+    "interpolated": 422.53,
+    "trend": 27,
+    "numdays": 0.6,
+    "__parsed_extra": [
+      0.22
+    ]
+  }
+]
