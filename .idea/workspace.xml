@@ -78,40 +78,40 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Node.js.dom.js.executor": "Debug",
-    "Node.js.parameterize-b.js.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "eslint.code.style.apply.dismiss": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/mcr/Library/Mobile Documents/com~apple~CloudDocs/mcad/2-ws-2024/programming-for-web/week-10",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
-    "node.js.detected.package.stylelint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.standard": "",
-    "node.js.selected.package.stylelint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.editor",
-    "settings.editor.splitter.proportion": "0.160383",
-    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Node.js.dom.js.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.parameterize-b.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;eslint.code.style.apply.dismiss&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mcr/Library/Mobile Documents/com~apple~CloudDocs/mcad/2-ws-2024/programming-for-web/week-10&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.160383&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>
@@ -129,11 +129,11 @@
       <recent name="$PROJECT_DIR$/week-8/8-a-duplicate-delete/public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week-14-15/final-climate-data/src/assets" />
       <recent name="$PROJECT_DIR$/week-14-15/fp-climate-data-visualization/src/assets" />
       <recent name="$PROJECT_DIR$/week-12/12-2-samples" />
       <recent name="$PROJECT_DIR$/week-8/8-a-duplicate-delete/src/assets" />
       <recent name="$PROJECT_DIR$/week-8/8-2-pass-events-thru-components/src" />
-      <recent name="$PROJECT_DIR$/week-8/8-1-swap-images-using-state/src/assets" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.parameterize-b.js">
@@ -153,7 +153,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-WS-241.14494.235" />
+        <option value="bundled-js-predefined-1d06a55b98c1-2e7d6887c066-JavaScript-WS-241.15989.47" />
       </set>
     </attachedChunks>
   </component>
@@ -212,15 +212,8 @@
       <workItem from="1714097138860" duration="664000" />
       <workItem from="1714318780771" duration="9021000" />
       <workItem from="1714424331877" duration="4127000" />
-      <workItem from="1714681713101" duration="23113000" />
-    </task>
-    <task id="LOCAL-00002" summary="initial commit, getting things set up">
-      <option name="closed" value="true" />
-      <created>1705535879671</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1705535879671</updated>
+      <workItem from="1714681713101" duration="29112000" />
+      <workItem from="1714950694612" duration="8210000" />
     </task>
     <task id="LOCAL-00003" summary="initial commit, getting things set up">
       <option name="closed" value="true" />
@@ -606,7 +599,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714425032002</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="final project progress... not there yet though">
+      <option name="closed" value="true" />
+      <created>1714874120981</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1714874120981</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -653,7 +654,6 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="project 8.a setup complete" />
     <MESSAGE value="8.a progress...not quite there though" />
     <MESSAGE value="8.a update, still working" />
     <MESSAGE value="8.a complete" />
@@ -678,7 +678,8 @@
     <MESSAGE value="13.2 complete + homepage update" />
     <MESSAGE value="13.a complete + homepage update" />
     <MESSAGE value="update json data formatting for final project" />
-    <option name="LAST_COMMIT_MESSAGE" value="update json data formatting for final project" />
+    <MESSAGE value="final project progress... not there yet though" />
+    <option name="LAST_COMMIT_MESSAGE" value="final project progress... not there yet though" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
