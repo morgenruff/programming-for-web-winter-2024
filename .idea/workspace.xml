@@ -227,15 +227,7 @@
       <workItem from="1714681713101" duration="29112000" />
       <workItem from="1714950694612" duration="10231000" />
       <workItem from="1715029917463" duration="460000" />
-      <workItem from="1715030505682" duration="17711000" />
-    </task>
-    <task id="LOCAL-00004" summary="initial commit, getting things set up">
-      <option name="closed" value="true" />
-      <created>1705536108843</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1705536108843</updated>
+      <workItem from="1715030505682" duration="18022000" />
     </task>
     <task id="LOCAL-00005" summary="initial commit, getting things set up">
       <option name="closed" value="true" />
@@ -621,7 +613,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714962041432</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="npm run build on final project!">
+      <option name="closed" value="true" />
+      <created>1715048950206</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1715048950206</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -668,7 +668,6 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="8.a update, still working" />
     <MESSAGE value="8.a complete" />
     <MESSAGE value="8.a complete + homepage update" />
     <MESSAGE value="week 9 spread op &amp; gathering data demos complete" />
@@ -693,7 +692,8 @@
     <MESSAGE value="update json data formatting for final project" />
     <MESSAGE value="final project progress... not there yet though" />
     <MESSAGE value="many failures..." />
-    <option name="LAST_COMMIT_MESSAGE" value="many failures..." />
+    <MESSAGE value="npm run build on final project!" />
+    <option name="LAST_COMMIT_MESSAGE" value="npm run build on final project!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
