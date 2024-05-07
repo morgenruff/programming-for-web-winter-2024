@@ -1,0 +1,80 @@
+@font-face {
+  font-family: "ABC Diatype Variable Edu";
+  src:
+    url("assets/typography/ABCDiatypeVariableEdu-Regular.woff2") format("woff2");
+}
+
+:root {
+  --c-blue: #0004e0;
+  --c-dark-green: #0d2d07;
+  --c-lavender: #8e7c93;
+  --c-gray: #d6dad2;
+  font-family: "ABC Diatype Variable Edu";
+  font-feature-settings: "liga", "ss01", "ss02", "ss03", "ss04", "ss05", "ss06", "ss07", "ss08", "ss09", "ss12", "zero";
+  line-height: 1.2;
+  color-scheme: light dark;
+  color: var(--c-dark-green);
+  background-color: var(--c-gray);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: var(--c-blue);
+  text-decoration: inherit;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  /*place-items: center;*/
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+.header-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  font-size: 2em;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: var(--c-lavender);
+  color: var(--c-gray);
+  padding: 1rem;
+}
+
+.intro {
+  padding: 1rem;
+  font-size: 0.9rem;
+  line-height: 1.5rem;
+  font-weight: 500;
+  background-color: var(--c-dark-green);
+  color: var(--c-gray);
+}
+
+/*button {*/
+/*  border-radius: 8px;*/
+/*  border: 1px solid transparent;*/
+/*  padding: 0.6em 1.2em;*/
+/*  font-size: 1em;*/
+/*  font-weight: 500;*/
+/*  font-family: inherit;*/
+/*  background-color: #1a1a1a;*/
+/*  cursor: pointer;*/
+/*  transition: border-color 0.25s;*/
+/*}*/
+/*button:hover {*/
+/*  border-color: #646cff;*/
+/*}*/
+/*button:focus,*/
+/*button:focus-visible {*/
+/*  outline: 4px auto -webkit-focus-ring-color;*/
+/*}*/

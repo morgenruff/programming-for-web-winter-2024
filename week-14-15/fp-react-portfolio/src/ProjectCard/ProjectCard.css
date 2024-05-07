@@ -1,0 +1,68 @@
+.projectCard {
+	margin: 1rem auto;
+	overflow: hidden;
+	max-width: 97vw;
+	margin-bottom: 2rem;
+	display: grid;
+	grid-template-columns: 3fr 1fr;
+	grid-template-rows: auto;
+	grid-template-areas:
+					"title title title date"
+					"statement statement statement type"
+					"tools tools tools link"
+					"img1 img1 img1 img1"
+					"img2 img2 img2 img2";
+	border-left: 2px solid var(--c-dark-green);
+	border-right: 2px solid var(--c-dark-green);
+	border-bottom: 2px solid var(--c-dark-green);
+}
+.grid-item {
+	width: auto;
+	margin: 0;
+	border-top: 2px solid var(--c-dark-green);
+}
+.text-item {
+	padding: 0.5rem;
+}
+.projectTitle {
+	grid-area: title;
+	font-variation-settings: "wght" 700;
+	border-right: 2px solid var(--c-dark-green);
+}
+.projectTitle:hover,
+.projectLink:hover {
+	background-color: var(--c-lavender);
+	& a {
+		color: var(--c-gray);
+	}
+}
+.projectStatement {
+	grid-area: statement;
+	border-right: 2px solid var(--c-dark-green);
+}
+.projectLink {
+	grid-area: link;
+	font-variation-settings: "wght" 500;
+}
+.projectMediaType {
+	grid-area: type;
+}
+.projectTools {
+	grid-area: tools;
+	border-right: 2px solid var(--c-dark-green);
+}
+.projectDate {
+	grid-area: date;
+	color: var(--c-lavender);
+	background-color: var(--c-dark-green);
+}
+.requiredImg {
+	grid-area: img1;
+	width: 100%;
+	justify-self: center;
+}
+.optionalImg {
+	grid-area: img2;
+	max-width: 100%;
+	justify-self: center;
+}

@@ -1,4 +1,5 @@
-.idea
+.idea/*
+!.idea/rcb-settings.xml
 .nova
 .zed
 .DS_Store

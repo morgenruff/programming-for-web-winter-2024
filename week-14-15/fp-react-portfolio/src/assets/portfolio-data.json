@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Restaurant Branding - Reap",
+    "media": "Identity",
+    "statement": "Designed a restaurant brand identity from conception to execution, including restaurant framework (food type, audience, location), logo, several visual assets, and presented the final work.",
+    "image1": "./img/morgen-ruff-reap-menu-mockup.png",
+    "image2": "./img/morgen-ruff-reap-window-mockup-v3.jpg",
+    "date": "2024-04",
+    "url": "#",
+    "tools": "Adobe Illustrator, Photoshop, InDesign, Premiere Pro",
+    "id": "1"
+  },
+  {
+    "title": "Editorial Design - Intertwine Magazine",
+    "media": "Editorial",
+    "statement": "Designed a magazine from conception to execution, including masthead, visual elements, cover, table of contents, feature article, and overarching style guide. Researched audience, competition, and market fit. Mocked up print visuals, and made a final presentation of the magazine design process and final product.",
+    "image1": "./img/morgen-ruff-intertwine-spread-mockup.png",
+    "image2": "./img/morgen-ruff-intertwine-cover-mockup.png",
+    "date": "2024-05",
+    "url": "#",
+    "tools": "Abode Illustrator, Photoshop, InDesign, Premiere Pro",
+    "id": "2"
+  },
+  {
+    "title": "Website Recreation & Style Guide - Set Margins Publications",
+    "media": "Web",
+    "statement": "Tasked with recreating the visual layout of a website of my choice, using HTML for structure and responsive CSS (with Flexbox and Grid) for styling. I chose Set Margins Publications website, a publisher of design books in the Netherlands. Got really close to the real thing, minus a few tiny little details.",
+    "image1": "./img/set-margins-case-study-desktop.jpeg",
+    "image2": "./img/set-margins-case-study-mobile.png",
+    "date": "2024-01",
+    "url": "https://morgenruff.github.io/set-margins-case-study/",
+    "tools": "HTML/CSS (Flexbox, Grid, Responsive)",
+    "id": "3"
+  },
+  {
+    "title": "p5.js Parameter Examples",
+    "media": "Web",
+    "statement": "Created three iterations visualizing the concept/use of parameters in the p5.js library. Worked with color, shape, size, scale, animation, and relationship to create compelling web graphics.",
+    "image1": "./img/parameterize-2.png",
+    "image2": "./img/parameterize-1.png",
+    "date": "2024-03",
+    "url": "https://morgenruff.github.io/programming-for-web-winter-2024/week-11/11-a-computational-aesthetics/index-b.html",
+    "tools": "JavaScript/p5.js",
+    "id": "4"
+  },
+  {
+    "title": "p5.js Iteration Example",
+    "media": "Web",
+    "statement": "Using the p5.js library, created an animated web graphic illustrating the concept of iteration, working with color, shape, size, and scale to create a visually compelling graphic.",
+    "image1": "./img/iteration.png",
+    "date": "2024-03",
+    "url": "https://morgenruff.github.io/programming-for-web-winter-2024/week-11/11-2-iteration/index.html",
+    "tools": "JavaScript/p5.js",
+    "id": "5"
+  },
+  {
+    "title": "p5.js Natural Emulation Example",
+    "media": "Web",
+    "statement": "Using the p5.js library, created an example of natural emulation, snow tumbling down a slight incline, or wind flows in an enclosed space.",
+    "image1": "./img/natural-emulation.png",
+    "date": "2024-04",
+    "url": "https://morgenruff.github.io/programming-for-web-winter-2024/week-13/13-a-natural-emulation/index.html",
+    "tools": "JavaScript/p5.js",
+    "id": "6"
+  },
+  {
+    "title": "p5.js Oscillation Example",
+    "media": "Web",
+    "statement": "Using the p5.js library, created an example of oscillation using sine math.",
+    "image1": "./img/oscillation-sine.jpeg",
+    "date": "2024-04",
+    "url": "https://morgenruff.github.io/programming-for-web-winter-2024/week-13/13-2-oscillation/index.html",
+    "tools": "JavaScript/p5.js",
+    "id": "7"
+  },
+  {
+    "title": "Expressive Type Mural",
+    "media": "Digital",
+    "statement": "Using a word of my choice, created an expressive type mural that signifies the meaning of the word through typeface choice, color, layout, orientation, and hierarchy.",
+    "image1": "./img/morgen-ruff-expressive-type-mural-v2.png",
+    "date": "2024-02",
+    "url": "#",
+    "tools": "Adobe Illustrator",
+    "id": "8"
+  },
+  {
+    "title": "Typographic Heirarchy Poster - Film Festival",
+    "media": "Print/Digital",
+    "statement": "Using only typography, created a poster for a fictional film festival. Considered typeface choice, scale, hierarchy, orientation, color, contrast, readability, and intended audience.",
+    "image1": "./img/morgen-ruff-hierarchy-poster-v6.jpg",
+    "date": "2024-02",
+    "url": "#",
+    "tools": "Abode InDesign",
+    "id": "9"
+  },
+  {
+    "title": "Typographic Forms Exercise",
+    "media": "Digital",
+    "statement": "Tasked with using type expressively in a 3x3 grid in only black & white, I worked with typeface, glyphs, orientation, scale, and relationship to create a dynamic mural through type.",
+    "image1": "./img/2-morgen-ruff-typographic-forms-v2.png",
+    "date": "2024-02",
+    "url": "#",
+    "tools": "Adobe Illustrator",
+    "id": "10"
+  }
+]
