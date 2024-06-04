@@ -215,15 +215,7 @@
       <workItem from="1715029917463" duration="460000" />
       <workItem from="1715030505682" duration="18139000" />
       <workItem from="1715049159091" duration="111000" />
-      <workItem from="1717522422951" duration="891000" />
-    </task>
-    <task id="LOCAL-00007" summary="initial commit, getting things set up">
-      <option name="closed" value="true" />
-      <created>1705538246355</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1705538246355</updated>
+      <workItem from="1717522422951" duration="1687000" />
     </task>
     <task id="LOCAL-00008" summary=".gitignore updates">
       <option name="closed" value="true" />
@@ -609,7 +601,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717523214747</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="workspace update">
+      <option name="closed" value="true" />
+      <created>1717523329538</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1717523329538</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -656,7 +656,6 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="week 9 spread op &amp; gathering data demos complete" />
     <MESSAGE value="week 9 demos complete" />
     <MESSAGE value="9.1 complete + homepage update" />
     <MESSAGE value="9.1 build step" />
@@ -681,7 +680,8 @@
     <MESSAGE value="npm run build on final project!" />
     <MESSAGE value="config" />
     <MESSAGE value="width updates - better display" />
-    <option name="LAST_COMMIT_MESSAGE" value="width updates - better display" />
+    <MESSAGE value="workspace update" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
