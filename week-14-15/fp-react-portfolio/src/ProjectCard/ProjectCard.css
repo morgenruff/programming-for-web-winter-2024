@@ -1,7 +1,10 @@
 .projectCard {
-	margin: 1rem auto;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	margin-left: auto;
+	margin-right: auto;
 	overflow: hidden;
-	max-width: 97vw;
+	width: 80%;
 	margin-bottom: 2rem;
 	display: grid;
 	grid-template-columns: 3fr 1fr;

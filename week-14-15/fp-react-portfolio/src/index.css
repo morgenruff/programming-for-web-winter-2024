@@ -45,14 +45,19 @@ h1 {
   padding: 0;
 }
 
-.header {
-  background-color: var(--c-lavender);
-  color: var(--c-gray);
+.header,
+.intro {
+  margin: 0 auto;
+  width: 80%;
   padding: 1rem;
 }
 
+.header {
+  background-color: var(--c-lavender);
+  color: var(--c-gray);
+}
+
 .intro {
-  padding: 1rem;
   font-size: 0.9rem;
   line-height: 1.5rem;
   font-weight: 500;

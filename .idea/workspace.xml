@@ -6,21 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="24853dbb-994b-4f96-9082-5c026d3032db" name="Changes" comment="homepage update 8.1">
       <changelist_data name="Morgen Ruff" email="" />
-      <change afterPath="$PROJECT_DIR$/.estlintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week-11/11-2-iteration/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week-11/11-2-iteration/iteration.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week-11/11-2-iteration/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-10/10-a-spa-collection/src/assets/briefcase-svgrepo-com.svg" beforeDir="false" afterPath="$PROJECT_DIR$/week-10/10-a-spa-collection/src/assets/briefcase-svgrepo-com.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-10/10-a-spa-collection/src/assets/rotate-right-svgrepo-com.svg" beforeDir="false" afterPath="$PROJECT_DIR$/week-10/10-a-spa-collection/src/assets/rotate-right-svgrepo-com.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-10/10-a-spa-collection/src/assets/star-svgrepo-com.svg" beforeDir="false" afterPath="$PROJECT_DIR$/week-10/10-a-spa-collection/src/assets/star-svgrepo-com.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-10/10-a-spa-collection/src/assets/sync-svgrepo-com.svg" beforeDir="false" afterPath="$PROJECT_DIR$/week-10/10-a-spa-collection/src/assets/sync-svgrepo-com.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-10/10-a-spa-collection/src/assets/trash-svgrepo-com.svg" beforeDir="false" afterPath="$PROJECT_DIR$/week-10/10-a-spa-collection/src/assets/trash-svgrepo-com.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-9/9-a-add-new-items/src/assets/briefcase-svgrepo-com.svg" beforeDir="false" afterPath="$PROJECT_DIR$/week-9/9-a-add-new-items/src/assets/briefcase-svgrepo-com.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-9/9-a-add-new-items/src/assets/rotate-right-svgrepo-com.svg" beforeDir="false" afterPath="$PROJECT_DIR$/week-9/9-a-add-new-items/src/assets/rotate-right-svgrepo-com.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-9/9-a-add-new-items/src/assets/star-svgrepo-com.svg" beforeDir="false" afterPath="$PROJECT_DIR$/week-9/9-a-add-new-items/src/assets/star-svgrepo-com.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-9/9-a-add-new-items/src/assets/sync-svgrepo-com.svg" beforeDir="false" afterPath="$PROJECT_DIR$/week-9/9-a-add-new-items/src/assets/sync-svgrepo-com.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-9/9-a-add-new-items/src/assets/trash-svgrepo-com.svg" beforeDir="false" afterPath="$PROJECT_DIR$/week-9/9-a-add-new-items/src/assets/trash-svgrepo-com.svg" afterDir="false" />
     </list>
     <list id="ad46af30-7d28-4831-a96c-3edbb222a845" name="changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,41 +75,41 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Node.js.dom.js.executor": "Debug",
-    "Node.js.parameterize-b.js.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "eslint.code.style.apply.dismiss": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/mcr/Library/Mobile Documents/com~apple~CloudDocs/mcad/2-ws-2024/programming-for-web/week-10",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
-    "node.js.detected.package.stylelint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.standard": "",
-    "node.js.selected.package.stylelint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.React Buddy Preview.executor": "Run",
-    "settings.editor.selected.configurable": "preferences.rainbow.brackets.color",
-    "settings.editor.splitter.proportion": "0.160383",
-    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Node.js.dom.js.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.parameterize-b.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;eslint.code.style.apply.dismiss&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mcr/Library/Mobile Documents/com~apple~CloudDocs/mcad/2-ws-2024/programming-for-web/week-10&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.React Buddy Preview.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.rainbow.brackets.color&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.160383&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>
@@ -165,7 +151,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-2e7d6887c066-JavaScript-WS-241.15989.47" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.17011.90" />
       </set>
     </attachedChunks>
   </component>
@@ -227,15 +213,9 @@
       <workItem from="1714681713101" duration="29112000" />
       <workItem from="1714950694612" duration="10231000" />
       <workItem from="1715029917463" duration="460000" />
-      <workItem from="1715030505682" duration="18022000" />
-    </task>
-    <task id="LOCAL-00005" summary="initial commit, getting things set up">
-      <option name="closed" value="true" />
-      <created>1705537446458</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1705537446458</updated>
+      <workItem from="1715030505682" duration="18139000" />
+      <workItem from="1715049159091" duration="111000" />
+      <workItem from="1717522422951" duration="719000" />
     </task>
     <task id="LOCAL-00006" summary="initial commit, getting things set up">
       <option name="closed" value="true" />
@@ -621,7 +601,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715048950206</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="config">
+      <option name="closed" value="true" />
+      <created>1715049067221</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1715049067221</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -668,7 +656,6 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="8.a complete" />
     <MESSAGE value="8.a complete + homepage update" />
     <MESSAGE value="week 9 spread op &amp; gathering data demos complete" />
     <MESSAGE value="week 9 demos complete" />
@@ -693,7 +680,8 @@
     <MESSAGE value="final project progress... not there yet though" />
     <MESSAGE value="many failures..." />
     <MESSAGE value="npm run build on final project!" />
-    <option name="LAST_COMMIT_MESSAGE" value="npm run build on final project!" />
+    <MESSAGE value="config" />
+    <option name="LAST_COMMIT_MESSAGE" value="config" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
