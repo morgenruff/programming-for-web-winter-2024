@@ -63,7 +63,7 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
+  &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2b3uYlTgY0xmTvwdIB7mQFVhS1P" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -74,6 +74,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
@@ -84,6 +85,7 @@
     "Node.js.parameterize-b.js.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
     "eslint.code.style.apply.dismiss": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/mcr/Library/Mobile Documents/com~apple~CloudDocs/mcad/2-ws-2024/programming-for-web/week-10",
@@ -97,7 +99,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "npm.React Buddy Preview.executor": "Run",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "settings.editor.splitter.proportion": "0.160383",
     "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
@@ -134,16 +136,12 @@
       <recent name="$PROJECT_DIR$/week-14-15/fp-climate-data-visualization/src/assets" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.parameterize-b.js">
+  <component name="RunManager">
     <configuration name="dom.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/week-4/4-1-dom/dom.js" working-dir="$PROJECT_DIR$/week-4/4-1-dom">
-      <method v="2" />
-    </configuration>
-    <configuration name="parameterize-b.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/week-11/11-a-computational-aesthetics/parameterize-b.js" working-dir="$PROJECT_DIR$/week-11/11-a-computational-aesthetics">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.parameterize-b.js" />
         <item itemvalue="Node.js.dom.js" />
       </list>
     </recent_temporary>
@@ -151,7 +149,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.17011.90" />
+        <option value="bundled-js-predefined-1d06a55b98c1-2e7d6887c066-JavaScript-WS-241.15989.47" />
       </set>
     </attachedChunks>
   </component>
@@ -215,15 +213,18 @@
       <workItem from="1715029917463" duration="460000" />
       <workItem from="1715030505682" duration="18139000" />
       <workItem from="1715049159091" duration="111000" />
-      <workItem from="1717522422951" duration="1687000" />
-    </task>
-    <task id="LOCAL-00008" summary=".gitignore updates">
-      <option name="closed" value="true" />
-      <created>1705538338311</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1705538338311</updated>
+      <workItem from="1717522422951" duration="4031000" />
+      <workItem from="1717618971462" duration="1406000" />
+      <workItem from="1717707736229" duration="2055000" />
+      <workItem from="1718643305625" duration="69000" />
+      <workItem from="1718643380081" duration="1321000" />
+      <workItem from="1720990833100" duration="117000" />
+      <workItem from="1721241180321" duration="9000" />
+      <workItem from="1721252705251" duration="766000" />
+      <workItem from="1721257985077" duration="34000" />
+      <workItem from="1721272294964" duration="327000" />
+      <workItem from="1721409834867" duration="54000" />
+      <workItem from="1721409893721" duration="63000" />
     </task>
     <task id="LOCAL-00009" summary="removed files">
       <option name="closed" value="true" />
@@ -609,7 +610,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717523329538</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="navlink update">
+      <option name="closed" value="true" />
+      <created>1717526120185</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1717526120185</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -656,7 +665,6 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="week 9 demos complete" />
     <MESSAGE value="9.1 complete + homepage update" />
     <MESSAGE value="9.1 build step" />
     <MESSAGE value="work on form validation..." />
@@ -681,7 +689,8 @@
     <MESSAGE value="config" />
     <MESSAGE value="width updates - better display" />
     <MESSAGE value="workspace update" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace update" />
+    <MESSAGE value="navlink update" />
+    <option name="LAST_COMMIT_MESSAGE" value="navlink update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
